@@ -1,0 +1,433 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+South Korea,2021-02-26,Oxford/AstraZeneca,https://ncv.kdca.go.kr/,49046,38269,10819,0
+South Korea,2021-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,50979,40000,11023,0
+South Korea,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,52101,41022,11123,0
+South Korea,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,54257,42940,11366,0
+South Korea,2021-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120748,109149,11650,1
+South Korea,2021-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,190405,178520,11940,1
+South Korea,2021-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,261587,249213,12439,1
+South Korea,2021-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,333115,320350,12840,1
+South Korea,2021-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,351707,338810,12996,1
+South Korea,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,354191,341228,13083,1
+South Korea,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,422501,409318,13334,1
+South Korea,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,487174,473568,13780,1
+South Korea,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,542449,528561,14333,1
+South Korea,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,588275,573978,14975,1
+South Korea,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,627760,613139,15551,1
+South Korea,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,632360,617603,15750,1
+South Korea,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,634222,619390,15881,1
+South Korea,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,648648,633553,17042,1
+South Korea,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,669452,654021,18066,1
+South Korea,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,691135,675407,18972,1
+South Korea,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,712370,696142,19852,1
+South Korea,2021-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,731288,714659,20842,1
+South Korea,2021-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,733758,716627,21371,1
+South Korea,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,734981,717426,21814,1
+South Korea,2021-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,740428,722280,22564,1
+South Korea,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,763072,743848,23853,1
+South Korea,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,794046,773236,25466,1
+South Korea,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,829513,807045,27414,1
+South Korea,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,857131,832816,29512,1
+South Korea,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,859951,835285,29891,1
+South Korea,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,861040,836133,30141,1
+South Korea,2021-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,889197,862877,31579,1
+South Korea,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,920662,891645,34318,1
+South Korea,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,949940,915559,39732,1
+South Korea,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,995885,953606,47750,1
+South Korea,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1043714,994313,55439,1
+South Korea,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1054189,1003911,56405,1
+South Korea,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1055690,1005158,56701,1
+South Korea,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1094383,1043143,58463,1
+South Korea,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1140983,1083165,65975,1
+South Korea,2021-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1190463,1122743,77234,1
+South Korea,2021-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1240530,1162237,89183,1
+South Korea,2021-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1285222,1198691,99030,1
+South Korea,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1297387,1209295,101321,2
+South Korea,2021-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1298994,1210519,101793,2
+South Korea,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1340410,1251147,104264,2
+South Korea,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1387218,1297187,106054,2
+South Korea,2021-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1435381,1344378,107034,2
+South Korea,2021-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1530459,1438530,107964,2
+South Korea,2021-04-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1635846,1542631,109265,2
+South Korea,2021-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1666994,1573086,109962,2
+South Korea,2021-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1673029,1578700,110388,2
+South Korea,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1797042,1701821,111284,2
+South Korea,2021-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,1929761,1833387,112441,2
+South Korea,2021-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2064498,1966700,113891,2
+South Korea,2021-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2216834,2099333,133597,2
+South Korea,2021-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2398315,2260082,154339,2
+South Korea,2021-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2470902,2326015,160996,2
+South Korea,2021-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2479016,2333187,161944,2
+South Korea,2021-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2644495,2476197,184428,2
+South Korea,2021-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,2844447,2653231,207383,2
+South Korea,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3098067,2885076,229190,2
+South Korea,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3391221,3146951,260520,2
+South Korea,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3700428,3425103,292608,3
+South Korea,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3750282,3466225,301458,3
+South Korea,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3753982,3468684,302721,3
+South Korea,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3872952,3556167,334975,3
+South Korea,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,3981629,3632605,367863,3
+South Korea,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4015120,3639692,394425,4
+South Korea,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4148857,3699252,469171,4
+South Korea,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4276613,3749183,547536,4
+South Korea,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4318951,3762823,576274,4
+South Korea,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4325443,3763811,581804,4
+South Korea,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4419106,3779438,660323,4
+South Korea,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4510727,3789941,741836,5
+South Korea,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4602282,3798079,825467,5
+South Korea,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4691813,3809024,904459,5
+South Korea,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4785959,3822343,985692,5
+South Korea,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4820078,3825434,1016781,6
+South Korea,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4827364,3826980,1022546,6
+South Korea,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,4943082,3842110,1123350,6
+South Korea,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5098882,3856214,1265193,6
+South Korea,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5195966,3859966,1358577,6
+South Korea,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5420733,3874139,1569367,6
+South Korea,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5662374,3890601,1794904,6
+South Korea,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5705361,3897062,1831519,6
+South Korea,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5709607,3898110,1834734,6
+South Korea,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,5887288,3970666,1940052,6
+South Korea,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,6061019,4050276,2034391,6
+South Korea,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,6218371,4139195,2102976,7
+South Korea,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,6936241,4801119,2159313,7
+South Korea,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,7547733,5346551,2225448,7
+South Korea,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,7723407,5512614,2235106,8
+South Korea,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,7730253,5518832,2235758,9
+South Korea,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,8145377,5905987,2263779,11
+South Korea,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,8740936,6474231,2291239,13
+South Korea,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,9148199,6857804,2315057,14
+South Korea,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,9519946,7202716,2341995,15
+South Korea,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,9921429,7572844,2373584,17
+South Korea,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,10066211,7714122,2377156,18
+South Korea,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,10070917,7718093,2377917,19
+South Korea,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,10986720,8612333,2399631,20
+South Korea,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,11759640,9358540,2426454,22
+South Korea,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,12378622,9952604,2451543,23
+South Korea,2021-06-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,13182597,10720396,2740852,24
+South Korea,2021-06-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,14046644,11548042,2979842,24
+South Korea,2021-06-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,14443067,11937892,3100709,25
+South Korea,2021-06-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,14473195,11966428,3114101,27
+South Korea,2021-06-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,15329423,12736442,3372810,30
+South Korea,2021-06-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,16074027,13384491,3582165,30
+South Korea,2021-06-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,16748378,13954096,3865213,31
+South Korea,2021-06-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,17296503,14398387,3995355,32
+South Korea,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,17932990,14936807,4124782,33
+South Korea,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18168758,15154116,4162379,34
+South Korea,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18172170,15155578,4164774,34
+South Korea,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18335597,15204619,4282933,35
+South Korea,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18509303,15254947,4409294,38
+South Korea,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18674497,15300654,4530307,39
+South Korea,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18829779,15347934,4639134,40
+South Korea,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,18993087,15413639,4737399,41
+South Korea,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19030528,15426167,4762483,41
+South Korea,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19033351,15427056,4764471,41
+South Korea,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19192891,15441998,4910035,42
+South Korea,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19356737,15461034,5055968,42
+South Korea,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19510878,15478293,5194130,43
+South Korea,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19638982,15485594,5316141,44
+South Korea,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19768225,15493648,5438543,44
+South Korea,2021-07-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19789325,15496977,5456767,46
+South Korea,2021-07-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19791897,15498324,5458023,46
+South Korea,2021-07-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,19926474,15555207,5535768,46
+South Korea,2021-07-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20059527,15596128,5628000,48
+South Korea,2021-07-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20187500,15633725,5718524,50
+South Korea,2021-07-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20335707,15674219,5826353,54
+South Korea,2021-07-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20546365,15734670,5976675,57
+South Korea,2021-07-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20601182,15748921,6017303,61
+South Korea,2021-07-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20604517,15750400,6019177,63
+South Korea,2021-07-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20732466,15783295,6114295,69
+South Korea,2021-07-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,20953686,15893097,6225809,71
+South Korea,2021-07-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,21191183,16006792,6349696,77
+South Korea,2021-07-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,21460127,16131499,6494025,86
+South Korea,2021-07-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,21782545,16267943,6680112,88
+South Korea,2021-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,21856249,16303634,6718180,94
+South Korea,2021-07-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,21860931,16306888,6719627,96
+South Korea,2021-07-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22095367,16468394,6792679,99
+South Korea,2021-07-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22310511,16620453,6855867,100
+South Korea,2021-07-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22493315,16761513,6897730,100
+South Korea,2021-07-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22697093,16903416,6959674,102
+South Korea,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22907262,17051361,7022010,105
+South Korea,2021-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22950337,17081569,7034945,107
+South Korea,2021-07-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,22953916,17083826,7036303,109
+South Korea,2021-07-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,23641449,17704266,7103606,116
+South Korea,2021-07-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,24075451,18087600,7154395,119
+South Korea,2021-07-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,24601456,18568980,7199124,129
+South Korea,2021-07-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,24995908,18918067,7244592,139
+South Korea,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,25556768,19416638,7306987,144
+South Korea,2021-07-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,25788497,19633376,7322027,149
+South Korea,2021-08-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,25818754,19662020,7323659,156
+South Korea,2021-08-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,26335078,20140291,7361833,165
+South Korea,2021-08-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,26666108,20362230,7470994,179
+South Korea,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,26945748,20529914,7583071,197
+South Korea,2021-08-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,27269730,20725187,7711864,202
+South Korea,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,27685376,20983114,7869653,207
+South Korea,2021-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,27845543,21106029,7906944,215
+South Korea,2021-08-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,27877572,21134701,7910310,224
+South Korea,2021-08-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,28491247,21572822,8085902,249
+South Korea,2021-08-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,28927378,21837925,8256993,269
+South Korea,2021-08-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,29271821,22017557,8421834,289
+South Korea,2021-08-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,30149936,22187935,9129597,308
+South Korea,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,31016971,22433010,9751616,323
+South Korea,2021-08-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,31344662,22577137,9935194,342
+South Korea,2021-08-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,31370069,22596232,9941524,364
+South Korea,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,32301089,23269359,10199451,400
+South Korea,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,33524618,23995800,10696560,437
+South Korea,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,34370798,24520900,11017676,476
+South Korea,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,35171846,25027146,11312496,522
+South Korea,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,36198690,25719566,11646957,549
+South Korea,2021-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,36689273,26085415,11771675,594
+South Korea,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,36732991,26126166,11774631,620
+South Korea,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,37837791,26515193,12494877,656
+South Korea,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,38840495,26921664,13100426,718
+South Korea,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,39687373,27300718,13579657,758
+South Korea,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,40759761,27955564,14007031,809
+South Korea,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,41908248,28559282,14558842,857
+South Korea,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,42435698,28836334,14815337,886
+South Korea,2021-08-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,42466620,28852973,14831807,917
+South Korea,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,43447884,29243408,15432360,974
+South Korea,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,44211932,29491878,15963492,1035
+South Korea,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,44909865,29671140,16499317,1108
+South Korea,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,45579414,29858075,17000203,1197
+South Korea,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,46496987,30092307,17700332,1243
+South Korea,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,46868851,30211629,17961875,1269
+South Korea,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,46884026,30220588,17970667,1284
+South Korea,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,48254785,30965027,18606272,1331
+South Korea,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,49240715,31540344,19028513,1391
+South Korea,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,49923298,31926996,19336669,1449
+South Korea,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,50645469,32367681,19629756,1501
+South Korea,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,51707184,33021272,20048620,1565
+South Korea,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,52239692,33350345,20261802,1601
+South Korea,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,52285218,33372693,20287923,1620
+South Korea,2021-09-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,53530365,34201194,20711845,1680
+South Korea,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,54348389,34803867,20937431,1751
+South Korea,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,55156220,35180768,21378428,1815
+South Korea,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,55892256,35611983,21693187,1863
+South Korea,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,56988176,36273523,22139212,1922
+South Korea,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,57567393,36666478,22330345,1962
+South Korea,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,57615256,36688097,22356773,1984
+South Korea,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,57660279,36718451,22371444,2026
+South Korea,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,57672260,36725399,22376451,2068
+South Korea,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,57717011,36753429,22393248,2129
+South Korea,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,58652400,37315777,22771173,2195
+South Korea,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,59681866,37933475,23187451,2253
+South Korea,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,60211148,38247169,23403900,2306
+South Korea,2021-09-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,60261549,38273880,23428299,2345
+South Korea,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,61388716,38691686,24141420,2447
+South Korea,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,62334989,38949709,24832995,2536
+South Korea,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,63090728,39181867,25360796,2663
+South Korea,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,63975362,39526706,25904093,2764
+South Korea,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,65072809,39763989,26766779,2914
+South Korea,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,65603825,39888962,27174702,2981
+South Korea,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,65641149,39892551,27208476,3038
+South Korea,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,65877708,39918400,27419298,3173
+South Korea,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,66688290,39964028,28186924,3305
+South Korea,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,67235315,40001561,28699114,3433
+South Korea,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,67982458,40038868,29411308,3548
+South Korea,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,69126490,40084454,30511873,3661
+South Korea,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,69241876,40095582,30616457,3766
+South Korea,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,69263051,40098464,30634972,3833
+South Korea,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,69523841,40192386,30801880,3952
+South Korea,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,70231849,40299409,31404061,4822
+South Korea,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,70701865,40357421,31816646,6330
+South Korea,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,71216455,40412769,32275489,8205
+South Korea,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,72028747,40502720,32997444,10667
+South Korea,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,72448666,40567361,33353358,10863
+South Korea,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,72470313,40569411,33373386,10933
+South Korea,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,73174263,40641605,34004855,12538
+South Korea,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,73660966,40679344,34452826,14742
+South Korea,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,74058408,40748631,34777861,19207
+South Korea,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,74533079,40808656,35187490,25199
+South Korea,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,75239195,40875036,35822383,31567
+South Korea,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,75625799,40926754,36157049,32295
+South Korea,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,75646492,40930701,36174207,32416
+South Korea,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,76167407,41009429,36608287,41745
+South Korea,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,76502935,41050868,36890380,55026
+South Korea,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,76852819,41128820,37149745,68650
+South Korea,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,77549820,41192250,37774387,78616
+South Korea,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,78323145,41253155,38477603,89224
+South Korea,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,78721964,41289779,38836717,92818
+South Korea,2021-10-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,78746560,41292798,38858215,93178
+South Korea,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,78984243,41376269,38978049,128145
+South Korea,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,79172087,41419163,39066276,185331
+South Korea,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,79371435,41484508,39142983,243295
+South Korea,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,79602219,41545452,39267950,288934
+South Korea,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,79895752,41617220,39431255,348048
+South Korea,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,80027069,41662838,39494579,370611
+South Korea,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,80034560,41665082,39499112,371433
+South Korea,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,80500561,41782217,39663646,556443
+South Korea,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,80774768,41828523,39790345,658079
+South Korea,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,81047755,41897635,39898306,754523
+South Korea,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,81330052,41962265,40007622,863325
+South Korea,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,81703887,42041115,40157819,1008643
+South Korea,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,81911976,42096698,40259345,1059762
+South Korea,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,81920153,42099080,40262781,1062170
+South Korea,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,82237291,42161748,40352036,1227729
+South Korea,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,82461306,42195877,40400116,1369978
+South Korea,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,82710386,42241970,40467373,1506174
+South Korea,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,82948269,42287473,40528433,1637841
+South Korea,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,83232818,42337636,40606717,1794359
+South Korea,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,83341796,42364811,40645979,1836999
+South Korea,2021-11-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,83347744,42366267,40648285,1839238
+South Korea,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,83636999,42416017,40736826,1990495
+South Korea,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,83857058,42444924,40781285,2137501
+South Korea,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,84127695,42492245,40843341,2299083
+South Korea,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,84450051,42540845,40911254,2505210
+South Korea,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,84892724,42597302,40999516,2803481
+South Korea,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,85044486,42629998,41045689,2876446
+South Korea,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,85050386,42631038,41047700,2879337
+South Korea,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,85370468,42662402,41154470,3061490
+South Korea,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,85633910,42684560,41203998,3253553
+South Korea,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,85888452,42708764,41270338,3417748
+South Korea,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,86157134,42731777,41331787,3602143
+South Korea,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,86566255,42766481,41423443,3885214
+South Korea,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,86738895,42788216,41476903,3982721
+South Korea,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,86746790,42790002,41478999,3986768
+South Korea,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,87156185,42842794,41545728,4276909
+South Korea,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,87533140,42881205,41588438,4572987
+South Korea,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,87938866,42927689,41640821,4880175
+South Korea,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,88489730,42973629,41696537,5329728
+South Korea,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,89391934,43025734,41772648,6104112
+South Korea,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,89733727,43052037,41807494,6384822
+South Korea,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,89746299,43054165,41809057,6393703
+South Korea,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,90676228,43131756,41872674,7182782
+South Korea,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,91585266,43187501,41917060,7991951
+South Korea,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,92666210,43276049,41975496,8926259
+South Korea,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,93749069,43374818,42037925,9848268
+South Korea,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,95130826,43483167,42118944,11041082
+South Korea,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,95774929,43552860,42159808,11574711
+South Korea,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,95813119,43558913,42161678,11604983
+South Korea,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,96841779,43681246,42215416,12457875
+South Korea,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,97652633,43756628,42253786,13155243
+South Korea,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,98408532,43847979,42293135,13780580
+South Korea,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,99124976,43928787,42327885,14381564
+South Korea,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,100049834,44008351,42371577,15183254
+South Korea,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,100125852,44018627,42376663,15243912
+South Korea,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,100156870,44022154,42378436,15269631
+South Korea,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,101062410,44098630,42443463,16033762
+South Korea,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,101773471,44145021,42487377,16654598
+South Korea,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,102409292,44194598,42534117,17194194
+South Korea,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,103051581,44242080,42580524,17742704
+South Korea,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,103902261,44296230,42639108,18480774
+South Korea,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,103946113,44300507,42644076,18515388
+South Korea,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,103968377,44302621,42646543,18533074
+South Korea,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,104578690,44343282,42726147,19023260
+South Korea,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,105027941,44370217,42781560,19390265
+South Korea,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,105459933,44391346,42857559,19725182
+South Korea,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,105948429,44411223,42943021,20108455
+South Korea,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,106682099,44437482,43050674,20708299
+South Korea,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,107116964,44453805,43121504,21056028
+South Korea,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,107139079,44454908,43126255,21072290
+South Korea,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,107717986,44479893,43236029,21516523
+South Korea,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,108155767,44500193,43309523,21860568
+South Korea,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,108537435,44516650,43390583,22144787
+South Korea,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,108974650,44533008,43467762,22488589
+South Korea,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,109669683,44555664,43558940,23069895
+South Korea,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,110018851,44568787,43588299,23376599
+South Korea,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,110040281,44569572,43591735,23393810
+South Korea,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,110514420,44585654,43663074,23780594
+South Korea,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,110836464,44597853,43709703,24043872
+South Korea,2022-01-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,111108282,44608027,43754966,24260319
+South Korea,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,111445916,44618529,43799741,24542764
+South Korea,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,111990516,44633931,43858774,25012986
+South Korea,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,112276973,44643319,43876785,25272060
+South Korea,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,112293518,44643921,43878748,25286044
+South Korea,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,112644638,44655645,43919497,25584729
+South Korea,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,112927954,44664885,43948903,25829449
+South Korea,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,113217821,44673475,43973616,26086069
+South Korea,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,113568457,44682677,43998816,26402363
+South Korea,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114124806,44696111,44036023,26908135
+South Korea,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114496179,44704244,44058543,27248868
+South Korea,2022-01-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114523160,44704902,44059935,27273802
+South Korea,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114544103,44705503,44060924,27293157
+South Korea,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114547348,44705595,44061113,27296124
+South Korea,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114561245,44706097,44061959,27308676
+South Korea,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,114955316,44718555,44114726,27637558
+South Korea,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,115363131,44731119,44150386,27997186
+South Korea,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,115593107,44738404,44168462,28201812
+South Korea,2022-02-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,115606541,44738857,44169414,28213841
+South Korea,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,115884094,44747093,44191858,28460748
+South Korea,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116069645,44752943,44208022,28624308
+South Korea,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116234945,44758189,44221011,28771409
+South Korea,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116460765,44764158,44234945,28977370
+South Korea,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116796542,44772520,44254657,29285099
+South Korea,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116984100,44778274,44266886,29454679
+South Korea,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,116994078,44778642,44267485,29463690
+South Korea,2022-02-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,117212320,44789133,44281135,29657807
+South Korea,2022-02-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,117372581,44799014,44291864,29797475
+South Korea,2022-02-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,117520739,44808310,44301516,29926710
+South Korea,2022-02-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,117709832,44817522,44311563,30096555
+South Korea,2022-02-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,117985821,44829082,44326885,30345676
+South Korea,2022-02-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118137638,44835341,44336411,30481715
+South Korea,2022-02-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118146818,44835707,44336992,30489948
+South Korea,2022-02-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118322839,44843892,44342570,30652225
+South Korea,2022-02-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118448780,44850258,44346510,30767868
+South Korea,2022-02-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118569941,44856107,44350191,30879518
+South Korea,2022-02-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118737416,44862404,44360651,31030245
+South Korea,2022-02-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,118992044,44871365,44374583,31261994
+South Korea,2022-02-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119125637,44876289,44383059,31382188
+South Korea,2022-02-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119132467,44876513,44383513,31388340
+South Korea,2022-02-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119295887,44882173,44391828,31537795
+South Korea,2022-03-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119301590,44882373,44392187,31542940
+South Korea,2022-03-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119384775,44884615,44396558,31619518
+South Korea,2022-03-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119470333,44886617,44400829,31698807
+South Korea,2022-03-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119601166,44890121,44408556,31818419
+South Korea,2022-03-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119663981,44892416,44414175,31873320
+South Korea,2022-03-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119666037,44892489,44414371,31875107
+South Korea,2022-03-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119757653,44900369,44420257,31952966
+South Korea,2022-03-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119825873,44906255,44425485,32010076
+South Korea,2022-03-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119837211,44907332,44426748,32019074
+South Korea,2022-03-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,119927539,44912523,44433164,32097802
+South Korea,2022-03-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120055251,44921462,44447122,32202621
+South Korea,2022-03-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120102518,44925460,44452517,32240495
+South Korea,2022-03-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120103492,44925542,44452624,32241280
+South Korea,2022-03-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120172117,44929234,44457545,32301295
+South Korea,2022-03-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120225927,44931741,44460883,32349264
+South Korea,2022-03-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120279661,44933996,44463362,32398271
+South Korea,2022-03-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120344924,44936560,44466084,32458255
+South Korea,2022-03-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120448325,44941328,44471764,32551213
+South Korea,2022-03-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120484883,44943414,44473692,32583757
+South Korea,2022-03-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120485521,44943439,44473722,32584340
+South Korea,2022-03-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120546857,44945720,44476014,32641107
+South Korea,2022-03-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120590555,44947553,44477256,32681735
+South Korea,2022-03-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120636834,44949079,44478543,32725202
+South Korea,2022-03-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120690443,44950860,44480093,32775482
+South Korea,2022-03-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120775274,44954081,44482961,32854228
+South Korea,2022-03-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120814545,44955593,44484067,32890882
+South Korea,2022-03-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120815182,44955616,44484093,32891470
+South Korea,2022-03-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120864592,44957278,44489244,32934073
+South Korea,2022-03-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120896787,44958607,44493004,32961179
+South Korea,2022-03-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120932338,44959795,44494282,32994271
+South Korea,2022-03-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,120977922,44964378,44497659,33031898
+South Korea,2022-04-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121042290,44975491,44503669,33079149
+South Korea,2022-04-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121071355,44981647,44506044,33099683
+South Korea,2022-04-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121071740,44981704,44506086,33099969
+South Korea,2022-04-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121102455,44984589,44508735,33125156
+South Korea,2022-04-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121122690,44986544,44510609,33141567
+South Korea,2022-04-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121148254,44988797,44512258,33163235
+South Korea,2022-04-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121178229,44991325,44514178,33188766
+South Korea,2022-04-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121229320,44999340,44518119,33227901
+South Korea,2022-04-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121247875,45002860,44519458,33241597
+South Korea,2022-04-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121248113,45002888,44519477,33241789
+South Korea,2022-04-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121267233,45004183,44521117,33257976
+South Korea,2022-04-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121282054,45005320,44522436,33270343
+South Korea,2022-04-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121302672,45006906,44523735,33288088
+South Korea,2022-04-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121352724,45008349,44525306,33335135
+South Korea,2022-04-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121455039,45013910,44528529,33428676
+South Korea,2022-04-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121482468,45015693,44529732,33453119
+South Korea,2022-04-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121482808,45015718,44529747,33453419
+South Korea,2022-04-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121544845,45016521,44530741,33513664
+South Korea,2022-04-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121608840,45017228,44531675,33576019
+South Korea,2022-04-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121684111,45018277,44532806,33649111
+South Korea,2022-04-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121756372,45019428,44534277,33718756
+South Korea,2022-04-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121912584,45023239,44538267,33867170
+South Korea,2022-04-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121953320,45024563,44539577,33905275
+South Korea,2022-04-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,121953888,45024581,44539601,33905801
+South Korea,2022-04-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,122164178,45025463,44540831,34113981
+South Korea,2022-04-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,122388798,45026364,44541870,34336663
+South Korea,2022-04-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,122619273,45027423,44542997,34564962
+South Korea,2022-04-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,122831302,45028501,44544353,34774562
+South Korea,2022-04-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,123226169,45031406,44547607,35163275
+South Korea,2022-04-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,123309696,45032668,44548733,35244414
+South Korea,2022-05-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,123310875,45032678,44548748,35245568
+South Korea,2022-05-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,123477847,45033518,44549707,35410745
+South Korea,2022-05-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/,123657540,45034256,44550666,35588743

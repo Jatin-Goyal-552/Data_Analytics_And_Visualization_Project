@@ -1,0 +1,97 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Libya,2021-04-17,"Oxford/AstraZeneca, Sputnik V, Sinovac",https://reliefweb.int/report/iran-islamic-republic/covid-19-situation-updates-week-15-11-17-april-2021,750,750,0,
+Libya,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",https://covid19.who.int/,106559,106559,,
+Libya,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,243891,243891,,
+Libya,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,317809,317809,,
+Libya,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,330260,330260,,
+Libya,2021-06-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,351408,351408,,
+Libya,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,370066,370066,,
+Libya,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,379404,379404,,
+Libya,2021-07-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,393688,393688,,
+Libya,2021-07-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,425119,425119,,
+Libya,2021-07-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,480116,480116,,
+Libya,2021-07-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,530808,530808,,
+Libya,2021-07-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://covid19.who.int/,546745,546745,,
+Libya,2021-08-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,712213,661010,,
+Libya,2021-08-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,737417,686214,,
+Libya,2021-08-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,764233,712033,,
+Libya,2021-08-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,889957,837907,52050,
+Libya,2021-08-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1022882,,,
+Libya,2021-08-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1031060,951010,,
+Libya,2021-09-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1130485,1071946,58539,
+Libya,2021-09-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1274076,1163013,111063,
+Libya,2021-09-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1322307,1201793,120514,
+Libya,2021-09-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1381309,1246217,135092,
+Libya,2021-09-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1464304,1305045,159259,
+Libya,2021-09-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1501622,1334670,166952,
+Libya,2021-09-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1546967,1359693,187274,
+Libya,2021-09-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1586055,1381925,204130,
+Libya,2021-10-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1637401,1401958,235443,
+Libya,2021-10-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1666086,1413069,253017,
+Libya,2021-10-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1689252,1424692,264560,
+Libya,2021-10-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1739046,1442286,296760,
+Libya,2021-10-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1799014,1467363,331651,
+Libya,2021-10-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1809365,1471101,338264,
+Libya,2021-10-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1863974,1493267,370707,
+Libya,2021-10-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,1900831,1510060,390771,
+Libya,2021-10-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,1988280,1545739,442541,
+Libya,2021-11-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2020518,1560096,460422,
+Libya,2021-11-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2070595,1581087,489508,
+Libya,2021-11-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2096601,1587796,508805,
+Libya,2021-11-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2149880,1605435,544445,
+Libya,2021-11-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2178584,1621018,557566,
+Libya,2021-11-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2234121,1638674,595447,
+Libya,2021-11-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2291638,1661332,630306,
+Libya,2021-11-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2335862,1683548,652314,
+Libya,2021-12-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2377003,1710472,666531,
+Libya,2021-12-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2438246,1737773,700473,
+Libya,2021-12-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2485598,1759338,726260,
+Libya,2021-12-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2536160,1785671,750489,
+Libya,2021-12-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2554207,1796814,757393,
+Libya,2021-12-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2609405,1823248,786157,
+Libya,2021-12-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2618692,1826165,792527,
+Libya,2021-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2664009,1847082,816927,
+Libya,2021-12-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2679874,1854197,825677,
+Libya,2022-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,2752390,1886754,865636,
+Libya,2022-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2847131,1933677,913454,
+Libya,2022-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2875173,1946622,926296,
+Libya,2022-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2910096,1965713,940217,
+Libya,2022-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2929961,1976109,946736,
+Libya,2022-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2963656,1991961,961143,
+Libya,2022-01-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3003536,2012448,975651,
+Libya,2022-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3051024,2031276,996091,
+Libya,2022-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3082052,2046913,1008409,
+Libya,2022-02-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3124669,2067196,1024442,
+Libya,2022-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3198389,2101417,1049306,
+Libya,2022-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://africacdc.org/covid-19-vaccination/,,,,50165
+Libya,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3256672,2128905,1070244,
+Libya,2022-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3261687,2130349,1072266,59072
+Libya,2022-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3268714,2133250,1074873,60591
+Libya,2022-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3283747,2139394,1079329,65024
+Libya,2022-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3292723,2142860,1083376,66487
+Libya,2022-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3300845,2148257,1084628,67960
+Libya,2022-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3308719,2151128,1086612,70979
+Libya,2022-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3317184,2155965,1089734,71485
+Libya,2022-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3324621,2159157,1092052,73412
+Libya,2022-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3337591,2164967,1096310,76314
+Libya,2022-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3343570,2167407,1098757,77406
+Libya,2022-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3347763,2168808,1100438,78517
+Libya,2022-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3353611,2172442,1101751,79418
+Libya,2022-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3360306,2175002,1104501,80803
+Libya,2022-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3362636,2175660,1105059,81917
+Libya,2022-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3365544,2176427,1106731,82386
+Libya,2022-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3369226,2179222,1107430,82574
+Libya,2022-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3374740,2181405,1109227,84108
+Libya,2022-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3382281,2186971,1111117,84193
+Libya,2022-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3387399,2189571,1112795,85033
+Libya,2022-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3390125,2190237,1114500,85388
+Libya,2022-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3392163,2190556,1116110,85497
+Libya,2022-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3396869,2194555,1116387,85927
+Libya,2022-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3400104,2195123,1118713,86268
+Libya,2022-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3406343,2199257,1119747,87339
+Libya,2022-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3408820,2199686,1121583,87551
+Libya,2022-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3415232,2200567,1125383,89282
+Libya,2022-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3415834,2201314,1125758,89762
+Libya,2022-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3436348,2206720,1135980,93648
+Libya,2022-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3444646,2210577,1138504,95565
+Libya,2022-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncdc.org.ly/Ar,3451352,2214303,1140236,96813

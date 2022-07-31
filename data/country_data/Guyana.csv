@@ -1,0 +1,118 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Guyana,2021-02-11,Oxford/AstraZeneca,https://www.stabroeknews.com/2021/02/16/news/guyana/anthony-says-668-health-workers-have-gotten-covid-vaccine/,0,0,,
+Guyana,2021-02-15,Oxford/AstraZeneca,https://www.stabroeknews.com/2021/02/16/news/guyana/anthony-says-668-health-workers-have-gotten-covid-vaccine/,668,668,,
+Guyana,2021-02-22,Oxford/AstraZeneca,https://newsroom.gy/2021/02/22/guyana-vaccinates-1852-frontline-workers-to-date-more-vaccines-expected-shortly/,1852,1852,,
+Guyana,2021-03-19,"Oxford/AstraZeneca, Sputnik V",https://newsroom.gy/2021/03/19/guyana-vaccinates-15-524-against-covid-19-as-immunization-rollout-continues/,15524,15524,,
+Guyana,2021-03-31,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2575414036095460/,32714,32714,,
+Guyana,2021-04-03,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/1505423363094538/posts/2578242045812659/,40468,40468,,
+Guyana,2021-04-11,"Oxford/AstraZeneca, Sputnik V",https://newsroom.gy/2021/04/12/30000-more-doses-of-russian-sputnik-arrive/,60172,60172,,
+Guyana,2021-04-15,"Oxford/AstraZeneca, Sputnik V",https://dpi.gov.gy/600-guyanese-fully-vaccinated-against-covid/,73600,73000,600,
+Guyana,2021-04-23,"Oxford/AstraZeneca, Sputnik V",https://dpi.gov.gy/over-111000-persons-receive-first-covid-vaccines/?fbclid=IwAR1ZbyOZPrKtb9IRe2GwaOSCEtzDh5KvpeaYstkFGCds5uVpZPZqF7m5xhk,113596,111825,1771,
+Guyana,2021-04-26,"Oxford/AstraZeneca, Sputnik V",https://newsroom.gy/2021/04/27/covid-19-a-quarter-of-guyanas-adult-population-now-vaccinated/,126800,124000,2800,
+Guyana,2021-05-06,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2599199210383609/,153494,150694,2800,
+Guyana,2021-05-25,"Oxford/AstraZeneca, Sputnik V",https://dpi.gov.gy/over-187000-persons-receive-first-dose-of-covid-vaccine/,245614,187234,58380,
+Guyana,2021-06-02,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2616894185280778,274625,203847,70778,
+Guyana,2021-06-05,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2618926165077580,285247,209835,75412,
+Guyana,2021-06-09,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2621232874846909,294053,214251,79802,
+Guyana,2021-06-11,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2622549428048587/,300591,216862,83729,
+Guyana,2021-06-16,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2625908887712641,315816,223659,92157,
+Guyana,2021-06-21,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2629079967395533,326325,227690,98635,
+Guyana,2021-06-25,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2631820450454818,335091,230486,104605,
+Guyana,2021-06-29,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2634448920191971/,340020,232599,107421,
+Guyana,2021-06-30,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2635089773461219,341886,233134,108752,
+Guyana,2021-07-01,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2635793170057546,344466,233756,110710,
+Guyana,2021-07-02,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2636480556655474,346626,234255,112371,
+Guyana,2021-07-06,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2639262186377311/,350190,235796,114394,
+Guyana,2021-07-08,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2640561692914027,354014,237111,116903,
+Guyana,2021-07-14,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2644756582494538,363442,240392,123050,
+Guyana,2021-07-19,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2648269158809947/,371243,242991,128252,
+Guyana,2021-07-22,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2650236128613250/,373726,244365,129361,
+Guyana,2021-07-23,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2651001341870062/,374841,245092,129749,
+Guyana,2021-07-26,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2653304388306424,377145,246716,130429,
+Guyana,2021-07-28,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2654558024847727,382957,248970,133987,
+Guyana,2021-07-29,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2655922581377938,389336,250712,138624,
+Guyana,2021-07-30,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2655922581377938,389336,250712,138624,
+Guyana,2021-08-03,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2658630977773765,394606,252978,141628,
+Guyana,2021-08-04,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2659280077708855,396997,254883,142114,
+Guyana,2021-08-10,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2663410660629130,416087,271122,144965,
+Guyana,2021-08-12,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2664871150483081,425580,279489,146091,
+Guyana,2021-08-13,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2665563327080530,429086,282586,146500,
+Guyana,2021-08-16,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2667603603543169,434965,287837,147128,
+Guyana,2021-08-23,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2672303786406484/,455209,301369,153840,
+Guyana,2021-08-25,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2673764489593747,460700,305012,155688,
+Guyana,2021-08-26,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2674320066204856,465463,306906,158557,
+Guyana,2021-08-27,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2675078296129033,468218,308758,159460,
+Guyana,2021-08-30,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2677141245922738,472188,311539,160649,
+Guyana,2021-08-31,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2677865909183605/,474491,313469,161022,
+Guyana,2021-09-03,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2680139435622919/,485332,318569,166763,
+Guyana,2021-09-07,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2682867158683480,491795,322586,169209,
+Guyana,2021-09-08,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2683495455287317/,495220,325095,170125,
+Guyana,2021-09-09,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2684941668476029/,502064,329909,172155,
+Guyana,2021-09-14,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/pcb.2687697574867105/2687697204867142/,512067,337030,175037,
+Guyana,2021-09-16,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/pcb.2689423691361160/2689423438027852/,518295,341600,176695,
+Guyana,2021-09-20,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2692193717750824/,525644,346529,179115,
+Guyana,2021-09-23,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/pcb.2694331054203757/2694329237537272/,533843,351981,181862,
+Guyana,2021-09-27,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/pcb.2697110237259172/2697110130592516/,538748,354676,184072,
+Guyana,2021-09-29,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2698596187110577/,543180,357208,185972,
+Guyana,2021-10-05,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2702440630059466/,575396,362919,212477,
+Guyana,2021-10-06,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2703093303327532/,579761,364208,215553,
+Guyana,2021-10-07,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2703844516585744/,583394,365274,218120,
+Guyana,2021-10-08,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2704526589850870/,586207,366190,220017,
+Guyana,2021-10-12,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2707560806214115/,593900,368850,225050,
+Guyana,2021-10-13,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2708297446140451/,596526,369877,226649,
+Guyana,2021-10-20,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2713492255620970,607930,374539,233391,
+Guyana,2021-10-21,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2714114385558757/,610721,375640,235081,
+Guyana,2021-10-25,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2716943148609214/,615611,377614,237997,
+Guyana,2021-10-28,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2719080088395520/,621468,380257,241211,
+Guyana,2021-11-01,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2721795588123970/,626499,382177,244322,
+Guyana,2021-11-02,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2722443961392466/,628945,383013,245932,
+Guyana,2021-11-03,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2723110957992433/,631765,383943,247822,
+Guyana,2021-11-05,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2724346244535571/,634491,384934,249557,
+Guyana,2021-11-09,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2727157400921122/,641443,387505,253938,
+Guyana,2021-11-10,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2727914220845440/,644094,388444,255650,
+Guyana,2021-11-11,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2728584527445076/,646545,389349,257196,
+Guyana,2021-11-12,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2729254320711430/,648974,390110,258864,
+Guyana,2021-11-15,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2731446557158873/,653332,391521,261811,
+Guyana,2021-11-16,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2732105440426318/,655967,392512,263455,
+Guyana,2021-11-17,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1505704143066460/2732712120365650/,658206,393355,264851,
+Guyana,2021-11-18,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2733489670287895/,660221,394094,266127,
+Guyana,2021-11-19,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2734169230219939/,662180,394759,267421,
+Guyana,2021-11-24,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2736911679945694/,668046,396840,271206,
+Guyana,2021-11-26,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2738877033082492/,674075,398949,275126,
+Guyana,2021-11-29,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2740932896210239/,676717,399829,276888,
+Guyana,2021-11-30,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2741487282821467/,678619,400561,278058,
+Guyana,2021-12-01,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/photos/a.1510541109249430/2742234296080099/,681103,401445,279658,
+Guyana,2021-12-02,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2743002626003266,682779,402142,280637,
+Guyana,2021-12-06,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2745587249078137,686104,403537,282567,
+Guyana,2021-12-07,"Oxford/AstraZeneca, Sputnik V",https://www.facebook.com/mohguyana/posts/2746331499003712,687627,404122,283505,
+Guyana,2021-12-14,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=XFPD3UXhjGE,698265,406072,286437,5756
+Guyana,2021-12-18,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=rujbryn6bQ0,706442,408266,289726,8450
+Guyana,2021-12-29,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=xCOoVkXO1RU,715724,410499,294160,11065
+Guyana,2022-01-01,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=pku49t6daGU,718219,411081,295325,11813
+Guyana,2022-01-14,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=fCQXAC6mmpM,744876,416994,303373,24509
+Guyana,2022-01-21,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=wlFOK1pUy5o,757464,419509,306831,31124
+Guyana,2022-01-28,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=C6GYLabsLuk,772121,422727,311796,37598
+Guyana,2022-01-31,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=7Z9-gh-T_f4,775229,423439,312874,38916
+Guyana,2022-02-02,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=iTSdYMzyVDw,779882,424702,314960,40220
+Guyana,2022-02-09,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=f8SxP61DyDs,790647,427336,319596,43715
+Guyana,2022-02-11,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=pv8KXCDy4Jg,792183,427680,320221,44282
+Guyana,2022-02-16,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=_dHAidKNK0I,798065,428991,322465,46609
+Guyana,2022-02-19,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=F5iOZRAHVhw,802131,429982,324175,47974
+Guyana,2022-02-23,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=RtA2xmlZ3h8,804547,430877,325696,47974
+Guyana,2022-02-25,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=o39LewEtBr8&t=172s,807188,431296,326375,49517
+Guyana,2022-02-26,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=3o2TyScg4A0,808206,431597,326867,49742
+Guyana,2022-03-01,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=Y5yeYPG2r4A,811293,432381,328273,50639
+Guyana,2022-03-04,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=wSLMmIV-sAg,815448,433497,330026,51925
+Guyana,2022-03-07,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=fIgSvyirf70,818920,434509,331267,53144
+Guyana,2022-03-10,"Oxford/AstraZeneca, Sputnik V",https://www.youtube.com/watch?v=1vQHDE7OsmM,820036,434878,331703,53455
+Guyana,2022-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,878430,468737,356238,53455
+Guyana,2022-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,884246,470529,358633,55084
+Guyana,2022-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,886069,471030,359317,55722
+Guyana,2022-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,888928,471710,360370,56848
+Guyana,2022-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,889522,471864,360587,57071
+Guyana,2022-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,891019,472171,361166,57682
+Guyana,2022-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,892239,472424,361683,58132
+Guyana,2022-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,894938,472988,362605,59345
+Guyana,2022-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,897109,473425,363237,60447
+Guyana,2022-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,898907,473926,363774,61207
+Guyana,2022-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,900472,474392,364336,61744

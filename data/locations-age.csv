@@ -1,0 +1,40 @@
+location,last_observation_date,source_name,source_url
+.com/3dgiordano/covid-19-uy-vacc-data/main/data/Age.csv,,,
+.com/3dgiordano/covid-19-uy-vacc-data/main/data/Age.csv,,,
+Argentina,2022-05-03,Ministry of Health via https://covidstats.com.ar/ws/vacunadosargentina?portipovacuna=1,https://covidstats.com.ar/
+Australia,2022-05-04,Ministry of Health via covidbaseau.com,https://covidbaseau.com/
+Austria,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Belgium,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Bulgaria,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Croatia,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Cyprus,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Czechia,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Denmark,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Estonia,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Finland,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+France,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Germany,2022-02-04,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Hong Kong,2022-05-01,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age
+Hungary,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Iceland,2022-04-01,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Ireland,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Israel,2022-04-04,Ministry of Health via github.com/dancarmoz/israel_moh_covid_dashboard_data,https://github.com/dancarmoz/israel_moh_covid_dashboard_data/raw/master/vaccinated_by_age.csv
+Italy,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Jersey,2022-04-24,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+Latvia,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Liechtenstein,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Lithuania,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Luxembourg,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Malta,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Netherlands,2022-02-11,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Norway,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Peru,2022-04-30,Ministerio de Salud via https://github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion
+Poland,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Portugal,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Romania,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Slovakia,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Slovenia,2022-04-22,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Spain,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Sweden,2022-04-29,European Centre for Disease Prevention and Control (ECDC),https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Switzerland,2022-05-08,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz
+Uruguay,2021-07-09,Ministry of Health via vacuna.uy,https://raw.githubusercontent.com/3dgiordano/covid-19-uy-vacc-data/main/data/Age.csv

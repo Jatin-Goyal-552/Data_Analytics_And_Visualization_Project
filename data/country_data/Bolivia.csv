@@ -1,0 +1,433 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Bolivia,2021-02-02,Sputnik V,https://github.com/dquintani/vacunacion/,1589,1589,0,0
+Bolivia,2021-02-03,Sputnik V,https://github.com/dquintani/vacunacion/,3560,3560,0,0
+Bolivia,2021-02-04,Sputnik V,https://github.com/dquintani/vacunacion/,5172,5172,0,0
+Bolivia,2021-02-05,Sputnik V,https://github.com/dquintani/vacunacion/,7430,7430,0,0
+Bolivia,2021-02-06,Sputnik V,https://github.com/dquintani/vacunacion/,7636,7636,0,0
+Bolivia,2021-02-07,Sputnik V,https://github.com/dquintani/vacunacion/,7752,7752,0,0
+Bolivia,2021-02-08,Sputnik V,https://github.com/dquintani/vacunacion/,8905,8905,0,0
+Bolivia,2021-02-09,Sputnik V,https://github.com/dquintani/vacunacion/,9752,9752,0,0
+Bolivia,2021-02-10,Sputnik V,https://github.com/dquintani/vacunacion/,10167,10167,0,0
+Bolivia,2021-02-20,Sputnik V,https://github.com/dquintani/vacunacion/,10313,10301,12,0
+Bolivia,2021-02-22,Sputnik V,https://github.com/dquintani/vacunacion/,10511,10301,210,0
+Bolivia,2021-02-23,Sputnik V,https://github.com/dquintani/vacunacion/,11331,10301,1030,0
+Bolivia,2021-02-24,Sputnik V,https://github.com/dquintani/vacunacion/,12935,10301,2634,0
+Bolivia,2021-02-25,Sputnik V,https://github.com/dquintani/vacunacion/,18609,11979,6630,0
+Bolivia,2021-02-27,Sputnik V,https://github.com/dquintani/vacunacion/,29813,22212,7601,0
+Bolivia,2021-03-02,Sputnik V,https://github.com/dquintani/vacunacion/,55617,46455,9162,0
+Bolivia,2021-03-06,Sputnik V,https://github.com/dquintani/vacunacion/,106182,96397,9785,0
+Bolivia,2021-03-07,Sputnik V,https://github.com/dquintani/vacunacion/,106905,97120,9785,0
+Bolivia,2021-03-08,Sputnik V,https://github.com/dquintani/vacunacion/,112066,102236,9830,0
+Bolivia,2021-03-09,Sputnik V,https://github.com/dquintani/vacunacion/,119080,109210,9870,0
+Bolivia,2021-03-10,Sputnik V,https://github.com/dquintani/vacunacion/,126889,117011,9878,0
+Bolivia,2021-03-11,Sputnik V,https://github.com/dquintani/vacunacion/,132286,122348,9938,0
+Bolivia,2021-03-12,Sputnik V,https://github.com/dquintani/vacunacion/,137150,127199,9951,0
+Bolivia,2021-03-13,Sputnik V,https://github.com/dquintani/vacunacion/,137787,127836,9951,0
+Bolivia,2021-03-14,Sputnik V,https://github.com/dquintani/vacunacion/,138218,128267,9951,0
+Bolivia,2021-03-15,Sputnik V,https://github.com/dquintani/vacunacion/,141810,131814,9996,0
+Bolivia,2021-03-16,Sputnik V,https://github.com/dquintani/vacunacion/,146039,136032,10007,0
+Bolivia,2021-03-17,Sputnik V,https://github.com/dquintani/vacunacion/,150593,140532,10061,0
+Bolivia,2021-03-18,Sputnik V,https://github.com/dquintani/vacunacion/,155945,144816,11129,0
+Bolivia,2021-03-19,Sputnik V,https://github.com/dquintani/vacunacion/,166984,150045,16939,0
+Bolivia,2021-03-20,Sputnik V,https://github.com/dquintani/vacunacion/,169058,150486,18572,0
+Bolivia,2021-03-21,Sputnik V,https://github.com/dquintani/vacunacion/,170320,150818,19502,0
+Bolivia,2021-03-22,Sputnik V,https://github.com/dquintani/vacunacion/,182030,153795,28235,0
+Bolivia,2021-03-23,Sputnik V,https://github.com/dquintani/vacunacion/,198399,156257,42142,0
+Bolivia,2021-03-24,Sputnik V,https://github.com/dquintani/vacunacion/,218496,161199,57297,0
+Bolivia,2021-03-25,Sputnik V,https://github.com/dquintani/vacunacion/,238178,166737,71441,0
+Bolivia,2021-03-26,Sputnik V,https://github.com/dquintani/vacunacion/,259171,173264,85907,0
+Bolivia,2021-03-27,Sputnik V,https://github.com/dquintani/vacunacion/,263114,174799,88315,0
+Bolivia,2021-03-28,Sputnik V,https://github.com/dquintani/vacunacion/,263887,175169,88718,0
+Bolivia,2021-03-29,Sputnik V,https://github.com/dquintani/vacunacion/,275810,180484,95326,0
+Bolivia,2021-03-30,Sputnik V,https://github.com/dquintani/vacunacion/,289327,186961,102366,0
+Bolivia,2021-03-31,Sputnik V,https://github.com/dquintani/vacunacion/,304185,194880,109305,0
+Bolivia,2021-04-01,Sputnik V,https://github.com/dquintani/vacunacion/,318115,203103,115012,0
+Bolivia,2021-04-02,Sputnik V,https://github.com/dquintani/vacunacion/,320065,204097,115968,0
+Bolivia,2021-04-03,Sputnik V,https://github.com/dquintani/vacunacion/,321807,205115,116692,0
+Bolivia,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,323081,206003,117078,0
+Bolivia,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,339633,215926,123707,0
+Bolivia,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,357924,229556,128368,0
+Bolivia,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,378455,245763,132692,0
+Bolivia,2021-04-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,400804,263732,137072,0
+Bolivia,2021-04-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,423842,282801,141041,0
+Bolivia,2021-04-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,428502,287004,141498,0
+Bolivia,2021-04-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,431018,289353,141665,0
+Bolivia,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,447417,302991,144426,0
+Bolivia,2021-04-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,465896,317701,148195,0
+Bolivia,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,486354,333137,153217,0
+Bolivia,2021-04-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,507415,348595,158820,0
+Bolivia,2021-04-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,530496,365333,165163,0
+Bolivia,2021-04-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,536374,370483,165891,0
+Bolivia,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,539230,373139,166091,0
+Bolivia,2021-04-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,557394,385889,171505,0
+Bolivia,2021-04-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,577211,400087,177124,0
+Bolivia,2021-04-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,596366,413643,182723,0
+Bolivia,2021-04-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,619794,431138,188656,0
+Bolivia,2021-04-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,647118,456643,190475,0
+Bolivia,2021-04-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,656613,465823,190790,0
+Bolivia,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,660610,469586,191024,0
+Bolivia,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,688654,490495,198159,0
+Bolivia,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,722946,516958,205988,0
+Bolivia,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,762044,547471,214573,0
+Bolivia,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,799322,576819,222503,0
+Bolivia,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,842642,610534,232108,0
+Bolivia,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,848149,614600,233549,0
+Bolivia,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,851192,616436,234756,0
+Bolivia,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,878569,637694,240875,0
+Bolivia,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,909863,663041,246822,0
+Bolivia,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,941419,689633,251786,0
+Bolivia,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,966546,710240,256306,0
+Bolivia,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,990300,728194,262106,0
+Bolivia,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,997296,733305,263991,0
+Bolivia,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,998818,734162,264656,0
+Bolivia,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1010982,741659,269323,0
+Bolivia,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1022419,748839,273580,0
+Bolivia,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1031127,754525,276602,0
+Bolivia,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1056895,776914,279981,0
+Bolivia,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1093965,810391,283574,0
+Bolivia,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1103071,818489,284582,0
+Bolivia,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1106725,821241,285484,0
+Bolivia,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1146054,857492,288562,0
+Bolivia,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1194572,902833,291739,0
+Bolivia,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1246112,951833,294279,0
+Bolivia,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1301201,1004613,296588,0
+Bolivia,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1356985,1058435,298550,0
+Bolivia,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1371216,1071682,299534,0
+Bolivia,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1376494,1076124,300370,0
+Bolivia,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1415620,1112812,302808,0
+Bolivia,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1457644,1145107,312537,0
+Bolivia,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1511957,1185725,326232,0
+Bolivia,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1564349,1224313,340036,0
+Bolivia,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1616658,1271262,345396,0
+Bolivia,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1630173,1283524,346649,0
+Bolivia,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1635543,1288278,347265,0
+Bolivia,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1681883,1331789,350094,0
+Bolivia,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1729799,1376792,353007,0
+Bolivia,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1767803,1412650,355153,0
+Bolivia,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1776677,1420596,356081,0
+Bolivia,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1814885,1444171,370714,0
+Bolivia,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1825646,1451108,374538,0
+Bolivia,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1829560,1454262,375298,0
+Bolivia,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1878702,1470833,407869,0
+Bolivia,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1940095,1490937,449158,0
+Bolivia,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,1983406,1505972,477434,0
+Bolivia,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2012800,1516226,496574,0
+Bolivia,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2057663,1538429,519234,0
+Bolivia,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2065191,1542588,522603,0
+Bolivia,2021-06-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2069629,1544730,524899,0
+Bolivia,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2092391,1556720,535671,0
+Bolivia,2021-06-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2117222,1572351,544871,0
+Bolivia,2021-06-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2151088,1594489,556599,0
+Bolivia,2021-06-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2181452,1615514,565938,0
+Bolivia,2021-06-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2211481,1634281,577200,0
+Bolivia,2021-06-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2221930,1639526,582404,0
+Bolivia,2021-06-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2227967,1643870,584097,0
+Bolivia,2021-06-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2231841,1645289,586552,0
+Bolivia,2021-06-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2267781,1658589,609192,0
+Bolivia,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2316046,1684182,631864,0
+Bolivia,2021-06-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2364510,1723159,641351,0
+Bolivia,2021-06-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2422563,1766995,655568,0
+Bolivia,2021-06-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2437660,1778282,659378,0
+Bolivia,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2450510,1788228,662282,0
+Bolivia,2021-06-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2499635,1823110,676525,0
+Bolivia,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2549403,1857751,691652,0
+Bolivia,2021-06-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2590835,1885313,705522,0
+Bolivia,2021-07-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2647544,1927217,720327,0
+Bolivia,2021-07-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2720949,1987768,733181,0
+Bolivia,2021-07-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2738912,2002991,735921,0
+Bolivia,2021-07-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2762994,2024454,738540,0
+Bolivia,2021-07-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2807912,2062126,745786,0
+Bolivia,2021-07-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2894018,2138120,755898,0
+Bolivia,2021-07-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,2974036,2204299,769737,0
+Bolivia,2021-07-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3031802,2249566,782236,0
+Bolivia,2021-07-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3080610,2289932,790678,0
+Bolivia,2021-07-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3096918,2304075,792843,0
+Bolivia,2021-07-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3117521,2321231,796290,0
+Bolivia,2021-07-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3182245,2373566,808679,0
+Bolivia,2021-07-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3250847,2429456,821482,0
+Bolivia,2021-07-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3318781,2481894,837069,0
+Bolivia,2021-07-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3395319,2528672,867258,0
+Bolivia,2021-07-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3464436,2568957,902772,0
+Bolivia,2021-07-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3491771,2587736,917488,0
+Bolivia,2021-07-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3528220,2616902,929229,0
+Bolivia,2021-07-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3619206,2665588,980288,0
+Bolivia,2021-07-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3707047,2715583,1030885,0
+Bolivia,2021-07-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3796016,2767336,1083015,0
+Bolivia,2021-07-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3887758,2814808,1144931,0
+Bolivia,2021-07-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,3984520,2857854,1214690,0
+Bolivia,2021-07-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4014690,2874550,1236034,0
+Bolivia,2021-07-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4051772,2900563,1263637,0
+Bolivia,2021-07-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4151556,2940060,1340821,0
+Bolivia,2021-07-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4260287,2985920,1425551,0
+Bolivia,2021-07-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4354027,3025531,1502696,0
+Bolivia,2021-07-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4426954,3061750,1563658,0
+Bolivia,2021-07-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4487894,3094376,1613610,0
+Bolivia,2021-07-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4505459,3106488,1627394,0
+Bolivia,2021-08-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4526177,3124124,1644738,0
+Bolivia,2021-08-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4585576,3160873,1691896,0
+Bolivia,2021-08-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4630979,3190530,1727054,0
+Bolivia,2021-08-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4670580,3218439,1756703,0
+Bolivia,2021-08-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4710183,3246349,1786354,0
+Bolivia,2021-08-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4714133,3249128,1789734,0
+Bolivia,2021-08-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4724095,3256960,1797824,0
+Bolivia,2021-08-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4735491,3266773,1806431,0
+Bolivia,2021-08-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4779544,3296563,1839667,0
+Bolivia,2021-08-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4824801,3322513,1875645,0
+Bolivia,2021-08-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4879099,3345645,1921905,0
+Bolivia,2021-08-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,4942039,3373698,1976605,0
+Bolivia,2021-08-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5004937,3406804,2027136,0
+Bolivia,2021-08-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5020881,3419189,2038083,0
+Bolivia,2021-08-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5036033,3432618,2046562,0
+Bolivia,2021-08-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5096306,3463528,2095325,0
+Bolivia,2021-08-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5154253,3491742,2141816,0
+Bolivia,2021-08-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5215804,3520222,2192160,0
+Bolivia,2021-08-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5270463,3546645,2236947,0
+Bolivia,2021-08-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5319711,3571966,2275700,0
+Bolivia,2021-08-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5330625,3579375,2282997,0
+Bolivia,2021-08-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5340943,3588041,2289389,0
+Bolivia,2021-08-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5389632,3610615,2328228,0
+Bolivia,2021-08-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5480769,3653993,2401767,0
+Bolivia,2021-08-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5574927,3697377,2480500,0
+Bolivia,2021-08-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5674777,3769324,2522944,0
+Bolivia,2021-08-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5772970,3825802,2600349,0
+Bolivia,2021-08-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5812688,3858441,2627191,0
+Bolivia,2021-08-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5850794,3890613,2652059,0
+Bolivia,2021-08-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,5950132,3966261,2719235,0
+Bolivia,2021-08-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6001157,3996452,2747844,0
+Bolivia,2021-09-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6034049,4012291,2772673,0
+Bolivia,2021-09-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6058088,4025636,2791142,0
+Bolivia,2021-09-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6082129,4038983,2809612,0
+Bolivia,2021-09-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6102835,4050993,2826083,0
+Bolivia,2021-09-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6113109,4059318,2835808,0
+Bolivia,2021-09-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6139644,4072114,2857322,0
+Bolivia,2021-09-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6174508,4085788,2886288,0
+Bolivia,2021-09-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6209373,4099462,2915254,0
+Bolivia,2021-09-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6243449,4113206,2943362,0
+Bolivia,2021-09-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6268450,4123407,2961884,0
+Bolivia,2021-09-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6273769,4125684,2966069,0
+Bolivia,2021-09-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6277737,4127468,2969114,0
+Bolivia,2021-09-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6300665,4138432,2985103,0
+Bolivia,2021-09-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6323595,4149398,3001093,0
+Bolivia,2021-09-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6347661,4161019,3017983,0
+Bolivia,2021-09-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6361341,4168610,3026055,0
+Bolivia,2021-09-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6375021,4176201,3034127,0
+Bolivia,2021-09-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6388703,4183793,3042201,0
+Bolivia,2021-09-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6415925,4193280,3063009,0
+Bolivia,2021-09-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6443148,4202768,3083818,0
+Bolivia,2021-09-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6522338,4219065,3151525,0
+Bolivia,2021-09-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6601529,4235363,3219232,0
+Bolivia,2021-09-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6636967,4245381,3247678,0
+Bolivia,2021-09-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6646806,4249312,3255165,0
+Bolivia,2021-09-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6651655,4252426,3258388,0
+Bolivia,2021-09-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6700654,4267380,3297377,0
+Bolivia,2021-09-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6740554,4280176,3328563,0
+Bolivia,2021-09-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6780455,4292973,3359749,0
+Bolivia,2021-09-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6800922,4299925,3374883,0
+Bolivia,2021-10-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6821390,4306878,3390017,0
+Bolivia,2021-10-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6825033,4308530,3392470,0
+Bolivia,2021-10-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6828932,4311020,3394952,0
+Bolivia,2021-10-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6870352,4330298,3423919,0
+Bolivia,2021-10-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6893259,4340105,3439468,0
+Bolivia,2021-10-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6914497,4349530,3453948,0
+Bolivia,2021-10-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6931689,4357421,3465762,0
+Bolivia,2021-10-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6951197,4365450,3479618,0
+Bolivia,2021-10-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6955520,4367604,3482769,0
+Bolivia,2021-10-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6958148,4369692,3484332,0
+Bolivia,2021-10-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,6980293,4379371,3500388,0
+Bolivia,2021-10-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7010807,4387373,3525221,0
+Bolivia,2021-10-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7040751,4395519,3549135,0
+Bolivia,2021-10-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7084229,4403962,3574888,11466
+Bolivia,2021-10-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7127210,4412497,3600629,22390
+Bolivia,2021-10-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7134664,4414130,3604834,24509
+Bolivia,2021-10-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7143477,4416525,3608707,27571
+Bolivia,2021-10-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7204477,4427562,3643169,45963
+Bolivia,2021-10-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7281233,4437575,3681942,76112
+Bolivia,2021-10-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7346540,4445986,3710580,106137
+Bolivia,2021-10-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7405721,4455080,3735478,133491
+Bolivia,2021-10-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7456121,4464937,3754945,156157
+Bolivia,2021-10-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7465334,4468388,3758351,159582
+Bolivia,2021-10-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7470155,4470358,3760075,161269
+Bolivia,2021-10-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7538426,4487799,3785742,189461
+Bolivia,2021-10-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7589288,4500928,3802010,212228
+Bolivia,2021-10-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7650594,4517852,3819743,240875
+Bolivia,2021-10-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7693560,4528664,3831087,262528
+Bolivia,2021-10-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7769002,4544602,3851318,305066
+Bolivia,2021-10-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7803837,4559543,3858421,320124
+Bolivia,2021-10-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7818347,4562128,3861325,329432
+Bolivia,2021-11-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7851931,4573349,3872775,342654
+Bolivia,2021-11-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7853755,4574242,3873435,343194
+Bolivia,2021-11-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7874322,4583292,3883520,346660
+Bolivia,2021-11-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7901853,4595949,3894992,352461
+Bolivia,2021-11-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7931788,4611290,3907677,357438
+Bolivia,2021-11-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7940336,4617553,3911371,357573
+Bolivia,2021-11-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7943468,4619842,3913343,357585
+Bolivia,2021-11-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7963463,4631637,3922163,359535
+Bolivia,2021-11-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,7985636,4646520,3931783,359706
+Bolivia,2021-11-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8005943,4661570,3938303,359796
+Bolivia,2021-11-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8041312,4688631,3948592,360808
+Bolivia,2021-11-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8077305,4716386,3958765,361006
+Bolivia,2021-11-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8093436,4729877,3962614,361020
+Bolivia,2021-11-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8104188,4737302,3965483,362758
+Bolivia,2021-11-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8132175,4755528,3976759,363259
+Bolivia,2021-11-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8175240,4785605,3992808,363266
+Bolivia,2021-11-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8218140,4816178,4008722,363267
+Bolivia,2021-11-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8267905,4852149,4027093,363267
+Bolivia,2021-11-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8313654,4884778,4042436,363267
+Bolivia,2021-11-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8336670,4902475,4048412,363267
+Bolivia,2021-11-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8340954,4905223,4049963,363267
+Bolivia,2021-11-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8365014,4918875,4060418,363267
+Bolivia,2021-11-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8411426,4952456,4075314,363267
+Bolivia,2021-11-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8448131,4976866,4088196,363267
+Bolivia,2021-11-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8482805,4999534,4100905,363267
+Bolivia,2021-11-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8517317,5020911,4114837,363267
+Bolivia,2021-11-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8531575,5029355,4120695,363267
+Bolivia,2021-11-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8535952,5032119,4122320,363267
+Bolivia,2021-11-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8572118,5054464,4136979,363902
+Bolivia,2021-11-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8609838,5074083,4152712,366304
+Bolivia,2021-12-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8650057,5093022,4170622,369690
+Bolivia,2021-12-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8691191,5109546,4190241,374712
+Bolivia,2021-12-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8737135,5125688,4212027,382743
+Bolivia,2021-12-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8753013,5131068,4220396,384877
+Bolivia,2021-12-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8756799,5132783,4221790,385556
+Bolivia,2021-12-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8797202,5148119,4241827,390598
+Bolivia,2021-12-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8842248,5163781,4265666,396170
+Bolivia,2021-12-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8890536,5178966,4291584,403390
+Bolivia,2021-12-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8937589,5193695,4316049,411264
+Bolivia,2021-12-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,8990904,5214522,4340270,419545
+Bolivia,2021-12-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9008443,5221782,4347985,422109
+Bolivia,2021-12-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9013106,5224163,4349604,422772
+Bolivia,2021-12-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9064723,5248229,4369236,430697
+Bolivia,2021-12-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9120842,5274553,4389754,439974
+Bolivia,2021-12-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9177575,5301739,4409386,449896
+Bolivia,2021-12-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9231657,5328735,4427365,459041
+Bolivia,2021-12-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9275602,5350887,4441279,466933
+Bolivia,2021-12-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9290068,5357789,4446244,469535
+Bolivia,2021-12-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9306120,5367723,4449255,472644
+Bolivia,2021-12-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9351668,5390138,4464105,480933
+Bolivia,2021-12-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9398762,5413267,4480200,488806
+Bolivia,2021-12-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9440834,5433937,4494603,495805
+Bolivia,2021-12-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9475553,5449952,4507062,502050
+Bolivia,2021-12-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9503944,5463883,4517005,506567
+Bolivia,2021-12-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9505960,5464907,4517803,506761
+Bolivia,2021-12-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9509864,5466996,4519015,507364
+Bolivia,2021-12-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9556929,5492333,4533537,514570
+Bolivia,2021-12-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9633790,5537212,4554195,525894
+Bolivia,2021-12-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9682874,5566346,4567166,532873
+Bolivia,2021-12-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9757168,5613175,4584243,543261
+Bolivia,2021-12-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9792844,5635100,4593214,548041
+Bolivia,2022-01-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9828521,5657026,4602185,552821
+Bolivia,2022-01-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9835426,5661892,4603571,553474
+Bolivia,2022-01-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,9980703,5752738,4653074,567396
+Bolivia,2022-01-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10119450,5849291,4681278,581401
+Bolivia,2022-01-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10253380,5938843,4711140,596010
+Bolivia,2022-01-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10400207,6035225,4743944,613651
+Bolivia,2022-01-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10486385,6088077,4763418,627532
+Bolivia,2022-01-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10572565,6140930,4782893,641413
+Bolivia,2022-01-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10589886,6151069,4786706,644783
+Bolivia,2022-01-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10694224,6211411,4813045,662471
+Bolivia,2022-01-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10787201,6261522,4837635,680781
+Bolivia,2022-01-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10867524,6302133,4860395,697746
+Bolivia,2022-01-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,10965771,6355619,4885240,717714
+Bolivia,2022-01-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11038395,6395421,4903383,732411
+Bolivia,2022-01-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11065718,6410690,4909187,738671
+Bolivia,2022-01-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11075652,6416251,4911463,740770
+Bolivia,2022-01-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11214077,6489235,4957620,762158
+Bolivia,2022-01-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11289634,6525632,4984453,774510
+Bolivia,2022-01-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11357778,6557320,5008600,786819
+Bolivia,2022-01-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11408180,6577720,5028922,796499
+Bolivia,2022-01-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11468728,6600781,5052435,810473
+Bolivia,2022-01-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11479191,6605271,5055376,813505
+Bolivia,2022-01-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11485022,6607547,5057300,815136
+Bolivia,2022-01-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11530381,6622091,5079663,823588
+Bolivia,2022-01-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11601193,6648054,5112190,835910
+Bolivia,2022-01-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11658763,6664808,5143396,845520
+Bolivia,2022-01-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11709325,6679305,5171346,853635
+Bolivia,2022-01-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11763854,6694190,5201566,863059
+Bolivia,2022-01-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11787553,6701069,5213649,867796
+Bolivia,2022-01-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11793899,6703110,5216344,869406
+Bolivia,2022-01-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11860582,6726744,5249625,879174
+Bolivia,2022-02-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11895767,6736240,5269121,885367
+Bolivia,2022-02-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11932309,6745618,5289506,892146
+Bolivia,2022-02-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,11965627,6753158,5308361,899069
+Bolivia,2022-02-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12015161,6766140,5334637,909345
+Bolivia,2022-02-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12035055,6771198,5345366,913452
+Bolivia,2022-02-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12039368,6772334,5347351,914644
+Bolivia,2022-02-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12072776,6781575,5364939,921223
+Bolivia,2022-02-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12107100,6789249,5383754,929058
+Bolivia,2022-02-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12145082,6798156,5403324,938563
+Bolivia,2022-02-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12180886,6806843,5421242,947762
+Bolivia,2022-02-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12220558,6817070,5440391,958058
+Bolivia,2022-02-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12241801,6823067,5450039,963656
+Bolivia,2022-02-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12247228,6824607,5451936,965646
+Bolivia,2022-02-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12278634,6833886,5465759,973950
+Bolivia,2022-02-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12311839,6842915,5481227,982658
+Bolivia,2022-02-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12344214,6852189,5495795,991191
+Bolivia,2022-02-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12378961,6862399,5511748,999775
+Bolivia,2022-02-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12412081,6872780,5526428,1007834
+Bolivia,2022-02-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12430558,6878437,5534819,1012263
+Bolivia,2022-02-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12434582,6879571,5536472,1013500
+Bolivia,2022-02-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12461951,6887620,5548888,1020404
+Bolivia,2022-02-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12490559,6896813,5561274,1027433
+Bolivia,2022-02-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12518477,6906461,5573320,1033657
+Bolivia,2022-02-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12554402,6918700,5589509,1041154
+Bolivia,2022-02-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12576940,6926581,5599653,1045667
+Bolivia,2022-02-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12586663,6929767,5604074,1047783
+Bolivia,2022-02-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12588095,6930139,5604676,1048241
+Bolivia,2022-02-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12589125,6930367,5605224,1048495
+Bolivia,2022-03-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12589867,6930515,5605495,1048818
+Bolivia,2022-03-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12615895,6938144,5616868,1055844
+Bolivia,2022-03-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12625899,6941454,5621169,1058237
+Bolivia,2022-03-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12683665,6958707,5647597,1072322
+Bolivia,2022-03-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12700090,6962520,5652782,1079749
+Bolivia,2022-03-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12702608,6963285,5653701,1080583
+Bolivia,2022-03-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12720136,6969101,5660552,1085444
+Bolivia,2022-03-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12736142,6974121,5666928,1090054
+Bolivia,2022-03-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12755225,6979572,5674108,1096506
+Bolivia,2022-03-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12777499,6986370,5682300,1103790
+Bolivia,2022-03-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12802736,6993368,5691668,1112661
+Bolivia,2022-03-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12810001,6995489,5693888,1115585
+Bolivia,2022-03-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12813437,6996135,5694373,1117890
+Bolivia,2022-03-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12852280,7009674,5706717,1130850
+Bolivia,2022-03-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12882007,7018188,5716499,1142281
+Bolivia,2022-03-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12919651,7027712,5729223,1157677
+Bolivia,2022-03-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12941726,7033766,5736736,1166185
+Bolivia,2022-03-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12962871,7040304,5744901,1172627
+Bolivia,2022-03-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12971350,7043131,5747887,1175293
+Bolivia,2022-03-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12972825,7043449,5748311,1176026
+Bolivia,2022-03-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,12986554,7047412,5752897,1181206
+Bolivia,2022-03-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13003762,7052444,5758741,1187538
+Bolivia,2022-03-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13021840,7057834,5765023,1193944
+Bolivia,2022-03-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13034118,7061332,5769428,1198319
+Bolivia,2022-03-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13056982,7068049,5777738,1206156
+Bolivia,2022-03-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13062659,7069468,5779744,1208408
+Bolivia,2022-03-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13064425,7069869,5780269,1209248
+Bolivia,2022-03-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13080163,7073836,5785706,1215582
+Bolivia,2022-03-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13093658,7077224,5790123,1221272
+Bolivia,2022-03-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13108260,7080636,5795307,1227278
+Bolivia,2022-03-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13125458,7084602,5801455,1234362
+Bolivia,2022-04-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13140213,7088507,5807165,1239502
+Bolivia,2022-04-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13146111,7090384,5809590,1241098
+Bolivia,2022-04-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13147393,7090704,5809996,1241654
+Bolivia,2022-04-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13156072,7093270,5813602,1244161
+Bolivia,2022-04-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13165848,7096102,5817913,1246794
+Bolivia,2022-04-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13170288,7097222,5819229,1248798
+Bolivia,2022-04-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13176641,7099014,5821889,1250699
+Bolivia,2022-04-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13189695,7102999,5828852,1252805
+Bolivia,2022-04-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13194780,7104450,5831259,1254032
+Bolivia,2022-04-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13195558,7104636,5831593,1254290
+Bolivia,2022-04-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13201270,7106071,5834249,1255911
+Bolivia,2022-04-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13208182,7107940,5837415,1257788
+Bolivia,2022-04-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13215081,7109658,5840587,1259797
+Bolivia,2022-04-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13223437,7111837,5844596,1261965
+Bolivia,2022-04-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13225598,7112347,5845562,1262650
+Bolivia,2022-04-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13227187,7112764,5846210,1263174
+Bolivia,2022-04-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13227773,7112887,5846414,1263433
+Bolivia,2022-04-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13334551,7146557,5881226,1305420
+Bolivia,2022-04-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13343242,7147963,5883836,1310095
+Bolivia,2022-04-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13354543,7149791,5887389,1316015
+Bolivia,2022-04-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13366189,7151974,5890875,1321992
+Bolivia,2022-04-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13384924,7155712,5897078,1330786
+Bolivia,2022-04-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13387981,7156100,5898123,1332410
+Bolivia,2022-04-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13391837,7156463,5898910,1335116
+Bolivia,2022-04-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13400693,7157861,5901305,1340179
+Bolivia,2022-04-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://github.com/dquintani/vacunacion/,13412847,7159929,5904881,1346689

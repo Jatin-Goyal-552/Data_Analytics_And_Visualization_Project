@@ -1,0 +1,445 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Luxembourg,2020-12-28,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,452,452,0,0
+Luxembourg,2020-12-29,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,800,800,0,0
+Luxembourg,2020-12-30,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,1251,1251,0,0
+Luxembourg,2021-01-06,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,1351,1351,0,0
+Luxembourg,2021-01-07,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,1496,1496,0,0
+Luxembourg,2021-01-08,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,1706,1706,0,0
+Luxembourg,2021-01-11,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,1948,1948,0,0
+Luxembourg,2021-01-12,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,2378,2378,0,0
+Luxembourg,2021-01-13,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,2876,2876,0,0
+Luxembourg,2021-01-14,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,3238,3238,0,0
+Luxembourg,2021-01-15,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,3681,3681,0,0
+Luxembourg,2021-01-16,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,3760,3760,0,0
+Luxembourg,2021-01-18,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,4574,4127,447,0
+Luxembourg,2021-01-19,Pfizer/BioNTech,https://data.public.lu/en/datasets/donnees-covid19/#_,5298,4504,794,0
+Luxembourg,2021-01-20,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,6198,4955,1243,0
+Luxembourg,2021-01-21,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,6903,5660,1243,0
+Luxembourg,2021-01-22,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,7585,6341,1244,0
+Luxembourg,2021-01-23,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,7717,6473,1244,0
+Luxembourg,2021-01-25,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,8559,7314,1245,0
+Luxembourg,2021-01-26,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,9527,8282,1245,0
+Luxembourg,2021-01-27,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,10451,9109,1342,0
+Luxembourg,2021-01-28,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,11374,9891,1483,0
+Luxembourg,2021-01-29,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,12306,10625,1681,0
+Luxembourg,2021-01-30,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,12433,10752,1681,0
+Luxembourg,2021-02-01,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,13243,11337,1906,0
+Luxembourg,2021-02-02,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,14256,11927,2329,0
+Luxembourg,2021-02-03,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,15415,12602,2813,0
+Luxembourg,2021-02-04,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,16427,13261,3166,0
+Luxembourg,2021-02-05,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,17443,13826,3617,0
+Luxembourg,2021-02-06,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,17638,13945,3693,0
+Luxembourg,2021-02-08,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,18149,14094,4055,0
+Luxembourg,2021-02-09,"Moderna, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,18663,14232,4431,0
+Luxembourg,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,19934,15058,4876,0
+Luxembourg,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,21402,16136,5266,0
+Luxembourg,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,22572,16927,5645,0
+Luxembourg,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,22907,17262,5645,0
+Luxembourg,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,24036,18060,5976,0
+Luxembourg,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,25931,19630,6301,0
+Luxembourg,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,27132,20613,6519,0
+Luxembourg,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,28946,21861,7085,0
+Luxembourg,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,30570,22976,7594,0
+Luxembourg,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,30995,23268,7727,0
+Luxembourg,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,31939,23694,8245,0
+Luxembourg,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,33384,24517,8867,0
+Luxembourg,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,34775,25294,9481,0
+Luxembourg,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,36086,26098,9988,0
+Luxembourg,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,37383,26800,10583,0
+Luxembourg,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,37807,27101,10706,0
+Luxembourg,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,39135,27663,11472,0
+Luxembourg,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,40480,28480,12000,0
+Luxembourg,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,42137,29404,12733,0
+Luxembourg,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,44188,30726,13462,0
+Luxembourg,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,45993,31977,14016,0
+Luxembourg,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,46727,32595,14132,0
+Luxembourg,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,47533,33242,14291,0
+Luxembourg,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,48976,34534,14442,0
+Luxembourg,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,51471,36695,14776,0
+Luxembourg,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,54888,39565,15323,0
+Luxembourg,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,57792,42235,15557,0
+Luxembourg,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,59066,43485,15581,0
+Luxembourg,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,60788,44881,15907,0
+Luxembourg,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,64081,47598,16483,0
+Luxembourg,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,67167,50220,16947,0
+Luxembourg,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,70357,52872,17485,0
+Luxembourg,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,73210,55348,17862,0
+Luxembourg,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,74272,56383,17889,0
+Luxembourg,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,75555,57408,18147,0
+Luxembourg,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,78018,59309,18709,0
+Luxembourg,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,80355,61024,19331,0
+Luxembourg,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,82680,62809,19871,0
+Luxembourg,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,85203,64697,20506,0
+Luxembourg,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,86584,65848,20736,0
+Luxembourg,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,89716,68613,21102,1
+Luxembourg,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,92607,70911,21695,1
+Luxembourg,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,95692,73151,22540,1
+Luxembourg,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,99387,75858,23528,1
+Luxembourg,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,102817,78403,24413,1
+Luxembourg,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,105915,81079,24835,1
+Luxembourg,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,108972,83645,25326,1
+Luxembourg,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,112805,86350,26454,1
+Luxembourg,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,117189,88712,28476,1
+Luxembourg,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,122013,91071,30941,1
+Luxembourg,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,126969,93748,33220,1
+Luxembourg,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,130350,96051,34298,1
+Luxembourg,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,135171,99992,35178,1
+Luxembourg,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,141440,103569,37870,1
+Luxembourg,2021-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,147612,107167,,2
+Luxembourg,2021-04-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,153521,110437,,2
+Luxembourg,2021-04-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,159210,113943,,2
+Luxembourg,2021-04-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,164189,118120,,2
+Luxembourg,2021-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,165615,119261,,2
+Luxembourg,2021-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,166822,120308,,2
+Luxembourg,2021-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,170142,123141,,2
+Luxembourg,2021-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,173257,125742,,2
+Luxembourg,2021-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,176542,128537,,2
+Luxembourg,2021-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,178911,130593,,2
+Luxembourg,2021-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,178913,130595,,2
+Luxembourg,2021-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,180607,131879,,2
+Luxembourg,2021-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,182025,132692,,2
+Luxembourg,2021-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,186587,136457,,2
+Luxembourg,2021-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,191531,140499,,2
+Luxembourg,2021-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,196285,144387,,2
+Luxembourg,2021-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,200669,148456,,2
+Luxembourg,2021-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,206823,152154,,2
+Luxembourg,2021-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,213354,155899,,2
+Luxembourg,2021-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,220369,160429,,2
+Luxembourg,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,227437,165378,,2
+Luxembourg,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,234440,169650,,2
+Luxembourg,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,241397,175129,,2
+Luxembourg,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,248624,179437,,2
+Luxembourg,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,255813,183290,,2
+Luxembourg,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,263032,187620,,2
+Luxembourg,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,270019,191726,,2
+Luxembourg,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,277514,196030,,2
+Luxembourg,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,285053,199583,,2
+Luxembourg,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,291650,204870,,2
+Luxembourg,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,297495,209492,,2
+Luxembourg,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,304209,213288,,2
+Luxembourg,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,309779,216026,,2
+Luxembourg,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,315314,218461,,2
+Luxembourg,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,320038,221011,,2
+Luxembourg,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,320040,221011,,2
+Luxembourg,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,322907,222112,,2
+Luxembourg,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,325057,223370,,2
+Luxembourg,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,329543,224153,,2
+Luxembourg,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,334922,225547,,3
+Luxembourg,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,340289,226776,,3
+Luxembourg,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,345728,228012,,3
+Luxembourg,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,345729,228013,,3
+Luxembourg,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,351209,229701,,3
+Luxembourg,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,356481,232376,,3
+Luxembourg,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,365081,237710,,4
+Luxembourg,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,373656,242366,,4
+Luxembourg,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,382208,247093,,4
+Luxembourg,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,389678,250772,,4
+Luxembourg,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,398251,254133,,4
+Luxembourg,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,406745,257916,,4
+Luxembourg,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,414550,260628,,4
+Luxembourg,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,423257,263308,,4
+Luxembourg,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,431688,265737,,4
+Luxembourg,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,439833,268201,,4
+Luxembourg,2021-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,446766,270854,,4
+Luxembourg,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,452777,273094,,4
+Luxembourg,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,460753,278089,,4
+Luxembourg,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,468549,283327,,4
+Luxembourg,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,475082,288021,,4
+Luxembourg,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,483724,293342,,4
+Luxembourg,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,491923,299344,,4
+Luxembourg,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,499737,305585,,4
+Luxembourg,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,506193,311288,,4
+Luxembourg,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,512789,316532,,5
+Luxembourg,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,520078,322560,,5
+Luxembourg,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,527803,328961,,5
+Luxembourg,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,527804,328962,,5
+Luxembourg,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,535084,335003,,5
+Luxembourg,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,543007,338829,,6
+Luxembourg,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,551946,341058,,6
+Luxembourg,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,560744,343739,,6
+Luxembourg,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,569362,346657,,6
+Luxembourg,2021-07-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,577841,350916,,6
+Luxembourg,2021-07-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,577842,350917,,6
+Luxembourg,2021-07-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,585597,354904,,6
+Luxembourg,2021-07-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,593062,358735,,6
+Luxembourg,2021-07-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,599197,362211,,6
+Luxembourg,2021-07-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,604087,365279,,6
+Luxembourg,2021-07-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,609099,368023,,6
+Luxembourg,2021-07-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,614719,371409,,6
+Luxembourg,2021-07-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,614720,371409,,6
+Luxembourg,2021-07-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,620937,374262,,6
+Luxembourg,2021-07-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,626033,376865,,7
+Luxembourg,2021-07-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,633606,379290,,7
+Luxembourg,2021-07-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,640137,380881,,7
+Luxembourg,2021-07-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,646380,382607,,7
+Luxembourg,2021-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,653009,384754,,7
+Luxembourg,2021-07-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,658957,385901,,8
+Luxembourg,2021-07-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,664287,386712,,8
+Luxembourg,2021-07-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,668679,387290,,8
+Luxembourg,2021-07-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,673013,387906,,8
+Luxembourg,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,678161,388645,,21
+Luxembourg,2021-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,683657,389534,,23
+Luxembourg,2021-07-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,683659,389535,,23
+Luxembourg,2021-07-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,689746,390298,,38
+Luxembourg,2021-07-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,694777,390761,,59
+Luxembourg,2021-07-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,698210,391428,,82
+Luxembourg,2021-07-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,701978,392082,,89
+Luxembourg,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,705716,392710,,105
+Luxembourg,2021-07-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,710388,393364,,115
+Luxembourg,2021-08-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,714991,393955,,128
+Luxembourg,2021-08-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,719322,394475,,154
+Luxembourg,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,722871,394932,,169
+Luxembourg,2021-08-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,726035,395428,,188
+Luxembourg,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,729099,395996,,205
+Luxembourg,2021-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,732591,396664,,226
+Luxembourg,2021-08-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,732629,396702,,226
+Luxembourg,2021-08-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,735459,397161,,241
+Luxembourg,2021-08-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,737834,397571,,254
+Luxembourg,2021-08-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,740021,398051,,273
+Luxembourg,2021-08-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,741726,398498,,285
+Luxembourg,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,743510,398928,,299
+Luxembourg,2021-08-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,745553,399365,,308
+Luxembourg,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,747085,399704,,314
+Luxembourg,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,748545,400295,,325
+Luxembourg,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,749767,400914,,333
+Luxembourg,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,751034,401554,,340
+Luxembourg,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,752317,402168,,349
+Luxembourg,2021-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,753566,402615,,358
+Luxembourg,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,753671,402714,,358
+Luxembourg,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,754702,402975,,361
+Luxembourg,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,756026,403617,,372
+Luxembourg,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,757163,404113,,387
+Luxembourg,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,758183,404552,,390
+Luxembourg,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,759482,405145,,395
+Luxembourg,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,760589,405651,,397
+Luxembourg,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,761698,406111,,401
+Luxembourg,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,763061,406765,,422
+Luxembourg,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,764068,407207,,437
+Luxembourg,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,765132,407719,,446
+Luxembourg,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,766419,408406,,454
+Luxembourg,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,767273,408818,,459
+Luxembourg,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,767362,408899,,459
+Luxembourg,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,768260,409325,,462
+Luxembourg,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,769416,409982,,483
+Luxembourg,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,770285,410435,,499
+Luxembourg,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,771249,411010,,504
+Luxembourg,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,772381,411676,,514
+Luxembourg,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,773375,412281,,517
+Luxembourg,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,773409,412307,,517
+Luxembourg,2021-09-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,773489,412368,,520
+Luxembourg,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,775072,413182,,534
+Luxembourg,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,775985,413635,,545
+Luxembourg,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,776941,414072,,555
+Luxembourg,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,778316,414807,,571
+Luxembourg,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,778686,415106,,577
+Luxembourg,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,778805,415208,,580
+Luxembourg,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,778948,415325,,583
+Luxembourg,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,780293,415870,,593
+Luxembourg,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,781018,416203,,600
+Luxembourg,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,781718,416542,,610
+Luxembourg,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,782720,417008,,625
+Luxembourg,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,783651,417405,,640
+Luxembourg,2021-09-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,783735,417485,,640
+Luxembourg,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,784447,417574,,1236
+Luxembourg,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,786662,418037,,2130
+Luxembourg,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,788045,418308,,2876
+Luxembourg,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,789511,418598,,3667
+Luxembourg,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,791479,418937,,4708
+Luxembourg,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,792353,419333,,4750
+Luxembourg,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,792405,419358,,4769
+Luxembourg,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,792931,419390,,5237
+Luxembourg,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,794350,419801,,5411
+Luxembourg,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,795065,420023,,5532
+Luxembourg,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,795909,420267,,5748
+Luxembourg,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,797271,420844,,5957
+Luxembourg,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,798250,421243,,6050
+Luxembourg,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,798256,421246,,6053
+Luxembourg,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,798339,421270,,6071
+Luxembourg,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,800142,421965,,6497
+Luxembourg,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,801228,422412,,6767
+Luxembourg,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,802480,422896,,7173
+Luxembourg,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,803915,423353,,7558
+Luxembourg,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,805319,424242,,7870
+Luxembourg,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,806677,425176,,8161
+Luxembourg,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,808477,425903,,8782
+Luxembourg,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,810473,426876,,9499
+Luxembourg,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,812244,427559,,10245
+Luxembourg,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,814624,428452,,11305
+Luxembourg,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,815906,428991,,11696
+Luxembourg,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,815943,428995,,11714
+Luxembourg,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,817454,429783,,12307
+Luxembourg,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,820673,430646,,14252
+Luxembourg,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,823755,431415,,16318
+Luxembourg,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,826574,432239,,18028
+Luxembourg,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,829707,433104,,20026
+Luxembourg,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,831770,433765,,21157
+Luxembourg,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,831777,433765,,21163
+Luxembourg,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,835371,434767,,23346
+Luxembourg,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,838289,435533,,25294
+Luxembourg,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,840983,436279,,27024
+Luxembourg,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,843860,437036,,28714
+Luxembourg,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,845619,437532,,29656
+Luxembourg,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,845643,437532,,29668
+Luxembourg,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,847183,438052,,30542
+Luxembourg,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,850005,438796,,32101
+Luxembourg,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,852192,439278,,33493
+Luxembourg,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,854535,439874,,34804
+Luxembourg,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,857062,440503,,36233
+Luxembourg,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,859137,440945,,37211
+Luxembourg,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,859142,440947,,37214
+Luxembourg,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,861393,441462,,38217
+Luxembourg,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,864081,442019,,39699
+Luxembourg,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,866949,442456,,41307
+Luxembourg,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,870190,442917,,43496
+Luxembourg,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,874538,443445,,46618
+Luxembourg,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,877257,443874,,48358
+Luxembourg,2021-11-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,877281,443876,,48379
+Luxembourg,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,880352,444236,,50410
+Luxembourg,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,885316,444695,,54115
+Luxembourg,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,890499,445091,,58217
+Luxembourg,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,895612,445501,,62154
+Luxembourg,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,901113,445852,,66468
+Luxembourg,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,903964,446145,,68455
+Luxembourg,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,903988,446146,,68477
+Luxembourg,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,907318,446394,,71429
+Luxembourg,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,914417,446875,,77228
+Luxembourg,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,920479,447626,,81877
+Luxembourg,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,926597,448332,,86639
+Luxembourg,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,933275,449057,,91895
+Luxembourg,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,936911,449669,,94429
+Luxembourg,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,937006,449674,,94515
+Luxembourg,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,940918,450356,,97220
+Luxembourg,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,947483,451245,,102191
+Luxembourg,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,954208,451955,,107722
+Luxembourg,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,960753,452735,,113017
+Luxembourg,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,968400,453607,,119196
+Luxembourg,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,972658,454255,,122370
+Luxembourg,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,973156,454377,,122727
+Luxembourg,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,977035,454950,,125533
+Luxembourg,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,984104,455622,,131377
+Luxembourg,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,992128,456312,,138273
+Luxembourg,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1000565,456952,,145613
+Luxembourg,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1009419,457783,,153058
+Luxembourg,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1013763,458358,,156456
+Luxembourg,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1013899,458366,,156581
+Luxembourg,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1018243,458943,,159979
+Luxembourg,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1026315,459757,,166754
+Luxembourg,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1033967,460270,,173502
+Luxembourg,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1041521,460981,,179930
+Luxembourg,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1045357,461306,,183260
+Luxembourg,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1045374,461306,,183274
+Luxembourg,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1045435,461306,,183332
+Luxembourg,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1049635,461795,,186614
+Luxembourg,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1057498,462589,,193193
+Luxembourg,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1065243,463306,,199642
+Luxembourg,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1072373,464054,,205495
+Luxembourg,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1076408,464417,,208854
+Luxembourg,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1076431,464417,,208877
+Luxembourg,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1080880,464902,,212086
+Luxembourg,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1089148,465678,,218625
+Luxembourg,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1097392,466335,,225435
+Luxembourg,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1105565,467052,,232131
+Luxembourg,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1114269,467863,,239131
+Luxembourg,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1118412,468337,,242181
+Luxembourg,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1118450,468340,,242215
+Luxembourg,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1123434,468859,,246055
+Luxembourg,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1132829,469674,,253953
+Luxembourg,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1141996,470346,,261728
+Luxembourg,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1151340,471190,,269498
+Luxembourg,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1161231,471945,,277693
+Luxembourg,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1165819,472380,,281306
+Luxembourg,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1165837,472382,,281322
+Luxembourg,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1170324,472711,,284903
+Luxembourg,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1178941,473204,,292277
+Luxembourg,2022-01-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1186838,473503,,299375
+Luxembourg,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1194260,473872,,305758
+Luxembourg,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1202289,474240,,312961
+Luxembourg,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1206503,474494,,316790
+Luxembourg,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1209475,474704,,319135
+Luxembourg,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1214051,475042,,322721
+Luxembourg,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1217587,475225,,325549
+Luxembourg,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1221322,475529,,328334
+Luxembourg,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1226010,475788,,332322
+Luxembourg,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1229107,475977,,335144
+Luxembourg,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1231218,476102,,336769
+Luxembourg,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1234125,476271,,338863
+Luxembourg,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1236839,476413,,340949
+Luxembourg,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1239573,476617,,342930
+Luxembourg,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1243099,476795,,345659
+Luxembourg,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1245760,476953,,347745
+Luxembourg,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1247515,477045,,349005
+Luxembourg,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1250094,477225,,350790
+Luxembourg,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1251880,477329,,352005
+Luxembourg,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1253731,477495,,353029
+Luxembourg,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1255970,477654,,354512
+Luxembourg,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1257492,477842,,355530
+Luxembourg,2022-02-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1258709,478022,,356308
+Luxembourg,2022-02-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1260019,478251,,357032
+Luxembourg,2022-02-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1260972,478368,,357641
+Luxembourg,2022-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1261937,478502,,358211
+Luxembourg,2022-02-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1262976,478633,,358858
+Luxembourg,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1264070,478773,,359603
+Luxembourg,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1264089,478773,,359611
+Luxembourg,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1264834,478837,,360077
+Luxembourg,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1265842,478958,,360614
+Luxembourg,2022-02-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1266496,479017,,361029
+Luxembourg,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1267400,479097,,361537
+Luxembourg,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1268546,479184,,362312
+Luxembourg,2022-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1269387,479307,,362842
+Luxembourg,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1269468,479312,,362899
+Luxembourg,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1270441,479443,,363462
+Luxembourg,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1271018,479515,,363822
+Luxembourg,2022-03-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1271787,479612,,364257
+Luxembourg,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1272502,479668,,364738
+Luxembourg,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1273232,479763,,365182
+Luxembourg,2022-03-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1273293,479764,,365223
+Luxembourg,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1274018,479836,,365627
+Luxembourg,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1274415,479859,,365917
+Luxembourg,2022-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1274885,479905,,366208
+Luxembourg,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1275499,479942,,366619
+Luxembourg,2022-03-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1276074,479992,,366943
+Luxembourg,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1276153,480003,,366998
+Luxembourg,2022-03-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1276811,480035,,367307
+Luxembourg,2022-03-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1277157,480049,,367533
+Luxembourg,2022-03-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1277599,480081,,367804
+Luxembourg,2022-03-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1277994,480104,,368061
+Luxembourg,2022-03-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1278384,480134,,368284
+Luxembourg,2022-03-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1278389,480134,,368288
+Luxembourg,2022-03-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1278406,480135,,368303
+Luxembourg,2022-03-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1278912,480182,,368606
+Luxembourg,2022-03-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1279166,480197,,368799
+Luxembourg,2022-03-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1279458,480223,,368980
+Luxembourg,2022-03-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1279865,480249,,369280
+Luxembourg,2022-03-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1280165,480279,,369443
+Luxembourg,2022-03-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1280219,480282,,369485
+Luxembourg,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1280641,480305,,369750
+Luxembourg,2022-03-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1280917,480328,,369934
+Luxembourg,2022-03-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1281268,480345,,370179
+Luxembourg,2022-04-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1281561,480365,,370397
+Luxembourg,2022-04-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1281835,480378,,370580
+Luxembourg,2022-04-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1281885,480387,,370614
+Luxembourg,2022-04-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1282262,480416,,370898
+Luxembourg,2022-04-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1282490,480432,,371073
+Luxembourg,2022-04-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1282709,480453,,371227
+Luxembourg,2022-04-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1282953,480472,,371404
+Luxembourg,2022-04-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1283174,480490,,371555
+Luxembourg,2022-04-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1283204,480495,,371576
+Luxembourg,2022-04-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1283555,480526,,371849
+Luxembourg,2022-04-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1283766,480536,,372020
+Luxembourg,2022-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284000,480552,,372198
+Luxembourg,2022-04-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284203,480565,,372357
+Luxembourg,2022-04-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284381,480576,,372500
+Luxembourg,2022-04-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.who.int/,,,461547,
+Luxembourg,2022-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284573,480594,,372632
+Luxembourg,2022-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284738,480602,,372772
+Luxembourg,2022-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1284916,480613,,372907
+Luxembourg,2022-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1285165,480630,,373110
+Luxembourg,2022-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1285353,480643,,373265
+Luxembourg,2022-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1285363,480643,,373275
+Luxembourg,2022-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1285430,480645,,373338
+Luxembourg,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1285836,480654,,373700
+Luxembourg,2022-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1286189,480660,,374024
+Luxembourg,2022-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1286626,480666,,374436
+Luxembourg,2022-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1287146,480675,,374914
+Luxembourg,2022-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1287423,480688,,375151
+Luxembourg,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.public.lu/en/datasets/donnees-covid19/#_,1287429,480688,,375157

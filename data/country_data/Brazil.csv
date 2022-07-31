@@ -1,0 +1,460 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Brazil,2021-01-17,Sinovac,https://coronavirusbra1.github.io,112,112,0,0
+Brazil,2021-01-18,Sinovac,https://coronavirusbra1.github.io,1109,1109,0,0
+Brazil,2021-01-19,Sinovac,https://coronavirusbra1.github.io,13527,13527,0,0
+Brazil,2021-01-20,Sinovac,https://coronavirusbra1.github.io,105824,105824,0,0
+Brazil,2021-01-21,Sinovac,https://coronavirusbra1.github.io,193699,193699,0,0
+Brazil,2021-01-22,Sinovac,https://coronavirusbra1.github.io,462269,462269,0,0
+Brazil,2021-01-23,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,573268,573268,0,0
+Brazil,2021-01-24,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,613954,613954,0,0
+Brazil,2021-01-25,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,801759,801759,0,0
+Brazil,2021-01-26,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,1045746,1045746,0,0
+Brazil,2021-01-27,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,1327546,1327546,0,0
+Brazil,2021-01-28,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,1563098,1563098,0,0
+Brazil,2021-01-29,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,1923813,1923813,0,0
+Brazil,2021-01-30,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,2046523,2046523,0,0
+Brazil,2021-01-31,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,2084119,2084119,0,0
+Brazil,2021-02-01,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,2292551,2292551,0,0
+Brazil,2021-02-02,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,2521704,2521704,0,0
+Brazil,2021-02-03,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,2802134,2802134,0,0
+Brazil,2021-02-04,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,3074906,3074906,0,0
+Brazil,2021-02-05,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,3401383,3399421,1962,0
+Brazil,2021-02-06,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,3553681,3534004,19677,0
+Brazil,2021-02-07,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,3605538,3579850,25688,0
+Brazil,2021-02-08,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,3820207,3786591,33616,0
+Brazil,2021-02-09,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,4120332,4069677,50655,0
+Brazil,2021-02-10,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,4406835,4326075,80760,0
+Brazil,2021-02-11,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,4696136,4586270,109866,0
+Brazil,2021-02-12,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,5125206,4946738,178468,0
+Brazil,2021-02-13,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,5236943,5042713,194230,0
+Brazil,2021-02-14,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,5293979,5076110,217869,0
+Brazil,2021-02-15,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,5609937,5324317,285620,0
+Brazil,2021-02-16,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,5883539,5326007,557532,0
+Brazil,2021-02-17,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,6206680,5482925,723755,0
+Brazil,2021-02-18,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,6535156,5640483,894673,0
+Brazil,2021-02-19,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,6813168,5756361,1056807,0
+Brazil,2021-02-20,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,6950802,5817908,1132894,0
+Brazil,2021-02-21,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,7028356,5857080,1171276,0
+Brazil,2021-02-22,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,7297061,6002873,1294188,0
+Brazil,2021-02-23,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,7551676,6116082,1435594,0
+Brazil,2021-02-24,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,7799000,6202055,1596945,0
+Brazil,2021-02-25,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,8101787,6346769,1755018,0
+Brazil,2021-02-26,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,8322042,6437836,1884206,0
+Brazil,2021-02-27,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,8433568,6518628,1914940,0
+Brazil,2021-02-28,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,8465403,6542206,1923197,0
+Brazil,2021-03-01,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,8841027,6806293,2034734,0
+Brazil,2021-03-02,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,9277322,7114219,2163103,0
+Brazil,2021-03-03,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,9739676,7417852,2321824,0
+Brazil,2021-03-04,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,10169160,7701146,2468014,0
+Brazil,2021-03-05,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,10576542,7958939,2617603,0
+Brazil,2021-03-06,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,10830688,8142004,2688684,0
+Brazil,2021-03-07,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,10948409,8227671,2720738,0
+Brazil,2021-03-08,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,11357494,8504966,2852528,0
+Brazil,2021-03-09,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,11756131,8764547,2991584,0
+Brazil,2021-03-10,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,12181103,9013293,3167810,0
+Brazil,2021-03-11,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,12613179,9298511,3314668,0
+Brazil,2021-03-12,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,13017720,9547655,3470065,0
+Brazil,2021-03-13,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,13223729,9669967,3553762,0
+Brazil,2021-03-14,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,13286664,9718209,3568455,0
+Brazil,2021-03-15,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,13763573,10087787,3675786,0
+Brazil,2021-03-16,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,14198794,10402388,3796406,0
+Brazil,2021-03-17,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,14648691,10725474,3923217,0
+Brazil,2021-03-18,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,15087602,11055747,4031855,0
+Brazil,2021-03-19,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,15623349,11509501,4113848,0
+Brazil,2021-03-20,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,15883688,11739832,4143856,0
+Brazil,2021-03-21,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,15980363,11818482,4161881,0
+Brazil,2021-03-22,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,16567102,12314847,4252255,0
+Brazil,2021-03-23,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,17157631,12817812,4339819,0
+Brazil,2021-03-24,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,17886781,13436373,4450408,0
+Brazil,2021-03-25,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,18655345,14102934,4552411,0
+Brazil,2021-03-26,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,19577786,14928869,4648917,0
+Brazil,2021-03-27,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,19962072,15282128,4679944,0
+Brazil,2021-03-28,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,20216938,15513974,4702964,0
+Brazil,2021-03-29,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,21160763,16335279,4825484,0
+Brazil,2021-03-30,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,21950245,16995184,4955061,0
+Brazil,2021-03-31,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,22839287,17745732,5093555,0
+Brazil,2021-04-01,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,23880805,18639028,5241777,0
+Brazil,2021-04-02,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,24181208,18900837,5280371,0
+Brazil,2021-04-03,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,24575470,19222342,5353128,0
+Brazil,2021-04-04,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,24910668,19510333,5400335,0
+Brazil,2021-04-05,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,25658532,20056296,5602236,0
+Brazil,2021-04-06,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,26736003,20850120,5885883,0
+Brazil,2021-04-07,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,27644079,21538484,6105595,0
+Brazil,2021-04-08,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,28653848,22246612,6407236,0
+Brazil,2021-04-09,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,29544578,22693305,6851273,0
+Brazil,2021-04-10,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,30084664,23097172,6987492,0
+Brazil,2021-04-11,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,30356896,23300896,7056000,0
+Brazil,2021-04-12,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,31316420,23910515,7405905,0
+Brazil,2021-04-13,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,32217205,24473138,7744067,0
+Brazil,2021-04-14,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,33148388,24996380,8152008,0
+Brazil,2021-04-15,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,34050325,25478194,8572131,0
+Brazil,2021-04-16,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,34993448,25810304,9183144,0
+Brazil,2021-04-17,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,35603882,26085155,9518727,0
+Brazil,2021-04-18,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,35817144,26210282,9606862,0
+Brazil,2021-04-19,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,36910479,26707227,10203252,0
+Brazil,2021-04-20,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,37909705,27184073,10725632,0
+Brazil,2021-04-21,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,38467754,27518053,10949701,0
+Brazil,2021-04-22,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,39291064,27887014,11404050,0
+Brazil,2021-04-23,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,41073104,28783905,12289199,0
+Brazil,2021-04-24,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,41494939,28981002,12513937,0
+Brazil,2021-04-25,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,41626753,29041497,12585256,0
+Brazil,2021-04-26,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,42787199,29601947,13185252,0
+Brazil,2021-04-27,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,44287510,30275923,14011587,0
+Brazil,2021-04-28,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,45379804,30748674,14631130,0
+Brazil,2021-04-29,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,46426188,31243694,15182494,0
+Brazil,2021-04-30,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,47399150,31696792,15702358,0
+Brazil,2021-05-01,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,47663526,31830880,15832646,0
+Brazil,2021-05-02,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,47755613,31884404,15871209,0
+Brazil,2021-05-03,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,48643324,32345310,16298014,0
+Brazil,2021-05-04,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,49626137,32896171,16729966,0
+Brazil,2021-05-05,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,50576224,33490395,17085829,0
+Brazil,2021-05-06,"Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,51624587,34271192,17353395,0
+Brazil,2021-05-07,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,52647815,35008550,17639265,0
+Brazil,2021-05-08,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,52972460,35253389,17719071,0
+Brazil,2021-05-09,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,53064124,35318058,17746066,0
+Brazil,2021-05-10,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,54008862,35926219,18082643,0
+Brazil,2021-05-11,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,54912939,36523507,18389432,0
+Brazil,2021-05-12,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,55907165,37233983,18673182,0
+Brazil,2021-05-13,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,56583962,37768491,18815471,0
+Brazil,2021-05-14,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,57313642,38320507,18993135,0
+Brazil,2021-05-15,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,57668646,38570631,19098015,0
+Brazil,2021-05-16,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,57935280,38752714,19182566,0
+Brazil,2021-05-17,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,58714631,39284275,19430356,0
+Brazil,2021-05-18,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,59603625,39891922,19711703,0
+Brazil,2021-05-19,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,60363334,40435632,19927702,0
+Brazil,2021-05-20,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,61297420,41089722,20207698,0
+Brazil,2021-05-21,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,62122684,41659039,20463645,0
+Brazil,2021-05-22,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,62459684,41882011,20577673,0
+Brazil,2021-05-23,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,63278821,42474538,20804283,0
+Brazil,2021-05-24,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,64098809,43008064,21090745,0
+Brazil,2021-05-25,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,64918585,43525933,21392652,0
+Brazil,2021-05-26,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,65668438,44045168,21623270,0
+Brazil,2021-05-27,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,66363506,44530761,21832745,0
+Brazil,2021-05-28,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,67359292,45284397,22074895,0
+Brazil,2021-05-29,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,67761958,45604680,22157278,0
+Brazil,2021-05-30,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,67874735,45684962,22189773,0
+Brazil,2021-05-31,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,68665647,46328168,22337479,0
+Brazil,2021-06-01,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,69477898,46932629,22545269,0
+Brazil,2021-06-02,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,70685368,47852026,22833342,0
+Brazil,2021-06-03,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,71245492,48321463,22924029,0
+Brazil,2021-06-04,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,71961789,48963900,22997889,0
+Brazil,2021-06-05,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,72586950,49491413,23095537,0
+Brazil,2021-06-06,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,72811509,49685501,23126008,0
+Brazil,2021-06-07,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,73614079,50381104,23232975,0
+Brazil,2021-06-08,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,74920113,51502554,23417559,0
+Brazil,2021-06-09,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,76117123,52567517,23549606,0
+Brazil,2021-06-10,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,77243101,53577624,23665477,0
+Brazil,2021-06-11,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,78471914,54685737,23786177,0
+Brazil,2021-06-12,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,79118243,55292343,23825900,0
+Brazil,2021-06-13,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,79466212,55617274,23848938,0
+Brazil,2021-06-14,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,80577338,56657381,23919957,0
+Brazil,2021-06-15,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,81940689,57910386,24030303,0
+Brazil,2021-06-16,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,83181485,59068483,24113002,0
+Brazil,2021-06-17,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,85441106,61187304,24253802,0
+Brazil,2021-06-18,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,87160471,62785859,24374612,0
+Brazil,2021-06-19,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,88108418,63659153,24449265,0
+Brazil,2021-06-20,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,88570223,64099339,24470884,0
+Brazil,2021-06-21,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,90013336,65421825,24591511,0
+Brazil,2021-06-22,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,91420290,66688623,24731667,0
+Brazil,2021-06-23,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,92782243,67890907,24891336,0
+Brazil,2021-06-24,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,94322179,69113521,25208658,0
+Brazil,2021-06-25,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,95764065,70369603,25404254,0
+Brazil,2021-06-26,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,96545254,71090361,25520772,0
+Brazil,2021-06-27,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,96789753,71319026,25568632,0
+Brazil,2021-06-28,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,97929680,72324820,25866869,0
+Brazil,2021-06-29,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,99828676,73943650,26348752,0
+Brazil,2021-06-30,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,101167462,75097273,26642477,0
+Brazil,2021-07-01,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,102561737,76284848,26949200,0
+Brazil,2021-07-02,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,104047565,77586349,27259467,0
+Brazil,2021-07-03,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,104753510,78210253,27418130,0
+Brazil,2021-07-04,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,105097389,78512727,27489232,0
+Brazil,2021-07-05,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,106696625,79835457,27854683,0
+Brazil,2021-07-06,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,108247755,81152984,28317786,0
+Brazil,2021-07-07,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,109976127,82649595,28929443,0
+Brazil,2021-07-08,"Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,111573265,83948802,29547039,0
+Brazil,2021-07-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,112999344,85166293,30044191,0
+Brazil,2021-07-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,113929447,85922323,30387607,0
+Brazil,2021-07-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,114350128,86272249,30545014,0
+Brazil,2021-07-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,115654260,87264587,31003288,0
+Brazil,2021-07-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,117154411,88385719,31569503,0
+Brazil,2021-07-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,118689127,89449394,32219034,0
+Brazil,2021-07-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,120155331,90743692,32832460,0
+Brazil,2021-07-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,121651233,91739486,33467323,0
+Brazil,2021-07-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,122615695,92434146,33818142,0
+Brazil,2021-07-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,122859535,92630599,33891244,0
+Brazil,2021-07-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,124433796,93786760,34383717,0
+Brazil,2021-07-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,126315897,95101845,35053766,0
+Brazil,2021-07-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,128199383,96304601,35808080,0
+Brazil,2021-07-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,130131385,97428671,36676823,0
+Brazil,2021-07-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,131858906,98712936,37161762,0
+Brazil,2021-07-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,132812191,99391757,37463852,0
+Brazil,2021-07-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,133139145,99610570,37583404,0
+Brazil,2021-07-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,134540217,100522817,38110566,0
+Brazil,2021-07-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,136158369,101528055,38761406,0
+Brazil,2021-07-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,137944954,102535345,39603390,0
+Brazil,2021-07-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,139483586,103363365,40360686,0
+Brazil,2021-07-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,141319627,104477597,41116889,0
+Brazil,2021-07-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,142301917,105083580,41507968,0
+Brazil,2021-08-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,142598659,105292650,41599313,0
+Brazil,2021-08-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,143762758,105934725,42147735,0
+Brazil,2021-08-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,145618595,107137953,42823483,0
+Brazil,2021-08-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,148054492,108658469,43769705,0
+Brazil,2021-08-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,149763010,109745651,44414256,0
+Brazil,2021-08-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,151506191,110841845,45086810,0
+Brazil,2021-08-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,152313188,111342715,45397341,0
+Brazil,2021-08-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,152680029,111566720,45542992,0
+Brazil,2021-08-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,154190964,112476618,46160465,0
+Brazil,2021-08-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,156399040,113880889,46980025,0
+Brazil,2021-08-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,158422879,115251518,47644783,0
+Brazil,2021-08-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,160674246,116780678,48383179,0
+Brazil,2021-08-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,162832096,118175020,49164242,0
+Brazil,2021-08-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,164215233,119132205,49606493,0
+Brazil,2021-08-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,164680217,119504650,49705914,0
+Brazil,2021-08-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,166750328,120686544,50600926,0
+Brazil,2021-08-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,169753003,122541955,51771235,0
+Brazil,2021-08-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,171741149,123678883,52629848,0
+Brazil,2021-08-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,174263122,125160916,53680684,0
+Brazil,2021-08-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,176376890,126384146,54578690,0
+Brazil,2021-08-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,177587502,127168248,55013076,0
+Brazil,2021-08-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,178173214,127600937,55170955,0
+Brazil,2021-08-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,180251675,128859272,55999780,0
+Brazil,2021-08-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,182654763,130267899,57002150,0
+Brazil,2021-08-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,184707573,131489509,57838947,0
+Brazil,2021-08-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,186102952,131918133,58811744,0
+Brazil,2021-08-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,188045400,132939921,59746726,0
+Brazil,2021-08-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,189376018,133608741,60412846,0
+Brazil,2021-08-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,189971293,133947333,60672443,0
+Brazil,2021-08-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,191515901,134777145,61384034,0
+Brazil,2021-08-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,194176380,136127045,62698760,0
+Brazil,2021-09-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,196166473,137067385,63754375,0
+Brazil,2021-09-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,198142390,137897705,64905651,282
+Brazil,2021-09-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,200077775,138653061,66093601,373
+Brazil,2021-09-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,201126108,139039441,66758831,537
+Brazil,2021-09-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,201522079,139210778,66984704,780
+Brazil,2021-09-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,203024669,139985523,67702291,14059
+Brazil,2021-09-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,203577189,140218809,68020838,17205
+Brazil,2021-09-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,205296045,140820674,69133319,25446
+Brazil,2021-09-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,207509808,141565747,70594540,37195
+Brazil,2021-09-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,209917761,142382292,72173074,52191
+Brazil,2021-09-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,211223433,142798088,73050585,67596
+Brazil,2021-09-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,211710814,142983971,73355123,68590
+Brazil,2021-09-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,213203733,143433748,74381040,88874
+Brazil,2021-09-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,215338063,144100429,75814267,128791
+Brazil,2021-09-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,217240047,144761529,76990802,197261
+Brazil,2021-09-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,218735998,145238112,77988754,223085
+Brazil,2021-09-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,221071595,146000277,79542916,249365
+Brazil,2021-09-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,222156927,146371189,80250454,259046
+Brazil,2021-09-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,222581680,146553215,80492254,260661
+Brazil,2021-09-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,223781527,146923305,81250428,334020
+Brazil,2021-09-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,225592884,147473077,82467468,381549
+Brazil,2021-09-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,227304555,147966925,83644344,427712
+Brazil,2021-09-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,229100357,148510818,84869772,458735
+Brazil,2021-09-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,230893002,148994474,86119839,520839
+Brazil,2021-09-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,231983152,149386359,86796636,543561
+Brazil,2021-09-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,232495892,149565073,87122476,552379
+Brazil,2021-09-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,233772505,149871708,87828174,818917
+Brazil,2021-09-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,235617220,150382518,89101310,882537
+Brazil,2021-09-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,237320144,150881737,90253376,937694
+Brazil,2021-09-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,239190412,151420924,91430204,1095300
+Brazil,2021-10-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,241200485,151901209,92759486,1302298
+Brazil,2021-10-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,242252204,152166987,93442685,1407110
+Brazil,2021-10-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,242632087,152277364,93674362,1445470
+Brazil,2021-10-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,243733571,152519888,94337578,1643658
+Brazil,2021-10-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,245292452,152926450,95257454,1877233
+Brazil,2021-10-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,247057054,153310124,96345260,2171857
+Brazil,2021-10-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,248820533,153699490,97382944,2509515
+Brazil,2021-10-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,250516351,154010913,98464451,2814838
+Brazil,2021-10-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,251524115,154181567,99070817,3047975
+Brazil,2021-10-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,252149684,154292724,99520881,3116010
+Brazil,2021-10-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,253164892,154580496,100085018,3281210
+Brazil,2021-10-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,253561158,154693150,100324302,3326730
+Brazil,2021-10-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,254426529,154798792,100864092,3545399
+Brazil,2021-10-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,256762148,155526988,102264366,3755046
+Brazil,2021-10-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,258849471,156015804,103527053,4093579
+Brazil,2021-10-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,260157865,156313972,104314315,4320556
+Brazil,2021-10-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,260683274,156420266,104630777,4428544
+Brazil,2021-10-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,261824131,156558619,105223364,4839664
+Brazil,2021-10-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,263569544,156892317,106356335,5137429
+Brazil,2021-10-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,265607325,157322792,107582227,5525142
+Brazil,2021-10-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,266620080,157475037,108197260,5771569
+Brazil,2021-10-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,267964026,157679997,108994434,6117946
+Brazil,2021-10-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,268638494,157810514,109422127,6234557
+Brazil,2021-10-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,269442502,157986323,109945760,6340977
+Brazil,2021-10-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,271861944,158281322,111550520,6864893
+Brazil,2021-10-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,273720279,158619663,112584033,7348675
+Brazil,2021-10-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,275436454,158890656,113647161,7732904
+Brazil,2021-10-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,277057532,159171324,114610870,8109625
+Brazil,2021-10-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,278686713,159412919,115562494,8548187
+Brazil,2021-10-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,279265141,159518249,115897379,8687173
+Brazil,2021-10-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,279666131,159589151,116117550,8798263
+Brazil,2021-11-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,279959241,159631476,116288959,8877862
+Brazil,2021-11-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,280181200,159667965,116399784,8952577
+Brazil,2021-11-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,281228625,159792323,117020085,9256939
+Brazil,2021-11-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,282661800,160056071,117929773,9518430
+Brazil,2021-11-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,284683953,160333906,119243098,9942921
+Brazil,2021-11-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,285378181,160423951,119655284,10135262
+Brazil,2021-11-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,285943124,160707880,119901571,10172914
+Brazil,2021-11-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,287531811,160971992,120880423,10547189
+Brazil,2021-11-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,288956195,161179478,121738604,10886116
+Brazil,2021-11-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,290429521,161412780,122635903,11230958
+Brazil,2021-11-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,292021210,161690791,123598784,11584564
+Brazil,2021-11-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,293253508,161743151,124416550,11947900
+Brazil,2021-11-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,293936446,161814220,124872035,12105575
+Brazil,2021-11-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,294339583,161908494,125123667,12162832
+Brazil,2021-11-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,294928227,161973124,125467475,12343281
+Brazil,2021-11-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,295624622,162028086,125915845,12537109
+Brazil,2021-11-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,297253230,162257537,126961439,12891623
+Brazil,2021-11-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,298447729,162397679,127639599,13268488
+Brazil,2021-11-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,299734733,162554502,128377050,13665714
+Brazil,2021-11-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,300573489,162688776,128851409,13896415
+Brazil,2021-11-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,301182753,162812584,129200205,14033709
+Brazil,2021-11-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,302331069,162957786,129832016,14406374
+Brazil,2021-11-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,303515430,163108526,130530871,14741803
+Brazil,2021-11-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,304659197,163216460,131215922,15093083
+Brazil,2021-11-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,305503188,163342820,131709249,15316348
+Brazil,2021-11-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,306741882,163546806,132395866,15662595
+Brazil,2021-11-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,307205318,163607249,132667094,15794900
+Brazil,2021-11-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,307583387,163684746,132895365,15889956
+Brazil,2021-11-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,307817825,163706613,133029594,15967140
+Brazil,2021-11-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,309486607,163926497,133911230,16537956
+Brazil,2021-12-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,310770495,164159539,134636857,16866381
+Brazil,2021-12-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,311950389,164290464,135324508,17229559
+Brazil,2021-12-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,313665030,164457496,136438552,17665501
+Brazil,2021-12-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,314450780,164543599,136830588,17974402
+Brazil,2021-12-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,314612221,164589731,136905306,18014777
+Brazil,2021-12-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,315518302,164604790,137355248,18457123
+Brazil,2021-12-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,316677030,164711745,137905915,18958874
+Brazil,2021-12-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,317474217,164800426,138249795,19322836
+Brazil,2021-12-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,318799260,164914808,138924356,19859727
+Brazil,2021-12-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,319739095,,139320682,20304256
+Brazil,2021-12-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,319980117,,139389518,20456996
+Brazil,2021-12-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,320112450,,139421689,20544800
+Brazil,2021-12-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,320737938,,139783903,20966748
+Brazil,2021-12-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,321601407,164933940,140151965,21417495
+Brazil,2021-12-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,322902290,165135181,140902990,21767091
+Brazil,2021-12-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,323831095,165279022,141175069,22280659
+Brazil,2021-12-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,324589549,165393977,141411665,22689115
+Brazil,2021-12-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,324798686,165409165,141474540,22820476
+Brazil,2021-12-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,324846680,165417886,141488098,22846232
+Brazil,2021-12-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,325593485,165471288,141702263,23326643
+Brazil,2021-12-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,326335565,165554570,141915573,23775890
+Brazil,2021-12-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,327562756,165836442,142378728,24268862
+Brazil,2021-12-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,328473878,165894312,,24687765
+Brazil,2021-12-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,329011365,165952037,142764283,25218893
+Brazil,2021-12-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,329861730,166062249,142965728,25758909
+Brazil,2021-12-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,330718457,166143380,143282084,26219623
+Brazil,2021-12-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,331164041,166185628,143398692,26507937
+Brazil,2021-12-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,331273910,166195505,143436012,26571077
+Brazil,2022-01-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,331292259,166199307,143441284,26580353
+Brazil,2022-01-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,331335826,166206716,143462401,26595450
+Brazil,2022-01-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,332076818,166320650,143723393,27021302
+Brazil,2022-01-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,332903332,166426973,143762375,27644424
+Brazil,2022-01-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,333627875,166475764,143877220,28208100
+Brazil,2022-01-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,335742922,166618516,144380523,29681866
+Brazil,2022-01-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,336825920,166713275,144723824,30328376
+Brazil,2022-01-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,337655171,166769657,144866950,30964122
+Brazil,2022-01-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,338386118,166772188,145005051,31555580
+Brazil,2022-01-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,339257036,166833338,145252463,32119256
+Brazil,2022-01-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,339988963,166870347,145379254,32689339
+Brazil,2022-01-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,340281915,166909237,145459361,32865633
+Brazil,2022-01-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,343352666,167093156,146291728,34925304
+Brazil,2022-01-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,347329271,167330250,147223765,37734662
+Brazil,2022-01-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,348164653,167385859,147536850,38204173
+Brazil,2022-01-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,349495232,167547304,147737978,39175254
+Brazil,2022-01-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,350629268,167751970,148043971,39815665
+Brazil,2022-01-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,351485976,167875050,148225622,40368648
+Brazil,2022-01-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,352744905,168014778,148534163,41179575
+Brazil,2022-01-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,352952210,168090877,148571660,41273385
+Brazil,2022-01-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,354878131,168341120,148929430,42592544
+Brazil,2022-01-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,355987219,168546490,149165531,43260640
+Brazil,2022-01-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,357132990,168921071,149273731,43930017
+Brazil,2022-01-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,358789930,169261105,149542396,44986684
+Brazil,2022-01-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,360492730,169619416,149714068,46174206
+Brazil,2022-01-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,361165196,169825847,149779557,46576117
+Brazil,2022-01-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,361309679,169865538,149793528,46667050
+Brazil,2022-01-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,362503209,170322125,149930855,47268419
+Brazil,2022-02-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,363827251,170599221,150040841,48206588
+Brazil,2022-02-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,365113872,170911850,150259405,48964197
+Brazil,2022-02-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,366488450,171219037,150497414,49796615
+Brazil,2022-02-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,367778211,171783306,150682483,50350832
+Brazil,2022-02-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,368572365,172107474,150764876,50739982
+Brazil,2022-02-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,369521071,172186641,150868539,51506685
+Brazil,2022-02-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,370659862,172652514,150995915,52053080
+Brazil,2022-02-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,371840433,172885945,151169160,52827090
+Brazil,2022-02-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,373331749,172995877,151496825,53864593
+Brazil,2022-02-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,375028165,173402815,151866862,54786812
+Brazil,2022-02-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,376813738,173901090,152092266,55852904
+Brazil,2022-02-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,377626315,174117725,152194707,56346995
+Brazil,2022-02-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,378011196,174214439,152338804,56491813
+Brazil,2022-02-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,378917750,174420792,152482989,57031422
+Brazil,2022-02-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,379776348,174665423,152576040,57563050
+Brazil,2022-02-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,380878261,174949012,152751771,58207145
+Brazil,2022-02-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,382196732,175209007,152934928,59085282
+Brazil,2022-02-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,384112607,175933938,153259174,59954912
+Brazil,2022-02-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,385030790,176141497,153450986,60474794
+Brazil,2022-02-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,385406305,176222268,153503892,60718386
+Brazil,2022-02-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,386298288,176406587,153654205,61279432
+Brazil,2022-02-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,387226162,176625569,153776069,61867668
+Brazil,2022-02-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,388306875,176920320,154064354,62367146
+Brazil,2022-02-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,389748374,177174489,154310603,63304898
+Brazil,2022-02-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,391253145,177448925,154573852,64282472
+Brazil,2022-02-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,391785022,177544796,154668487,64624776
+Brazil,2022-02-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,391970436,177579708,154719004,64725099
+Brazil,2022-02-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,392763634,177742258,155044552,65031675
+Brazil,2022-03-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,392925626,177836868,155071690,65073212
+Brazil,2022-03-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,394111796,177987744,155380086,65802661
+Brazil,2022-03-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,394812859,178113009,155569412,66190014
+Brazil,2022-03-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,395464826,178203894,155711613,66609966
+Brazil,2022-03-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,395658972,178245534,155740455,66734054
+Brazil,2022-03-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,396537303,178366451,155930535,67303447
+Brazil,2022-03-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,397386286,178486274,156114741,67849960
+Brazil,2022-03-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,398449118,178657742,156339809,68529303
+Brazil,2022-03-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,400536072,179288492,157250835,69072506
+Brazil,2022-03-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,401272006,179411783,157418571,69520035
+Brazil,2022-03-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,402357624,179715577,157623243,70098817
+Brazil,2022-03-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,402573315,179754579,157662860,70236716
+Brazil,2022-03-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,403286505,179853602,157830125,70685742
+Brazil,2022-03-15,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,403856898,179913614,157992526,71035349
+Brazil,2022-03-16,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,404885141,180005705,158245106,71727611
+Brazil,2022-03-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,405634648,180093699,158439105,72198007
+Brazil,2022-03-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,406685448,180265232,158682962,72838901
+Brazil,2022-03-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,407274462,180341198,158832351,73204533
+Brazil,2022-03-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,407435784,180360121,158863543,73315989
+Brazil,2022-03-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,408348030,180469257,159101357,73883571
+Brazil,2022-03-22,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,408961974,180523619,159240417,74304721
+Brazil,2022-03-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,409606978,180592464,159388079,74734058
+Brazil,2022-03-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,410175836,180653782,159513421,75117268
+Brazil,2022-03-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,410860641,180726798,159673499,75570590
+Brazil,2022-03-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,411116197,180757995,159756178,75715420
+Brazil,2022-03-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,411548202,180800024,159842858,76020080
+Brazil,2022-03-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,412177025,180881628,160008924,76412684
+Brazil,2022-03-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,413559595,181078067,160272858,77336806
+Brazil,2022-03-30,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,414606124,181174361,160525435,78038061
+Brazil,2022-03-31,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,415350921,181233281,160706753,78545054
+Brazil,2022-04-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,416625503,181342972,161015556,79407896
+Brazil,2022-04-04,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,417150367,181374540,161109802,79808443
+Brazil,2022-04-05,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,418081276,181451944,161296449,80480994
+Brazil,2022-04-06,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,418988804,181544315,161485597,81135417
+Brazil,2022-04-07,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,419669076,181596648,161634006,81617827
+Brazil,2022-04-08,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,420411074,181652995,161802142,82140278
+Brazil,2022-04-09,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,420841281,181687021,161882738,82460566
+Brazil,2022-04-10,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,421028480,181702093,161924220,82594423
+Brazil,2022-04-11,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,421634418,181755180,162079967,82993482
+Brazil,2022-04-12,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,422368139,181810164,162237061,83518646
+Brazil,2022-04-13,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,422804515,181841381,162328262,83836874
+Brazil,2022-04-14,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,423594585,181894974,162490311,84414525
+Brazil,2022-04-17,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,424058492,181975535,162589368,84700482
+Brazil,2022-04-18,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,424403120,182010643,162689883,84910442
+Brazil,2022-04-19,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,425301193,182287352,162888301,85336548
+Brazil,2022-04-20,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,426002158,182324186,163106069,85785089
+Brazil,2022-04-21,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,426445178,182365678,163228941,86064638
+Brazil,2022-04-23,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,426683997,182395741,163322265,86180459
+Brazil,2022-04-24,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,426686042,182395817,163322557,86182146
+Brazil,2022-04-25,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,426987455,182426996,163400967,86375300
+Brazil,2022-04-26,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,427262945,182455170,163481925,86543564
+Brazil,2022-04-27,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,428179278,182519774,163675729,87204205
+Brazil,2022-04-28,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,428748714,182563727,163815874,87591331
+Brazil,2022-04-29,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,429202399,182599066,163923507,87903408
+Brazil,2022-05-01,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,429613287,182623313,163989684,88224899
+Brazil,2022-05-02,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,430000411,182665767,164101615,88458624
+Brazil,2022-05-03,"Johnson&Johnson, Pfizer/BioNTech, Oxford/AstraZeneca, Sinovac",https://coronavirusbra1.github.io,430435333,182707626,164217813,88736521

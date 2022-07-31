@@ -1,0 +1,435 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Malaysia,2021-02-24,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,66,63,3,0
+Malaysia,2021-02-25,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,1217,1212,5,0
+Malaysia,2021-02-26,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,5288,5280,8,0
+Malaysia,2021-02-27,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,12004,11990,14,0
+Malaysia,2021-02-28,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,18724,18705,19,0
+Malaysia,2021-03-01,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,34116,34091,25,0
+Malaysia,2021-03-02,Pfizer/BioNTech,https://github.com/MoH-Malaysia/covid19-public,55803,55773,30,0
+Malaysia,2021-03-03,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,78501,78465,36,0
+Malaysia,2021-03-04,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,98057,98006,51,0
+Malaysia,2021-03-05,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,112428,112371,57,0
+Malaysia,2021-03-06,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,128266,128206,60,0
+Malaysia,2021-03-07,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,140854,140788,66,0
+Malaysia,2021-03-08,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,168072,167992,80,0
+Malaysia,2021-03-09,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,198199,198057,142,0
+Malaysia,2021-03-10,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,226983,226830,153,0
+Malaysia,2021-03-11,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,253501,253344,161,0
+Malaysia,2021-03-12,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,279627,279461,170,0
+Malaysia,2021-03-13,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,296688,296520,172,0
+Malaysia,2021-03-14,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,306999,306827,176,0
+Malaysia,2021-03-15,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,327394,327219,179,0
+Malaysia,2021-03-16,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,352875,352694,185,0
+Malaysia,2021-03-17,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,373731,373487,248,0
+Malaysia,2021-03-18,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,391843,390801,1046,0
+Malaysia,2021-03-19,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,406419,401543,4880,0
+Malaysia,2021-03-20,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,420227,409247,10984,0
+Malaysia,2021-03-21,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,435788,418959,16833,0
+Malaysia,2021-03-22,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,460087,428679,31412,0
+Malaysia,2021-03-23,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,489268,436985,52287,0
+Malaysia,2021-03-24,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,518383,443275,75112,0
+Malaysia,2021-03-25,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,544187,449709,94482,0
+Malaysia,2021-03-26,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,560937,453647,107294,0
+Malaysia,2021-03-27,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,577084,455354,121734,0
+Malaysia,2021-03-28,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,593698,459038,134664,0
+Malaysia,2021-03-29,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,628943,466904,162043,0
+Malaysia,2021-03-30,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,669878,478431,191451,0
+Malaysia,2021-03-31,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,707354,488383,218975,0
+Malaysia,2021-04-01,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,749823,504291,245536,0
+Malaysia,2021-04-02,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,780310,511874,268440,0
+Malaysia,2021-04-03,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,797736,514554,283186,0
+Malaysia,2021-04-04,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,812926,520583,292347,0
+Malaysia,2021-04-05,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,841637,529783,311858,0
+Malaysia,2021-04-06,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,874355,540795,333564,0
+Malaysia,2021-04-07,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,905377,553495,351886,0
+Malaysia,2021-04-08,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,932281,565588,366697,0
+Malaysia,2021-04-09,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,953902,572816,381090,0
+Malaysia,2021-04-10,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,969642,578487,391159,0
+Malaysia,2021-04-11,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,992838,590965,401877,0
+Malaysia,2021-04-12,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1032161,616328,415837,0
+Malaysia,2021-04-13,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1056678,633145,423537,0
+Malaysia,2021-04-14,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1085370,654088,431286,0
+Malaysia,2021-04-15,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1112639,672189,440454,0
+Malaysia,2021-04-16,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1132190,687818,444376,0
+Malaysia,2021-04-17,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1141875,696390,445489,0
+Malaysia,2021-04-18,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1151734,702483,449255,0
+Malaysia,2021-04-19,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1184892,727151,457745,0
+Malaysia,2021-04-20,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1218269,749236,469037,0
+Malaysia,2021-04-21,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1245968,765060,480912,0
+Malaysia,2021-04-22,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1275552,779455,496101,0
+Malaysia,2021-04-23,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1294464,791674,502794,0
+Malaysia,2021-04-24,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1305947,799666,506285,0
+Malaysia,2021-04-25,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1320793,808778,512019,0
+Malaysia,2021-04-26,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1351105,830147,520962,0
+Malaysia,2021-04-27,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1385812,852974,532842,0
+Malaysia,2021-04-28,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1425513,879438,546079,0
+Malaysia,2021-04-29,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1438048,885907,552145,0
+Malaysia,2021-04-30,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1464759,903699,561064,0
+Malaysia,2021-05-01,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1470259,906629,563634,0
+Malaysia,2021-05-02,"Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1486041,914287,571758,0
+Malaysia,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1537323,938822,598505,0
+Malaysia,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1587167,968963,618208,0
+Malaysia,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1642187,1001074,641117,0
+Malaysia,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1698053,1038151,659906,0
+Malaysia,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1745901,1070508,675397,0
+Malaysia,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1773047,1089209,683842,0
+Malaysia,2021-05-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1805561,1115118,690449,0
+Malaysia,2021-05-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1867163,1151847,715322,0
+Malaysia,2021-05-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1916153,1182375,733784,0
+Malaysia,2021-05-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1934321,1192713,741614,0
+Malaysia,2021-05-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1934443,1192825,741624,0
+Malaysia,2021-05-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1934512,1192885,741633,0
+Malaysia,2021-05-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1945448,1203217,742237,0
+Malaysia,2021-05-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,1955776,1213211,742571,0
+Malaysia,2021-05-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2016477,1245698,770785,0
+Malaysia,2021-05-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2094714,1291533,803187,0
+Malaysia,2021-05-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2179094,1341761,837339,0
+Malaysia,2021-05-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2260393,1401054,859345,0
+Malaysia,2021-05-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2321542,1443296,878252,0
+Malaysia,2021-05-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2368257,1486643,881620,0
+Malaysia,2021-05-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2414722,1524683,890045,0
+Malaysia,2021-05-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2510625,1594436,916195,0
+Malaysia,2021-05-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2611317,1664331,946992,0
+Malaysia,2021-05-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2633743,1684847,948902,0
+Malaysia,2021-05-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2742328,1743761,998573,0
+Malaysia,2021-05-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2816884,1790721,1026169,0
+Malaysia,2021-05-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2883103,1841860,1041249,0
+Malaysia,2021-05-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,2945961,1880277,1065690,0
+Malaysia,2021-05-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3042361,1947953,1094414,0
+Malaysia,2021-06-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3142330,2023453,1118883,0
+Malaysia,2021-06-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3249314,2120534,1128786,0
+Malaysia,2021-06-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3368668,2232006,1136668,0
+Malaysia,2021-06-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3460150,2318501,1141655,0
+Malaysia,2021-06-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3533796,2390745,1143057,0
+Malaysia,2021-06-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3616623,2471953,1144676,0
+Malaysia,2021-06-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3682578,2532802,1149782,0
+Malaysia,2021-06-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3837577,2641367,1196216,0
+Malaysia,2021-06-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,3994753,2757732,1237027,0
+Malaysia,2021-06-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4156080,2871554,1284533,0
+Malaysia,2021-06-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4282771,2967948,1314830,0
+Malaysia,2021-06-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4420435,3071410,1349032,0
+Malaysia,2021-06-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4552474,3176428,1376053,0
+Malaysia,2021-06-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4756472,3324465,1432014,0
+Malaysia,2021-06-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,4979874,3491603,1488278,0
+Malaysia,2021-06-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,5194507,3697938,1496576,0
+Malaysia,2021-06-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,5424105,3883085,1541027,0
+Malaysia,2021-06-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,5609973,4036175,1573805,0
+Malaysia,2021-06-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,5782217,4172072,1610152,0
+Malaysia,2021-06-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,5928963,4294568,1634402,0
+Malaysia,2021-06-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,6174369,4485185,1689191,0
+Malaysia,2021-06-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,6434641,4684386,1750262,0
+Malaysia,2021-06-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,6700183,4869744,1830446,0
+Malaysia,2021-06-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,6978024,5052737,1925294,0
+Malaysia,2021-06-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,7201166,5207564,1993609,0
+Malaysia,2021-06-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,7399710,5349706,2050012,0
+Malaysia,2021-06-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,7577707,5461462,2116253,0
+Malaysia,2021-06-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,7787903,5627991,2159920,0
+Malaysia,2021-06-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,8032316,5786868,2245456,0
+Malaysia,2021-06-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,8303119,5960828,2342299,0
+Malaysia,2021-07-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,8573425,6144525,2428909,0
+Malaysia,2021-07-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,8814333,6314704,2499638,0
+Malaysia,2021-07-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,9038524,6459471,2579062,0
+Malaysia,2021-07-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,9254424,6594512,2659921,0
+Malaysia,2021-07-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,9582478,6801081,2781406,0
+Malaysia,2021-07-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,9938852,7018138,2920723,0
+Malaysia,2021-07-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,10334252,7236936,3097325,0
+Malaysia,2021-07-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,10724890,7466932,3257967,0
+Malaysia,2021-07-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,11075374,7687576,3387807,0
+Malaysia,2021-07-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,11411860,7907299,3504570,0
+Malaysia,2021-07-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,11710001,8102013,3607997,0
+Malaysia,2021-07-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,12144371,8373861,3770519,0
+Malaysia,2021-07-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,12584263,8642323,3941949,0
+Malaysia,2021-07-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,13043546,8937543,4106012,0
+Malaysia,2021-07-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,13522586,9255253,4267342,0
+Malaysia,2021-07-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,13940591,9539024,4401576,0
+Malaysia,2021-07-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,14337502,9803703,4533808,0
+Malaysia,2021-07-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,14694144,10056205,4637948,0
+Malaysia,2021-07-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,15137403,10344881,4792531,0
+Malaysia,2021-07-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,15449301,10553301,4896010,0
+Malaysia,2021-07-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,15908762,10842242,5066530,0
+Malaysia,2021-07-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,16428882,11185502,5243390,0
+Malaysia,2021-07-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,16908025,11500047,5407988,0
+Malaysia,2021-07-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,17341527,11795914,5545623,0
+Malaysia,2021-07-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,17758980,12088301,5670689,0
+Malaysia,2021-07-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,18297296,12430942,5866364,0
+Malaysia,2021-07-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,18869630,12797351,6072289,0
+Malaysia,2021-07-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,19452172,13172653,6279531,0
+Malaysia,2021-07-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,20033783,13535631,6498168,0
+Malaysia,2021-07-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,20569731,13868526,6701221,0
+Malaysia,2021-07-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,21113814,14204987,6908845,0
+Malaysia,2021-08-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,21609842,14515416,7094446,0
+Malaysia,2021-08-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,22098967,14752336,7346651,0
+Malaysia,2021-08-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,22603980,15006341,7597660,0
+Malaysia,2021-08-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,23120325,15249209,7871138,0
+Malaysia,2021-08-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,23659294,15485209,8174110,0
+Malaysia,2021-08-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,24130634,15690601,8440059,0
+Malaysia,2021-08-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,24582923,15895613,8687337,0
+Malaysia,2021-08-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,24994905,16067898,8927035,0
+Malaysia,2021-08-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,25483087,16271351,9211768,0
+Malaysia,2021-08-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,25861904,16448412,9413526,0
+Malaysia,2021-08-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,26381703,16693491,9688251,0
+Malaysia,2021-08-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,26934261,16912050,10022253,0
+Malaysia,2021-08-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,27431536,17098014,10333566,0
+Malaysia,2021-08-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,27902797,17279553,10623288,0
+Malaysia,2021-08-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,28343224,17438184,10905085,0
+Malaysia,2021-08-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,28869769,17629422,11240392,0
+Malaysia,2021-08-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,29419345,17828769,11590625,0
+Malaysia,2021-08-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,29991680,18036271,11955464,0
+Malaysia,2021-08-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,30540981,18233522,12307519,0
+Malaysia,2021-08-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,31055936,18406889,12649108,0
+Malaysia,2021-08-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,31557398,18582449,12975020,0
+Malaysia,2021-08-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,32023101,18733601,13289573,0
+Malaysia,2021-08-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,32442310,18896263,13546121,0
+Malaysia,2021-08-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,32889241,19066511,13822805,0
+Malaysia,2021-08-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,33341298,19243200,14098173,0
+Malaysia,2021-08-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,33781216,19417965,14365293,0
+Malaysia,2021-08-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,34159050,19578953,14583524,0
+Malaysia,2021-08-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,34533112,19749442,14794075,0
+Malaysia,2021-08-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,34866115,19912138,14972112,0
+Malaysia,2021-08-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,35258430,20112770,15168059,0
+Malaysia,2021-08-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,35546055,20244670,15326348,0
+Malaysia,2021-09-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,35977290,20449349,15555648,3
+Malaysia,2021-09-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,36382106,20650147,15763299,12
+Malaysia,2021-09-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,36741556,20813192,15965582,12
+Malaysia,2021-09-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,37077894,20968879,16153746,18
+Malaysia,2021-09-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,37394789,21121790,16324821,20
+Malaysia,2021-09-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,37738230,21268156,16524886,22
+Malaysia,2021-09-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,38090332,21415263,16732390,25
+Malaysia,2021-09-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,38442540,21556460,16945624,30
+Malaysia,2021-09-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,38796029,21706055,17153613,32
+Malaysia,2021-09-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,39113904,21832338,17351552,35
+Malaysia,2021-09-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,39400279,21936487,17541317,79
+Malaysia,2021-09-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,39651701,22026929,17708185,190
+Malaysia,2021-09-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,39903506,22109553,17881466,192
+Malaysia,2021-09-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,40171401,22193569,18071047,195
+Malaysia,2021-09-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,40445433,22271944,18270410,199
+Malaysia,2021-09-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,40666180,22341402,18424787,199
+Malaysia,2021-09-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MoH-Malaysia/covid19-public,40929597,22426061,18607028,205
+Malaysia,2021-09-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,41184843,22509674,18783222,205
+Malaysia,2021-09-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,41423830,22579388,18955607,205
+Malaysia,2021-09-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,41736558,22683481,19166831,205
+Malaysia,2021-09-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,42012504,22814795,19315199,206
+Malaysia,2021-09-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,42354047,22946788,19529877,209
+Malaysia,2021-09-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,42702042,23088163,19738667,211
+Malaysia,2021-09-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,42994418,23212950,19907481,213
+Malaysia,2021-09-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,43272848,23335456,20065746,213
+Malaysia,2021-09-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,43556464,23458437,20228214,220
+Malaysia,2021-09-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,43894652,23635692,20390211,225
+Malaysia,2021-09-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,44239120,23812215,20560747,233
+Malaysia,2021-09-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,44595003,24010848,20719378,238
+Malaysia,2021-09-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,44938839,24186258,20891644,251
+Malaysia,2021-10-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,45188142,24293686,21035104,273
+Malaysia,2021-10-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,45412170,24388311,21166275,277
+Malaysia,2021-10-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,45630611,24488611,21285183,282
+Malaysia,2021-10-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,45867536,24620292,21391842,403
+Malaysia,2021-10-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,46102517,24748524,21500664,509
+Malaysia,2021-10-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,46322260,24866715,21604683,546
+Malaysia,2021-10-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,46527620,24978956,21699835,613
+Malaysia,2021-10-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,46712399,25056722,21808010,1222
+Malaysia,2021-10-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,46864305,25099298,21918783,1244
+Malaysia,2021-10-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,47001616,25133227,22022999,1246
+Malaysia,2021-10-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,47198195,25189287,22165335,1287
+Malaysia,2021-10-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,47415876,25248508,22325412,1479
+Malaysia,2021-10-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,47633883,25303290,22487938,3694
+Malaysia,2021-10-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,47850716,25347749,22659115,7005
+Malaysia,2021-10-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48036639,25386809,22797488,17399
+Malaysia,2021-10-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48174845,25403935,22915660,21014
+Malaysia,2021-10-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48317511,25422192,23038599,23736
+Malaysia,2021-10-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48534563,25456406,23213468,32968
+Malaysia,2021-10-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48674614,25472586,23336923,34371
+Malaysia,2021-10-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,48943646,25504854,23557672,51688
+Malaysia,2021-10-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49191231,25539031,23752159,72253
+Malaysia,2021-10-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49358224,25569080,23872252,91156
+Malaysia,2021-10-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49479507,25581629,23973021,99713
+Malaysia,2021-10-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49611866,25593946,24085184,108491
+Malaysia,2021-10-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49805121,25619275,24231993,130947
+Malaysia,2021-10-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,49995079,25645544,24373842,153919
+Malaysia,2021-10-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50171807,25666559,24502393,182402
+Malaysia,2021-10-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50365660,25687724,24623268,235530
+Malaysia,2021-10-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50511545,25704033,24707768,281317
+Malaysia,2021-10-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50591868,25711765,24759701,302527
+Malaysia,2021-10-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50659418,25718715,24803749,319486
+Malaysia,2021-11-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50772233,25728972,24862161,364179
+Malaysia,2021-11-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,50898886,25739424,24921295,422031
+Malaysia,2021-11-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51018335,25748561,24966452,487660
+Malaysia,2021-11-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51062582,25751920,24986128,509114
+Malaysia,2021-11-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51148928,25757982,25018116,557585
+Malaysia,2021-11-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51193856,25763222,25032172,583446
+Malaysia,2021-11-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51235137,25767157,25046999,606167
+Malaysia,2021-11-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51347995,25774141,25092843,666505
+Malaysia,2021-11-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51467551,25782936,25124744,745813
+Malaysia,2021-11-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51603531,25791586,25164799,833518
+Malaysia,2021-11-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51752765,25801215,25210098,928448
+Malaysia,2021-11-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51871767,25809263,25245171,1004633
+Malaysia,2021-11-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51931275,25813367,25261844,1043756
+Malaysia,2021-11-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,51977976,25817372,25273424,1075294
+Malaysia,2021-11-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52084415,25824143,25301140,1147750
+Malaysia,2021-11-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52209490,25831595,25328040,1238974
+Malaysia,2021-11-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52332009,25838325,25349576,1333479
+Malaysia,2021-11-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52460431,25846091,25371383,1432701
+Malaysia,2021-11-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52569520,25853459,25389373,1516915
+Malaysia,2021-11-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52617887,25856822,25396049,1555418
+Malaysia,2021-11-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52657054,25859631,25401323,1586544
+Malaysia,2021-11-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52769933,25864940,25413819,1681640
+Malaysia,2021-11-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,52909838,25870511,25424952,1804886
+Malaysia,2021-11-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53052947,25875988,25434047,1933464
+Malaysia,2021-11-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53196680,25882102,25440441,2064763
+Malaysia,2021-11-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53313318,25887221,25447502,2169252
+Malaysia,2021-11-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53370088,25889836,25453124,2217803
+Malaysia,2021-11-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53413902,25892214,25456954,2255638
+Malaysia,2021-11-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53525989,25897026,25464175,2355839
+Malaysia,2021-11-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53665177,25902410,25473344,2481045
+Malaysia,2021-12-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53812116,25908095,25481984,2614498
+Malaysia,2021-12-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,53966828,25913861,25491442,2754232
+Malaysia,2021-12-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54096344,25918550,25498724,2871961
+Malaysia,2021-12-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54168421,25922266,25503558,2935931
+Malaysia,2021-12-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54225754,25924434,25506980,2988096
+Malaysia,2021-12-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54328172,25929909,25513971,3078610
+Malaysia,2021-12-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54457651,25935044,25521268,3196013
+Malaysia,2021-12-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54588095,25940247,25528214,3314616
+Malaysia,2021-12-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54734120,25945665,25536587,3447320
+Malaysia,2021-12-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54862470,25949906,25544074,3564277
+Malaysia,2021-12-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,54936346,25951448,25546965,3633830
+Malaysia,2021-12-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55005958,25953072,25549495,3699440
+Malaysia,2021-12-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55139734,25957370,25555049,3823573
+Malaysia,2021-12-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55306193,25961787,25560677,3980266
+Malaysia,2021-12-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55480764,25966402,25566496,4144779
+Malaysia,2021-12-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55658052,25971099,25573105,4311021
+Malaysia,2021-12-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55823285,25974383,25578242,4468035
+Malaysia,2021-12-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55897038,25975748,25580579,4538290
+Malaysia,2021-12-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,55978006,25977368,25582809,4615702
+Malaysia,2021-12-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56127466,25980964,25587543,4757046
+Malaysia,2021-12-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56299329,25984436,25592289,4920866
+Malaysia,2021-12-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56480827,25988012,25597288,5094073
+Malaysia,2021-12-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56662658,25991818,25602893,5266684
+Malaysia,2021-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56806840,25994180,25607028,5404474
+Malaysia,2021-12-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56833095,25994801,25608454,5428775
+Malaysia,2021-12-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,56898769,25995733,25610002,5492028
+Malaysia,2021-12-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57031507,25999270,25615440,5615988
+Malaysia,2021-12-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57188857,26002955,25620513,5764784
+Malaysia,2021-12-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57378906,26006615,25625778,5946130
+Malaysia,2021-12-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57588997,26010266,25630832,6147687
+Malaysia,2021-12-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57774377,26013311,25635514,6325625
+Malaysia,2022-01-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57816575,26013911,25636392,6366413
+Malaysia,2022-01-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,57913030,26015381,25637908,6460002
+Malaysia,2022-01-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,58126569,26018412,25642055,6666529
+Malaysia,2022-01-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,58372664,26021619,25646320,6905425
+Malaysia,2022-01-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,58622796,26024727,25650651,7148387
+Malaysia,2022-01-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,58880394,26027980,25655489,7398149
+Malaysia,2022-01-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,59101789,26030947,25659137,7613119
+Malaysia,2022-01-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,59229322,26032322,25660422,7738098
+Malaysia,2022-01-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,59341589,26033543,25662061,7847759
+Malaysia,2022-01-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,59568959,26035954,25665537,8069462
+Malaysia,2022-01-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,59826751,26038249,25668861,8321715
+Malaysia,2022-01-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,60087206,26040525,25672291,8576654
+Malaysia,2022-01-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,60358859,26042881,25675926,8842432
+Malaysia,2022-01-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,60598589,26044775,25678267,9078018
+Malaysia,2022-01-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,60768439,26046038,25679216,9245880
+Malaysia,2022-01-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,60917721,26046976,25680122,9393364
+Malaysia,2022-01-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,61165241,26049135,25683422,9635574
+Malaysia,2022-01-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,61298364,26050272,25684968,9766069
+Malaysia,2022-01-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,61571888,26052716,25689646,10032873
+Malaysia,2022-01-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,61824878,26054685,25693257,10280429
+Malaysia,2022-01-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62025949,26056334,25696182,10477010
+Malaysia,2022-01-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62186133,26057453,25696986,10635332
+Malaysia,2022-01-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62320116,26058376,25698087,10767388
+Malaysia,2022-01-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62527719,26060534,25701050,10970104
+Malaysia,2022-01-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62746098,26062809,25703938,11183398
+Malaysia,2022-01-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,62959076,26064648,25706593,11392008
+Malaysia,2022-01-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63168447,26066541,25709473,11596783
+Malaysia,2022-01-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63351396,26068387,25712225,11775287
+Malaysia,2022-01-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63451861,26069198,25713227,11873988
+Malaysia,2022-01-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63534677,26069783,25714077,11955425
+Malaysia,2022-01-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63633280,26070842,25715830,12051269
+Malaysia,2022-02-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63662575,26071096,25716177,12079996
+Malaysia,2022-02-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63693197,26071453,25716673,12109845
+Malaysia,2022-02-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63796794,26074124,25719497,12208059
+Malaysia,2022-02-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63889331,26076948,25721405,12295904
+Malaysia,2022-02-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,63964632,26093054,25722298,12354294
+Malaysia,2022-02-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64035520,26109679,25723146,12407768
+Malaysia,2022-02-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64159024,26119544,25725586,12519067
+Malaysia,2022-02-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64316641,26130886,25727291,12663727
+Malaysia,2022-02-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64487255,26145742,25729591,12817371
+Malaysia,2022-02-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64665494,26164856,25731634,12974598
+Malaysia,2022-02-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64830230,26186397,25733446,13116113
+Malaysia,2022-02-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,64977687,26226889,25734321,13222310
+Malaysia,2022-02-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65098849,26263008,25735172,13306604
+Malaysia,2022-02-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65252137,26302959,25736941,13418377
+Malaysia,2022-02-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65410302,26346634,25738928,13531124
+Malaysia,2022-02-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65578395,26393217,25740837,13651057
+Malaysia,2022-02-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65755797,26448571,25742686,13771335
+Malaysia,2022-02-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,65918499,26493495,25744468,13887496
+Malaysia,2022-02-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66072879,26567764,25745220,13966927
+Malaysia,2022-02-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66203476,26629872,25745789,14034923
+Malaysia,2022-02-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66344679,26683858,25747051,14120946
+Malaysia,2022-02-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66496669,26737269,25747806,14218829
+Malaysia,2022-02-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66643961,26786864,25748455,14315925
+Malaysia,2022-02-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66784738,26835979,25749588,14406551
+Malaysia,2022-02-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,66920139,26881781,25750710,14495092
+Malaysia,2022-02-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67041900,26938223,25751640,14559682
+Malaysia,2022-02-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67145505,26981234,25752489,14619630
+Malaysia,2022-02-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67264852,27016550,25753969,14702261
+Malaysia,2022-03-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67369137,27043823,25755414,14777861
+Malaysia,2022-03-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67469685,27071601,25757000,14849099
+Malaysia,2022-03-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67568693,27096043,25758644,14922070
+Malaysia,2022-03-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67652704,27119797,25760422,14980623
+Malaysia,2022-03-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67723198,27150887,25761666,15018941
+Malaysia,2022-03-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67781848,27175996,25762788,15051510
+Malaysia,2022-03-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67847481,27192585,25764760,15098650
+Malaysia,2022-03-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67918170,27212759,25766886,15147247
+Malaysia,2022-03-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,67982536,27231976,25768849,15190495
+Malaysia,2022-03-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68048868,27252623,25770829,15234293
+Malaysia,2022-03-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68108575,27277154,25772819,15267589
+Malaysia,2022-03-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68157017,27303532,25774353,15288230
+Malaysia,2022-03-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68203039,27327457,25775952,15308855
+Malaysia,2022-03-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68256575,27342590,25778300,15345097
+Malaysia,2022-03-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68315509,27361217,25780310,15383487
+Malaysia,2022-03-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68365187,27375081,25782489,15417555
+Malaysia,2022-03-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68412325,27388815,25784861,15448914
+Malaysia,2022-03-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68453864,27407588,25786767,15469888
+Malaysia,2022-03-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68489825,27424198,25788141,15488061
+Malaysia,2022-03-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68517963,27434457,25789418,15504894
+Malaysia,2022-03-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68547365,27439685,25791301,15527252
+Malaysia,2022-03-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68576900,27445696,25792895,15549236
+Malaysia,2022-03-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68605778,27452230,25794491,15570165
+Malaysia,2022-03-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68635093,27458599,25796348,15591446
+Malaysia,2022-03-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68669193,27471711,25797902,15610981
+Malaysia,2022-03-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68702149,27485534,25799002,15629057
+Malaysia,2022-03-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68727182,27492344,25799944,15646390
+Malaysia,2022-03-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68770701,27497311,25801856,15683190
+Malaysia,2022-03-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68820097,27503197,25803642,15725089
+Malaysia,2022-03-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68873512,27508586,25805253,15771676
+Malaysia,2022-03-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68932574,27515901,25807398,15821345
+Malaysia,2022-04-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68968615,27526499,25810359,15844026
+Malaysia,2022-04-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,68995648,27535540,25816444,15855971
+Malaysia,2022-04-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69013020,27537839,25827235,15860276
+Malaysia,2022-04-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69036200,27540596,25836237,15871702
+Malaysia,2022-04-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69060571,27543443,25845654,15883841
+Malaysia,2022-04-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69087059,27546479,25857941,15895150
+Malaysia,2022-04-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69117879,27550445,25873890,15906070
+Malaysia,2022-04-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69155027,27557290,25895546,15914790
+Malaysia,2022-04-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69199127,27564257,25925770,15921722
+Malaysia,2022-04-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69239866,27568419,25955896,15928182
+Malaysia,2022-04-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69288566,27572954,25989711,15938542
+Malaysia,2022-04-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69336666,27577629,26024640,15947079
+Malaysia,2022-04-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69386802,27583368,26061289,15954877
+Malaysia,2022-04-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69448066,27592182,26105533,15963109
+Malaysia,2022-04-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69507224,27603921,26147078,15969003
+Malaysia,2022-04-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69590456,27619151,26210561,15973546
+Malaysia,2022-04-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69653189,27630697,26258232,15977171
+Malaysia,2022-04-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69711489,27639915,26300978,15983536
+Malaysia,2022-04-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69760784,27647692,26337669,15988383
+Malaysia,2022-04-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69824377,27659368,26383989,15994020
+Malaysia,2022-04-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69888691,27673921,26426844,16000983
+Malaysia,2022-04-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,69956338,27690828,26472675,16005915
+Malaysia,2022-04-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70035139,27708966,26530067,16009209
+Malaysia,2022-04-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70090714,27721107,26570632,16012092
+Malaysia,2022-04-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70131498,27729066,26598902,16016687
+Malaysia,2022-04-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70167525,27736374,26622974,16021476
+Malaysia,2022-04-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70203977,27744574,26646927,16025818
+Malaysia,2022-04-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70237396,27752679,26667967,16030103
+Malaysia,2022-04-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70277184,27763530,26693850,16033163
+Malaysia,2022-04-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70313650,27770661,26721234,16035114
+Malaysia,2022-05-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70326215,27772514,26731425,16035636
+Malaysia,2022-05-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70328502,27772792,26733100,16035970
+Malaysia,2022-05-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",https://github.com/MoH-Malaysia/covid19-public,70329975,27772992,26734141,16036202

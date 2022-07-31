@@ -1,0 +1,9 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Tuvalu,2021-04-27,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2400,2400,,
+Tuvalu,2021-06-01,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2400,2400,0,
+Tuvalu,2021-06-15,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,4772,4772,0,
+Tuvalu,2021-08-16,Oxford/AstraZeneca,https://covid19.who.int/,8289,5988,2301,
+Tuvalu,2021-08-26,Oxford/AstraZeneca,https://covid19.who.int/,10692,6167,4525,
+Tuvalu,2021-09-10,Oxford/AstraZeneca,https://covid19.who.int/,10861,6209,4652,
+Tuvalu,2021-10-22,Oxford/AstraZeneca,https://covid19.who.int/,12114,6230,5884,
+Tuvalu,2022-04-05,Oxford/AstraZeneca,https://covid19.who.int/,12528,6368,6160,

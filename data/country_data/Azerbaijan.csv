@@ -1,0 +1,361 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Azerbaijan,2021-01-17,Sinovac,https://eurasianet.org/azerbaijan-starts-mass-covid-19-vaccinations,0,0,,
+Azerbaijan,2021-02-06,Sinovac,https://eurasianet.org/azerbaijan-starts-mass-covid-19-vaccinations,65000,65000,,
+Azerbaijan,2021-03-01,Sinovac,https://koronavirusinfo.az/az/post/675,293360,293360,,
+Azerbaijan,2021-03-03,Sinovac,https://koronavirusinfo.az/az/post/679,337315,337315,,
+Azerbaijan,2021-03-09,Sinovac,https://koronavirusinfo.az/az/post/689,411496,411496,,
+Azerbaijan,2021-03-10,Sinovac,https://koronavirusinfo.az/az/post/691,428635,428635,,
+Azerbaijan,2021-03-11,Sinovac,https://koronavirusinfo.az/az/post/693,436849,436849,,
+Azerbaijan,2021-03-12,Sinovac,https://koronavirusinfo.az/az/post/696,443888,443888,,
+Azerbaijan,2021-03-13,Sinovac,https://koronavirusinfo.az/az/post/698,450316,450316,,
+Azerbaijan,2021-03-14,Sinovac,https://koronavirusinfo.az/az/post/700,453586,453586,,
+Azerbaijan,2021-03-20,Sinovac,https://koronavirusinfo.az/az/post/715,482664,482664,,
+Azerbaijan,2021-03-26,Sinovac,https://koronavirusinfo.az/az/post/725,510420,510420,,
+Azerbaijan,2021-04-01,Sinovac,https://koronavirusinfo.az/az/post/738,856363,558485,297878,
+Azerbaijan,2021-04-02,Sinovac,https://koronavirusinfo.az/az/post/740,889033,569994,319039,
+Azerbaijan,2021-04-03,Sinovac,https://koronavirusinfo.az/az/post/741,924813,582463,342350,
+Azerbaijan,2021-04-04,Sinovac,https://koronavirusinfo.az/az/post/743,947745,590914,356831,
+Azerbaijan,2021-04-05,Sinovac,https://koronavirusinfo.az/az/post/745,947947,591012,356935,
+Azerbaijan,2021-04-06,Sinovac,https://koronavirusinfo.az/az/post/749,982291,611471,370820,
+Azerbaijan,2021-04-07,Sinovac,https://koronavirusinfo.az/az/post/751,1025790,639463,386327,
+Azerbaijan,2021-04-08,Sinovac,https://koronavirusinfo.az/az/post/753,1069488,672503,396985,
+Azerbaijan,2021-04-09,Sinovac,https://koronavirusinfo.az/az/post/754,1111722,706433,405289,
+Azerbaijan,2021-04-10,Sinovac,https://koronavirusinfo.az/az/post/756,1153549,739319,414230,
+Azerbaijan,2021-04-11,Sinovac,https://koronavirusinfo.az/az/post/759,1177087,758275,418812,
+Azerbaijan,2021-04-12,Sinovac,https://koronavirusinfo.az/az/post/761,1177187,758289,418898,
+Azerbaijan,2021-04-13,Sinovac,https://koronavirusinfo.az/az/post/763,1212163,787066,425097,
+Azerbaijan,2021-04-14,Sinovac,https://koronavirusinfo.az,1243191,813413,429778,
+Azerbaijan,2021-04-15,Sinovac,https://koronavirusinfo.az,1271791,837304,434487,
+Azerbaijan,2021-04-16,Sinovac,https://koronavirusinfo.az,1299323,859338,439985,
+Azerbaijan,2021-04-17,Sinovac,https://koronavirusinfo.az,1325034,879356,445678,
+Azerbaijan,2021-04-18,Sinovac,https://koronavirusinfo.az,1337361,889216,448145,
+Azerbaijan,2021-04-19,Sinovac,https://koronavirusinfo.az,1337380,889232,448148,
+Azerbaijan,2021-04-20,Sinovac,https://koronavirusinfo.az,1352210,899213,452997,
+Azerbaijan,2021-04-21,Sinovac,https://koronavirusinfo.az,1366890,908672,458218,
+Azerbaijan,2021-04-22,Sinovac,https://koronavirusinfo.az,1381967,917877,464090,
+Azerbaijan,2021-04-23,Sinovac,https://koronavirusinfo.az,1396391,926076,470315,
+Azerbaijan,2021-04-24,Sinovac,https://koronavirusinfo.az,1412481,934906,477575,
+Azerbaijan,2021-04-25,Sinovac,https://koronavirusinfo.az,1423295,939098,484197,
+Azerbaijan,2021-04-26,Sinovac,https://koronavirusinfo.az,1423660,939460,484200,
+Azerbaijan,2021-04-27,Sinovac,https://koronavirusinfo.az,1440243,946834,493409,
+Azerbaijan,2021-04-28,Sinovac,https://koronavirusinfo.az,1456114,953545,502569,
+Azerbaijan,2021-04-29,Sinovac,https://koronavirusinfo.az,1471579,959804,511775,
+Azerbaijan,2021-04-30,Sinovac,https://koronavirusinfo.az,1488218,966132,522086,
+Azerbaijan,2021-05-01,Sinovac,https://koronavirusinfo.az,1505206,971523,533683,
+Azerbaijan,2021-05-02,Sinovac,https://koronavirusinfo.az,1516923,975208,541715,
+Azerbaijan,2021-05-04,Sinovac,https://koronavirusinfo.az,1536328,980005,556323,
+Azerbaijan,2021-05-05,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1566106,987962,578144,
+Azerbaijan,2021-05-06,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1593883,992252,601631,
+Azerbaijan,2021-05-07,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1626916,996400,630516,
+Azerbaijan,2021-05-08,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1661772,1001968,659804,
+Azerbaijan,2021-05-09,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1687397,1005678,681719,
+Azerbaijan,2021-05-10,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1687567,1005704,681863,
+Azerbaijan,2021-05-11,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1705906,1009487,696419,
+Azerbaijan,2021-05-12,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1727510,1014495,713015,
+Azerbaijan,2021-05-13,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1748525,1019352,729173,
+Azerbaijan,2021-05-14,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1761632,1022479,739153,
+Azerbaijan,2021-05-15,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1777426,1026376,751050,
+Azerbaijan,2021-05-16,"Oxford/AstraZeneca, Sinovac",https://koronavirusinfo.az,1795049,1030831,764218,
+Azerbaijan,2021-05-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1834657,1042781,791876,
+Azerbaijan,2021-05-19,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1863292,1054414,808878,
+Azerbaijan,2021-05-20,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1891703,1068493,823210,
+Azerbaijan,2021-05-21,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1924805,1089886,834919,
+Azerbaijan,2021-05-22,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1961563,1115044,846519,
+Azerbaijan,2021-05-23,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1986969,1134376,852593,
+Azerbaijan,2021-05-24,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,1987084,1134398,852686,
+Azerbaijan,2021-05-25,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2021371,1158631,862740,
+Azerbaijan,2021-05-26,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2055986,1184780,871206,
+Azerbaijan,2021-05-27,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2106889,1226201,880688,
+Azerbaijan,2021-05-28,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2169185,1279356,889829,
+Azerbaijan,2021-05-29,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2208074,1313364,894710,
+Azerbaijan,2021-05-30,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2252809,1352778,900031,
+Azerbaijan,2021-05-31,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2253216,1352958,900258,
+Azerbaijan,2021-06-01,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2312715,1404898,907817,
+Azerbaijan,2021-06-02,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2367094,1452774,914320,
+Azerbaijan,2021-06-03,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2418082,1497993,920089,
+Azerbaijan,2021-06-04,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2465719,1540259,925460,
+Azerbaijan,2021-06-05,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2513085,1581890,931195,
+Azerbaijan,2021-06-06,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2546169,1611165,935004,
+Azerbaijan,2021-06-07,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2546770,1611499,935271,
+Azerbaijan,2021-06-08,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2586410,1646054,940356,
+Azerbaijan,2021-06-09,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2624876,1679448,945428,
+Azerbaijan,2021-06-10,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2662038,1712118,949920,
+Azerbaijan,2021-06-11,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2702023,1748035,953988,
+Azerbaijan,2021-06-12,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2742867,1783506,959361,
+Azerbaijan,2021-06-13,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2775319,1810857,964462,
+Azerbaijan,2021-06-14,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2775641,1811104,964537,
+Azerbaijan,2021-06-15,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2816346,1842954,973392,
+Azerbaijan,2021-06-16,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2839322,1859485,979837,
+Azerbaijan,2021-06-17,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2877878,1885031,992847,
+Azerbaijan,2021-06-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2915954,1908805,1007149,
+Azerbaijan,2021-06-20,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2989458,1949635,1039823,
+Azerbaijan,2021-06-21,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,2989673,1949646,1040027,
+Azerbaijan,2021-06-22,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3032516,1971930,1060586,
+Azerbaijan,2021-06-23,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3080340,1997612,1082728,
+Azerbaijan,2021-06-24,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3146350,2034554,1111796,
+Azerbaijan,2021-06-25,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3218651,2070526,1148125,
+Azerbaijan,2021-06-26,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3293732,2112110,1181622,
+Azerbaijan,2021-06-27,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3348427,2138684,1209743,
+Azerbaijan,2021-06-28,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3349035,2139001,1210034,
+Azerbaijan,2021-06-29,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3422241,2174186,1248055,
+Azerbaijan,2021-06-30,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3511219,2214990,1296229,
+Azerbaijan,2021-07-01,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3597108,2256816,1340292,
+Azerbaijan,2021-07-02,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3670729,2290808,1379921,
+Azerbaijan,2021-07-03,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3740447,2321863,1418584,
+Azerbaijan,2021-07-04,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3792764,2345077,1447687,
+Azerbaijan,2021-07-05,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3793533,2345371,1448162,
+Azerbaijan,2021-07-06,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3855455,2371796,1483659,
+Azerbaijan,2021-07-07,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3910624,2396007,1514617,
+Azerbaijan,2021-07-08,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,3964102,2417173,1546929,
+Azerbaijan,2021-07-09,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4015612,2437929,1577683,
+Azerbaijan,2021-07-10,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4069218,2459102,1610116,
+Azerbaijan,2021-07-11,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4107950,2474911,1633039,
+Azerbaijan,2021-07-12,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4108514,2475180,1633334,
+Azerbaijan,2021-07-13,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4159298,2494551,1664747,
+Azerbaijan,2021-07-14,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4200994,2512773,1688221,
+Azerbaijan,2021-07-15,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4242727,2530767,1711960,
+Azerbaijan,2021-07-16,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4283501,2548890,1734611,
+Azerbaijan,2021-07-17,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4323487,2566320,1757167,
+Azerbaijan,2021-07-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4357356,2580819,1776537,
+Azerbaijan,2021-07-19,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4357839,2581000,1776839,
+Azerbaijan,2021-07-20,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4383875,2591666,1792209,
+Azerbaijan,2021-07-21,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4398900,2597118,1801782,
+Azerbaijan,2021-07-22,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4415967,2602510,1813457,
+Azerbaijan,2021-07-24,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4516987,2634015,1882972,
+Azerbaijan,2021-07-25,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4563897,2654076,1909821,
+Azerbaijan,2021-07-26,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4564329,2654273,1910056,
+Azerbaijan,2021-07-27,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4632349,2686492,1945857,
+Azerbaijan,2021-07-28,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4714039,2731114,1982925,
+Azerbaijan,2021-07-29,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4798286,2777752,2020534,
+Azerbaijan,2021-07-30,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4885572,2827855,2057717,
+Azerbaijan,2021-07-31,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,4972362,2880131,2092231,
+Azerbaijan,2021-08-01,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5040778,2923477,2117301,
+Azerbaijan,2021-08-02,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5041622,2924126,2117496,
+Azerbaijan,2021-08-03,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5119407,2971686,2147721,
+Azerbaijan,2021-08-04,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5187428,3013620,2173808,
+Azerbaijan,2021-08-05,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5251051,3053560,2197491,
+Azerbaijan,2021-08-07,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5370768,3129512,2241256,
+Azerbaijan,2021-08-08,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5418243,3160484,2257759,
+Azerbaijan,2021-08-09,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5418754,3160755,2257999,
+Azerbaijan,2021-08-10,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5478042,3200107,2277935,
+Azerbaijan,2021-08-11,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5543311,3243487,2299824,
+Azerbaijan,2021-08-12,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5607591,3287430,2320161,
+Azerbaijan,2021-08-13,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5671138,3332017,2339121,
+Azerbaijan,2021-08-14,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5739342,3380387,2358955,
+Azerbaijan,2021-08-15,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5794232,3419938,2374294,
+Azerbaijan,2021-08-16,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5794483,3420144,2374339,
+Azerbaijan,2021-08-17,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5866215,3473806,2392409,
+Azerbaijan,2021-08-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5932734,3526467,2406267,
+Azerbaijan,2021-08-19,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,5991016,3574157,2416859,
+Azerbaijan,2021-08-20,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6045471,3617203,2428268,
+Azerbaijan,2021-08-21,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6110185,3667494,2442691,
+Azerbaijan,2021-08-22,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6170376,3713143,2457233,
+Azerbaijan,2021-08-23,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6170724,3713422,2457302,
+Azerbaijan,2021-08-24,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6249673,3772533,2477140,
+Azerbaijan,2021-08-25,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6335305,3830650,2504655,
+Azerbaijan,2021-08-26,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6419537,3884713,2534824,
+Azerbaijan,2021-08-27,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6493757,3929404,2564353,
+Azerbaijan,2021-08-29,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6687806,4042976,2644830,
+Azerbaijan,2021-08-30,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6689031,4043744,2645287,
+Azerbaijan,2021-08-31,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6805740,4113716,2692024,
+Azerbaijan,2021-09-01,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,6911439,4179684,2731755,
+Azerbaijan,2021-09-02,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7009933,4239851,2770082,
+Azerbaijan,2021-09-03,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7095693,4287967,2807726,
+Azerbaijan,2021-09-04,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7174297,4329571,2844726,
+Azerbaijan,2021-09-05,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7235274,4358794,2876480,
+Azerbaijan,2021-09-06,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7236381,4359737,2876644,
+Azerbaijan,2021-09-07,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7307149,4391664,2915485,
+Azerbaijan,2021-09-09,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7430450,4442484,2987966,
+Azerbaijan,2021-09-10,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7493034,4465644,3027390,
+Azerbaijan,2021-09-12,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7609940,4507038,3102902,
+Azerbaijan,2021-09-13,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7611206,4508115,3103091,
+Azerbaijan,2021-09-14,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7680427,4530138,3150289,
+Azerbaijan,2021-09-15,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7745851,4551501,3194350,
+Azerbaijan,2021-09-16,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7806235,4570812,3235423,
+Azerbaijan,2021-09-19,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7976549,4619432,3357117,
+Azerbaijan,2021-09-20,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,7977574,4619842,3357732,
+Azerbaijan,2021-09-21,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,8043423,4636579,3406844,
+Azerbaijan,2021-09-22,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,8106885,4652121,3454764,
+Azerbaijan,2021-09-23,"Oxford/AstraZeneca, Sinovac, Sputnik V",https://koronavirusinfo.az,8169473,4668637,3500836,
+Azerbaijan,2021-09-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8227729,4683453,3544276,
+Azerbaijan,2021-09-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8293590,4700096,3593494,
+Azerbaijan,2021-09-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8349945,4713750,3636195,
+Azerbaijan,2021-09-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8350575,4713775,3636800,
+Azerbaijan,2021-09-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8485952,4745715,3740237,
+Azerbaijan,2021-09-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8554628,4762232,3792396,
+Azerbaijan,2021-10-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8623360,4778843,3844517,
+Azerbaijan,2021-10-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8683990,4794136,3889854,
+Azerbaijan,2021-10-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8736939,4808142,3928797,
+Azerbaijan,2021-10-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8738000,4808374,3929626,
+Azerbaijan,2021-10-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8795572,4824323,3971249,
+Azerbaijan,2021-10-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8841520,4837342,4004178,
+Azerbaijan,2021-10-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8923055,4863636,4059419,
+Azerbaijan,2021-10-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8962945,4877452,4085493,
+Azerbaijan,2021-10-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8996778,4889178,4107600,
+Azerbaijan,2021-10-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,8997289,4889404,4107885,
+Azerbaijan,2021-10-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9037099,4903419,4133680,
+Azerbaijan,2021-10-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9106934,4929657,4177277,
+Azerbaijan,2021-10-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9138351,4942003,4196348,
+Azerbaijan,2021-10-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9194432,4964151,4230281,
+Azerbaijan,2021-10-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9195023,4964341,4230682,
+Azerbaijan,2021-10-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9226083,4976945,4249138,
+Azerbaijan,2021-10-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9257472,4991242,4266230,
+Azerbaijan,2021-10-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9289672,,4281946,
+Azerbaijan,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9320558,,4296058,
+Azerbaijan,2021-10-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9353744,,4310597,
+Azerbaijan,2021-10-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9383303,,4323145,
+Azerbaijan,2021-10-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9383669,,4323260,
+Azerbaijan,2021-10-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9424902,,4338145,
+Azerbaijan,2021-10-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9469618,,4350541,
+Azerbaijan,2021-10-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9518912,,4363976,
+Azerbaijan,2021-10-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9567956,,4377464,
+Azerbaijan,2021-10-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9617755,,4390426,
+Azerbaijan,2021-10-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9660868,,4402450,
+Azerbaijan,2021-11-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9661131,,4402511,
+Azerbaijan,2021-11-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9708264,,4414295,
+Azerbaijan,2021-11-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9917741,4997514,4435101,485126
+Azerbaijan,2021-11-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9928938,4999583,4438477,490878
+Azerbaijan,2021-11-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,9983606,5007657,4454456,521493
+Azerbaijan,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10021688,5012689,4464036,544963
+Azerbaijan,2021-11-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10062192,5018158,4473436,570598
+Azerbaijan,2021-11-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10092423,5022350,4480614,589459
+Azerbaijan,2021-11-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10092763,5022490,4480735,589538
+Azerbaijan,2021-11-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10132050,5028482,4490360,613208
+Azerbaijan,2021-11-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10165834,5033346,4498072,634416
+Azerbaijan,2021-11-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10201533,5038225,4505772,657536
+Azerbaijan,2021-11-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10234106,5042611,4512674,678821
+Azerbaijan,2021-11-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10267178,5047093,4519516,700569
+Azerbaijan,2021-11-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10292434,5050602,4524841,716991
+Azerbaijan,2021-11-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10292495,5050605,4524851,717039
+Azerbaijan,2021-11-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10328843,5055303,4532579,740961
+Azerbaijan,2021-11-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10363317,5059543,4538992,764782
+Azerbaijan,2021-11-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10396037,5063688,4544439,787910
+Azerbaijan,2021-11-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10426930,5067433,4549652,809845
+Azerbaijan,2021-11-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10460120,5071264,4555457,833399
+Azerbaijan,2021-11-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10486650,5074275,4559863,852512
+Azerbaijan,2021-11-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10486947,5074341,4559877,852729
+Azerbaijan,2021-11-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10527605,5079349,4566911,881345
+Azerbaijan,2021-12-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10567919,5083530,4573036,911353
+Azerbaijan,2021-12-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10604976,5087717,4578492,938767
+Azerbaijan,2021-12-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10639817,5091635,4583569,964613
+Azerbaijan,2021-12-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10675649,5095524,4588915,991210
+Azerbaijan,2021-12-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10702988,5098541,4593278,1011169
+Azerbaijan,2021-12-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10703142,5098684,4593286,1011172
+Azerbaijan,2021-12-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10739068,5103256,4597903,1037909
+Azerbaijan,2021-12-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10772313,5107205,4601258,1063850
+Azerbaijan,2021-12-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10806373,5110938,4605616,1089819
+Azerbaijan,2021-12-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10837528,5114379,4609478,1113671
+Azerbaijan,2021-12-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10869472,5117826,4613676,1137970
+Azerbaijan,2021-12-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10894072,5120573,4617224,1156275
+Azerbaijan,2021-12-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10894080,5120575,4617228,1156277
+Azerbaijan,2021-12-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10928879,5124934,4622381,1181564
+Azerbaijan,2021-12-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10960235,5128454,4626667,1205114
+Azerbaijan,2021-12-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,10990538,5131789,4630793,1227956
+Azerbaijan,2021-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11017859,5134947,4634404,1248508
+Azerbaijan,2021-12-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11046136,5138212,4638622,1269302
+Azerbaijan,2021-12-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11066874,5140913,4641869,1284092
+Azerbaijan,2021-12-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11066951,5140918,4641918,1284115
+Azerbaijan,2021-12-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11097316,5144676,4645903,1306737
+Azerbaijan,2021-12-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11125458,5147759,4649537,1328162
+Azerbaijan,2021-12-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11152952,5150711,4653005,1349236
+Azerbaijan,2021-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11177159,5153329,4656209,1367621
+Azerbaijan,2021-12-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11203595,5155907,4659458,1388230
+Azerbaijan,2021-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11224605,5157956,4662029,1404620
+Azerbaijan,2021-12-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11255847,5161039,4666161,1428647
+Azerbaijan,2021-12-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11286004,5163947,4669820,1452237
+Azerbaijan,2021-12-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11318107,5166741,4673411,1477955
+Azerbaijan,2021-12-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11346166,5169382,4676520,1500264
+Azerbaijan,2022-01-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11346243,5169392,4676580,1500271
+Azerbaijan,2022-01-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11346285,5169401,4676609,1500275
+Azerbaijan,2022-01-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11346365,5169419,4676664,1500282
+Azerbaijan,2022-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11346548,5169431,4676760,1500357
+Azerbaijan,2022-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11373965,5171942,4680213,1521810
+Azerbaijan,2022-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11407447,5175536,4684670,1547241
+Azerbaijan,2022-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11439291,5178595,4688646,1572050
+Azerbaijan,2022-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11471597,5181783,4692515,1597299
+Azerbaijan,2022-01-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11498372,5184045,4695326,1619001
+Azerbaijan,2022-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11498430,5184066,4695363,1619001
+Azerbaijan,2022-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11531165,5187462,4699487,1644216
+Azerbaijan,2022-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11562620,5190347,4703255,1669018
+Azerbaijan,2022-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11592507,5193025,4706413,1693069
+Azerbaijan,2022-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11648496,5198072,4712091,1738333
+Azerbaijan,2022-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11672083,5200328,4714478,1757277
+Azerbaijan,2022-01-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11672089,5200330,4714478,1757281
+Azerbaijan,2022-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11701685,5203374,4717982,1780329
+Azerbaijan,2022-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11729782,5206120,4720935,1802727
+Azerbaijan,2022-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11756566,5208739,4723586,1824241
+Azerbaijan,2022-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11765037,5209461,4724359,1831217
+Azerbaijan,2022-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11791254,5212082,4727150,1852022
+Azerbaijan,2022-01-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11813840,5214124,4729272,1870444
+Azerbaijan,2022-01-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11813843,5214125,4729273,1870445
+Azerbaijan,2022-01-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11845510,5217380,4732155,1895975
+Azerbaijan,2022-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11876073,5220001,4734704,1921368
+Azerbaijan,2022-01-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11905588,5222566,4736905,1946117
+Azerbaijan,2022-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11936475,5225069,4738970,1972436
+Azerbaijan,2022-01-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,11971021,5228014,4740859,2002148
+Azerbaijan,2022-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12000749,5230388,4742169,2028192
+Azerbaijan,2022-01-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12000767,5230388,4742174,2028205
+Azerbaijan,2022-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12039129,5233696,4743594,2061839
+Azerbaijan,2022-02-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12075995,5236758,4745006,2094231
+Azerbaijan,2022-02-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12114431,5239838,4746927,2127666
+Azerbaijan,2022-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12149831,5242827,4748738,2158266
+Azerbaijan,2022-02-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12186279,5245925,4750763,2189591
+Azerbaijan,2022-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12218614,5248383,4752395,2217836
+Azerbaijan,2022-02-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12261740,5252035,4754599,2255106
+Azerbaijan,2022-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12306245,5255473,4756764,2294008
+Azerbaijan,2022-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12349272,5258618,4758803,2331851
+Azerbaijan,2022-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12390636,5261495,4760705,2368436
+Azerbaijan,2022-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12434328,5264564,4762493,2407271
+Azerbaijan,2022-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12478257,5267458,4764254,2446545
+Azerbaijan,2022-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12478529,5267544,4764378,2446607
+Azerbaijan,2022-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12549963,5270596,4766430,2512937
+Azerbaijan,2022-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12627370,5273971,4768299,2585100
+Azerbaijan,2022-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,12720225,5280393,4772019,
+Azerbaijan,2022-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13159751,5308772,4795324,2842065
+Azerbaijan,2022-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13159756,5308772,4795324,2842070
+Azerbaijan,2022-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13176571,5309703,4796474,2855788
+Azerbaijan,2022-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13176634,5309703,4796500,2855817
+Azerbaijan,2022-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13202557,5311055,4798936,2876702
+Azerbaijan,2022-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13224872,5312204,4800732,2894880
+Azerbaijan,2022-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13246942,5313384,4802388,2913043
+Azerbaijan,2022-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13263746,5314246,4803742,2926667
+Azerbaijan,2022-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13263773,5314247,4803747,2926687
+Azerbaijan,2022-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13286364,5315399,4805594,2945147
+Azerbaijan,2022-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13303938,5316267,4807323,2959219
+Azerbaijan,2022-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13320490,5317085,4809138,2972338
+Azerbaijan,2022-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13338542,5317920,4811119,2986755
+Azerbaijan,2022-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13355516,5318721,4812983,3000253
+Azerbaijan,2022-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13368482,5319389,4814484,3010292
+Azerbaijan,2022-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13368489,5319389,4814484,3010297
+Azerbaijan,2022-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13368581,5319393,4814504,3010364
+Azerbaijan,2022-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13375580,5319726,4815285,3015906
+Azerbaijan,2022-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13382494,5320073,4816072,3021324
+Azerbaijan,2022-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13388971,5320442,4816763,3026385
+Azerbaijan,2022-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13395825,5320787,4817513,3031776
+Azerbaijan,2022-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13405920,5321389,4818792,3039383
+Azerbaijan,2022-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13406075,5321396,4818801,3039521
+Azerbaijan,2022-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13425032,5322427,4821276,3054089
+Azerbaijan,2022-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13441710,5323392,4823150,3067193
+Azerbaijan,2022-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13456322,5324386,4824633,3078608
+Azerbaijan,2022-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13491577,5327175,4827901,3106035
+Azerbaijan,2022-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13491580,5327175,4827903,3106036
+Azerbaijan,2022-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13503634,5328019,4829162,3115333
+Azerbaijan,2022-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13513935,5328620,4829985,3123615
+Azerbaijan,2022-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13523432,5329250,4830745,3131203
+Azerbaijan,2022-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13532020,5329879,4831462,3137947
+Azerbaijan,2022-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13540995,5330431,4832203,3145148
+Azerbaijan,2022-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13549307,5330997,4832867,3151707
+Azerbaijan,2022-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13549308,5330997,4832867,3151708
+Azerbaijan,2022-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13558968,5331706,4833723,3159255
+Azerbaijan,2022-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13567201,5332288,4834400,3165753
+Azerbaijan,2022-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13574804,5332840,4834938,3171771
+Azerbaijan,2022-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13595242,5334494,4836495,3187702
+Azerbaijan,2022-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13602359,5335121,4837020,3193254
+Azerbaijan,2022-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13608691,5335621,4837419,3198302
+Azerbaijan,2022-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13614545,5336229,4837732,3202881
+Azerbaijan,2022-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13623719,5337184,4838229,3210006
+Azerbaijan,2022-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13627588,5337603,4838456,3212960
+Azerbaijan,2022-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13645649,5339638,4839802,3226442
+Azerbaijan,2022-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13649741,5340053,4840220,3229389
+Azerbaijan,2022-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13653670,5340336,4840600,3232352
+Azerbaijan,2022-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://koronavirusinfo.az,13653700,5340336,4840610,3232372

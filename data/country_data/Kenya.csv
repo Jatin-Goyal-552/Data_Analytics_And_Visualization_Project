@@ -1,0 +1,271 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Kenya,2021-03-04,Oxford/AstraZeneca,https://www.dw.com/en/kenya-begins-covid-19-vaccinations/av-56787478,0,0,0,
+Kenya,2021-03-10,Oxford/AstraZeneca,http://www.xinhuanet.com/english/2021-03/10/c_139800534.htm,4000,4000,0,
+Kenya,2021-03-14,Oxford/AstraZeneca,https://allafrica.com/stories/202103150106.html,9144,9144,0,
+Kenya,2021-03-17,Oxford/AstraZeneca,https://www.youtube.com/watch?v=XmZfFCD2Wfw,20000,20000,0,
+Kenya,2021-03-24,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1374739312651161603,64100,64100,0,
+Kenya,2021-03-26,Oxford/AstraZeneca,https://www.health.go.ke/wp-content/uploads/2021/03/NERC-MoH-CS-Covid-Release-26.3.2021-i.pdf,90340,90340,0,
+Kenya,2021-03-31,Oxford/AstraZeneca,https://nairobinews.nation.co.ke/news/aga-khan-hospital-resumes-covid-19-vaccination,161771,161771,0,
+Kenya,2021-04-03,Oxford/AstraZeneca,http://www.xinhuanet.com/english/africa/2021-04/03/c_139855359.htm,196435,196435,0,
+Kenya,2021-04-07,Oxford/AstraZeneca,http://www.xinhuanet.com/english/2021-04/08/c_139865231.htm,340121,340121,0,
+Kenya,2021-04-08,Oxford/AstraZeneca,https://www.health.go.ke/wp-content/uploads/2021/04/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-DATA-BY-8TH-APRIL-2021.pdf,422021,422021,0,
+Kenya,2021-04-14,Oxford/AstraZeneca,https://africa.cgtn.com/2021/04/15/kenya-inoculates-close-to-600000-people-with-astrazeneca-vaccine/,569244,569244,0,
+Kenya,2021-04-16,Oxford/AstraZeneca,https://www.aa.com.tr/en/africa/kenya-reports-1-041-new-virus-cases-19-deaths/2211516,651650,651650,0,
+Kenya,2021-04-21,Oxford/AstraZeneca,https://www.aa.com.tr/en/africa/kenya-confirms-21-new-coronavirus-deaths/2216416,750471,750471,0,
+Kenya,2021-04-28,Oxford/AstraZeneca,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/kenya-confirms-23-new-covid-19-deaths-over-800-cases/2223734,853081,853081,0,
+Kenya,2021-05-13,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1392880577544691713,930460,930460,0,
+Kenya,2021-05-14,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1393236267178119173,933436,933436,0,
+Kenya,2021-05-19,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1395021880902488071,945597,945597,0,
+Kenya,2021-05-20,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1395391219560329221,948980,948980,0,
+Kenya,2021-05-21,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1395795724277796868,951026,951026,0,
+Kenya,2021-05-23,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1396497458847494146,953954,953954,0,
+Kenya,2021-05-24,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1396823715879559169,954515,954515,0,
+Kenya,2021-05-25,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1397212899668549633,957804,957804,0,
+Kenya,2021-05-26,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1397550789783134214,960379,960379,0,
+Kenya,2021-05-27,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1397880626603253765,963241,963241,0,
+Kenya,2021-05-28,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1398271255728558082,966433,966433,0,
+Kenya,2021-05-29,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1398666909466476545,968733,968733,0,
+Kenya,2021-05-31,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1399394900362371081,969692,969489,203,
+Kenya,2021-06-02,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1400081585152704512,971714,971243,471,
+Kenya,2021-06-03,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1400457171159064576,973987,972601,1386,
+Kenya,2021-06-04,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1400796700357410818,976541,974000,2541,
+Kenya,2021-06-05,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1401192610178478087,981887,975265,6622,
+Kenya,2021-06-06,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1401541564359495686,983580,975399,8181,
+Kenya,2021-06-07,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1401899255774785541,989029,975835,13194,
+Kenya,2021-06-08,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1402292229159391234,1005509,978127,27382,
+Kenya,2021-06-09,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1402633865030680577,1030445,979955,50490,
+Kenya,2021-06-10,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1403021430737014789,1059117,982310,76807,
+Kenya,2021-06-11,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1403398769690005505,1095122,985070,110052,
+Kenya,2021-06-13,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1404102956102963200,1113158,986881,126277,
+Kenya,2021-06-14,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1404452449998589953,1116021,987277,128744,
+Kenya,2021-06-15,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1404815233089163278,1138748,989422,149326,
+Kenya,2021-06-16,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1405215414951596034,1155745,991184,164561,
+Kenya,2021-06-17,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1405539257305886723,1164161,992418,171743,
+Kenya,2021-06-18,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1405874753563463685,1174071,993670,180401,
+Kenya,2021-06-19,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1406281822611423234,1181588,994622,186966,
+Kenya,2021-06-20,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1406627604132773892,1183376,995012,188364,
+Kenya,2021-06-21,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1406985909292224513,1187663,995570,192093,
+Kenya,2021-06-22,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1407368750454738947,1190889,996414,194475,
+Kenya,2021-06-23,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1407718615126884353,1201325,997420,203905,
+Kenya,2021-06-24,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1408088289639272452,1220151,998073,222078,
+Kenya,2021-06-26,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1408808076950577156,1279023,1001711,277312,
+Kenya,2021-06-27,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1409222210372440068,1287776,1002499,285277,
+Kenya,2021-06-28,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1409512393655394313,1293004,1003204,289800,
+Kenya,2021-06-29,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1409920289018949634,1334749,1005901,328848,
+Kenya,2021-06-30,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1410278961649786886,1378585,1008120,370465,
+Kenya,2021-07-01,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1410660379252961281,1417100,1010954,406146,
+Kenya,2021-07-02,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1410967857412911106,1447648,1013895,433753,
+Kenya,2021-07-03,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1411316625257730054,1468908,1016190,452718,
+Kenya,2021-07-04,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1411741922159468550,1473869,1017485,456384,
+Kenya,2021-07-05,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1412037614358745093,1477916,1018143,,
+Kenya,2021-07-06,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1412463671251554309,1495120,1020120,,
+Kenya,2021-07-07,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1412804836358299649,1511693,1021982,489711,
+Kenya,2021-07-08,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1413183643225296902,1524444,1024133,500311,
+Kenya,2021-07-09,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1413527371039354892,1530551,1025427,505124,
+Kenya,2021-07-11,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1414262231953510400,1539087,1026960,512127,
+Kenya,2021-07-12,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1414629588387389445,1547092,1028121,518971,
+Kenya,2021-07-13,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1414988807867355143,1550389,1028669,521720,
+Kenya,2021-07-14,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1415377880800976899,1565344,1030853,534491,
+Kenya,2021-07-15,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1416024973903282178,1607982,1035621,572361,
+Kenya,2021-07-17,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1416414850037788682,1618356,1037353,581003,
+Kenya,2021-07-18,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1416772664220323846,1620465,1038074,582391,
+Kenya,2021-07-20,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1417491305891090432,1635441,1040317,595124,
+Kenya,2021-07-21,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1417876619843211264,1636475,1040665,595810,
+Kenya,2021-07-22,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1418225449071628290,1648869,1042455,606414,
+Kenya,2021-07-23,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1418566588601602050,1661560,1044638,616922,
+Kenya,2021-07-24,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1418936206214246410,1670941,1046526,624415,
+Kenya,2021-07-25,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1419367148506521606,1672687,1047355,625332,
+Kenya,2021-07-26,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1419675985801269248,1673272,1047592,625680,
+Kenya,2021-07-27,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1420065492480544771,1682899,1049847,633052,
+Kenya,2021-07-28,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1420396721566359559,1692793,1052343,640450,
+Kenya,2021-07-29,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1420778439594872835,1707734,1055341,652393,
+Kenya,2021-07-30,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1421099870396555270,1712550,1058280,654270,
+Kenya,2021-08-01,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1421871297638932486,1726193,1064104,662089,
+Kenya,2021-08-02,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1422198658427195407,1726937,1064500,662437,
+Kenya,2021-08-03,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1422596545736843268,1734013,1067615,666398,
+Kenya,2021-08-04,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1422915323464912908,1741581,1071297,670284,
+Kenya,2021-08-05,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1423345365193998336,1750260,1075808,674452,
+Kenya,2021-08-06,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1423685030824579079,1768519,1084013,684506,
+Kenya,2021-08-07,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1424009098928996360,1793520,1097830,695690,
+Kenya,2021-08-09,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1424773507938926592,1804375,1105470,698905,
+Kenya,2021-08-10,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1425122597319200769,1842342,1131631,710711,
+Kenya,2021-08-11,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1425498007483658245,1881988,1160809,721179,
+Kenya,2021-08-12,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1425868457221009412,1922085,1192418,729667,
+Kenya,2021-08-13,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1426179011445727234,1970174,1231835,738339,
+Kenya,2021-08-14,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1426609248964857863,2008548,1264362,744186,
+Kenya,2021-08-15,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1426951406087454725,2033277,1287010,746267,
+Kenya,2021-08-16,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1427306833602088961,2053717,1305850,747867,
+Kenya,2021-08-18,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1427999232615763973,2154825,1393905,760920,
+Kenya,2021-08-19,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1428371869716164612,2221704,1454102,767602,
+Kenya,2021-08-20,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1428698750265004036,2290801,1517734,773067,
+Kenya,2021-08-21,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1429299792262336517,2374197,1595335,778862,
+Kenya,2021-08-22,Oxford/AstraZeneca,https://twitter.com/MOH_Kenya/status/1429456705532928005,2396064,1615687,780377,
+Kenya,2021-08-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1429860727309938689,2412209,1631022,781187,
+Kenya,2021-08-24,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1430187516150403073,2501198,1714858,786340,
+Kenya,2021-08-25,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1430525817520590849,2585664,1794369,791295,
+Kenya,2021-08-26,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1430918021179232261,2649820,1854630,795190,
+Kenya,2021-08-27,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1431254488589942794,2693039,1894240,798799,
+Kenya,2021-08-28,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1431674373912543233,2726932,1925446,801486,
+Kenya,2021-08-29,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1432010955559481351,2742199,1939688,802511,
+Kenya,2021-08-30,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1432308411727847428,2752266,1949340,802926,
+Kenya,2021-08-31,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1432735230662746113,2773239,1968656,804583,
+Kenya,2021-09-01,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1433111418014928900,2792309,1985905,806404,
+Kenya,2021-09-02,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1433460730012094465,2807945,2000285,807660,
+Kenya,2021-09-03,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1433784436760498191,2809389,2020009,809380,
+Kenya,2021-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1434181526992916503,2854662,2043504,811158,
+Kenya,2021-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1434522093958451212,2862528,2050377,812151,
+Kenya,2021-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1434933905610653700,2870392,2057080,813312,
+Kenya,2021-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1435261273026048002,2874858,2080483,814375,
+Kenya,2021-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1435653668553035783,2934285,2117075,817210,
+Kenya,2021-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1436333155041136641,3031728,2208468,823260,
+Kenya,2021-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1437078467565309953,3090932,2262968,827964,
+Kenya,2021-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1437462941113143296,3099807,2270827,828980,
+Kenya,2021-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1438214203341410310,3192099,2353534,838565,
+Kenya,2021-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1438554583895322629,3241751,2397641,844110,
+Kenya,2021-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1438895336613990401,3290450,2439528,850922,
+Kenya,2021-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1439227900247564298,3337913,2480543,857370,
+Kenya,2021-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1439985690708791296,3364322,2504869,859453,
+Kenya,2021-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1440346403314683904,3409017,2543876,865141,
+Kenya,2021-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1440717521955344384,3461056,2589741,871315,
+Kenya,2021-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1441038114533806080,3507836,2631821,876015,
+Kenya,2021-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1441469455385579525,3554424,2672861,881563,
+Kenya,2021-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1441787651477102594,3600187,2713427,886760,
+Kenya,2021-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1442156160484880386,3613357,2724274,889083,
+Kenya,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1442462515036835840,3613357,2737982,889298,
+Kenya,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1442891362270003207,3664721,2771051,893670,
+Kenya,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1443247658920030216,3712030,2813477,898553,
+Kenya,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1443588303349972998,3761876,2856972,904904,
+Kenya,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1443917032479760384,3811136,2897007,914129,
+Kenya,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1444356646268977155,3860780,2934743,926037,
+Kenya,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1444677153740705796,3874083,2944584,929499,
+Kenya,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1445069301124407308,3886630,2955890,930740,
+Kenya,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1445436293941497861,3935671,2988128,947543,
+Kenya,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1445777431227363332,3990500,3022947,967553,
+Kenya,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1446462004261163019,4111317,3093399,1017918,
+Kenya,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1447212279813001219,4183552,3135700,1047852,
+Kenya,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://twitter.com/MOH_Kenya/status/1447960443658641410,4210315,3155222,1055093,
+Kenya,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-15TH-OCTOBER-2021-1.pdf,4482179,3280011,1202168,
+Kenya,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-16TH-OCTOBER-2021.pdf,4500179,3291192,1208987,
+Kenya,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-17TH-OCTOBER-2021.pdf,4520753,3303782,1216971,
+Kenya,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-18TH-OCTOBER-2021.pdf,4590725,3338391,1252334,
+Kenya,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-OCTOBER-2021.pdf,4674897,3379842,1295055,
+Kenya,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-20TH-OCTOBER-2021.pdf,4733770,3416746,1317024,
+Kenya,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-22ND-OCTOBER-2021.pdf,4902772,3493570,1414202,
+Kenya,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-OCTOBER-2021.pdf,4930336,3504400,1425936,
+Kenya,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-24TH-OCTOBER-2021.pdf,4944441,3513683,1430758,
+Kenya,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-25TH-OCTOBER-2021.pdf,5029901,3545060,1484841,
+Kenya,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-26TH-OCTOBER-2021.pdf,5084297,3576875,1507422,
+Kenya,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-27TH-OCTOBER-2021.pdf,5153667,3608290,1545377,
+Kenya,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-28TH-OCTOBER-2021.pdf,5226128,3642163,1583965,
+Kenya,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-29TH-OCTOBER-2021.pdf,5292312,3671133,1621179,
+Kenya,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/10/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-30TH-OCTOBER-2021.pdf,5307181,3679975,1627206,
+Kenya,2021-10-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-31ST-OCTOBER-2021.pdf,5321880,3688884,1632996,
+Kenya,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-1ST-NOVEMBER-2021.pdf,5377727,3705253,1672474,
+Kenya,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-3RD-NOVEMBER-2021.pdf,5482089,3744710,1737379,
+Kenya,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-4TH-NOVEMBER-2021.pdf,5546979,3764767,1782212,
+Kenya,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-5TH-NOVEMBER-2021.pdf,5611772,3782659,1829113,
+Kenya,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-6TH-NOVEMBER-2021.pdf,5624230,3787211,1837019,
+Kenya,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-8TH-NOVEMBER-2021.pdf,5691050,3808382,1882668,
+Kenya,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-9TH-NOVEMBER-2021.pdf,5751332,3825759,1925573,
+Kenya,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-11TH-NOVEMBER-2021.pdf,5893466,,2032330,
+Kenya,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-14TH-NOVEMBER-2021.pdf,5997816,3887459,2110357,
+Kenya,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-15TH-NOVEMBER-2021.pdf,6083449,3905215,2178234,
+Kenya,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-17TH-NOVEMBER-2021.pdf,6245698,3944709,2300989,
+Kenya,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-18TH-NOVEMBER-2021.pdf,6311749,3963035,2348714,
+Kenya,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-20TH-NOVEMBER-2021.pdf,6388427,3986501,2401926,
+Kenya,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-NOVEMBER-2021.pdf,6597597,4087317,2510280,
+Kenya,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-REPORT-24TH-NOVEMBER-2021.pdf,6700134,4329464,2556755,
+Kenya,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-25TH-NOVEMBER-2021.pdf,6811043,4405888,2603541,
+Kenya,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-26TH-NOVEMBER-2021.pdf,6915627,4478196,2648391,
+Kenya,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-28TH-NOVEMBER-2021.pdf,6959988,4511979,2664224,
+Kenya,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/11/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-29TH-NOVEMBER-2021.pdf,7063927,4583142,2709473,
+Kenya,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-30TH-NOVEMBER-2021.pdf,7175590,4658835,2759827,
+Kenya,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-DECEMBER-2021.pdf,7417276,4819028,2877348,
+Kenya,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-3rd-December-2021..pdf,7525681,4891490,2930650,
+Kenya,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-5TH-DECEMBER-2021.pdf,7583134,4938175,2954835,
+Kenya,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-6TH-December-2021.pdf,7678464,5003403,3001908,
+Kenya,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-7TH-DECEMBER-2021.pdf,7787262,5078363,3055726,
+Kenya,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-8TH-DECEMBER-2021.pdf,7900934,5156080,3117034,
+Kenya,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-9TH-DECEMBER-2021.pdf,8026932,5248482,3178134,
+Kenya,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-10TH-DECEMBER-2021.pdf,8141817,,3235498,
+Kenya,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-11TH-DECEMBER-2021.pdf,8178645,5359346,3251688,
+Kenya,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-12TH-DECEMBER-2021.pdf,8198259,5375123,3260603,
+Kenya,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-14TH-DECEMBER-2021.pdf,8377457,5507903,3345520,
+Kenya,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-16TH-DECEMBER-2021.pdf,8675388,5735219,3483662,
+Kenya,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-DECEMBER-2021.pdf,8913690,5930258,3592043,
+Kenya,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-22ND-DECEMBER-2021.pdf,9389825,,3847196,
+Kenya,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-DECEMBER-2021.pdf,9448225,,3862711,
+Kenya,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-25TH-DECEMBER-2021.pdf,9570050,,3927485,
+Kenya,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-26TH-DECEMBER-2021.pdf,9594110,,3939523,
+Kenya,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-27TH-DECEMBER-2021.pdf,9629145,,3957505,
+Kenya,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-28TH-DECEMBER-2021.pdf,9739482,,4018791,
+Kenya,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2021/12/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-29TH-DECEMBER-2021.pdf,9866314,,4086482,
+Kenya,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-30TH-DECEMBER-2021-1.pdf,10002184,,4155832,5280
+Kenya,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-1ST-JANUARY-2022.pdf,10121263,,4215806,13215
+Kenya,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-JANUARY-2022.pdf,10134012,,4222839,13218
+Kenya,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-3RD-JANUARY-2022.pdf,10220981,,4270594,17933
+Kenya,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-4TH-JANUARY-2022.pdf,10310606,,4321150,23939
+Kenya,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-5TH-JANUARY-2022.pdf,10356914,,4347094,30572
+Kenya,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-6TH-JANUARY-2022.pdf,10473483,,4412786,40120
+Kenya,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-7TH-JANUARY-2022.pdf,10572187,,4468661,49343
+Kenya,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-8TH-JANUARY-2022.pdf,10593638,,4478832,51226
+Kenya,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-9TH-JANUARY-2022.pdf,10609955,,4486533,51971
+Kenya,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-10TH-JANUARY-2022.pdf,10696021,,4533842,59712
+Kenya,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-11TH-JANUARY-2022.pdf,10779531,,4583839,67002
+Kenya,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-12TH-JANUARY-2022.pdf,10878311,,4644213,74374
+Kenya,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-17TH-JANUARY-2022.pdf,11174610,6251075,4828594,94941
+Kenya,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-JANUARY-2022.pdf,11345649,6295337,4945422,104890
+Kenya,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-20TH-JANUARY-2022.pdf,11437774,6316501,5011823,109450
+Kenya,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-21ST-JANUARY-2022.pdf,11522950,6336971,5071972,114007
+Kenya,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-22ND-JANUARY-2022-.pdf,11542128,6344094,5082976,115058
+Kenya,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-23RD-JANUARY-2022.pdf,11553636,6348544,5089686,115407
+Kenya,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-24TH-JANUARY-2022.pdf,11625788,6365984,5140835,118969
+Kenya,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-25TH-JANUARY-2022.pdf,11710636,6387024,5150338,123274
+Kenya,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-26TH-JANUARY-2022.pdf,11784132,6406701,5250282,127149
+Kenya,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-27TH-JANUARY-2022.pdf,11858965,6426628,5300954,131383
+Kenya,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-28TH-JANUARY-2022.pdf,11987147,6469965,5380151,137031
+Kenya,2022-01-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/01/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-29TH-JANUARY-2022.pdf,12107587,6519171,5447350,141066
+Kenya,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-30TH-JANUARY-2022.pdf,12252574,6572987,5530890,148697
+Kenya,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-31ST-JANUARY-2022.pdf,12451246,6650827,5644983,155436
+Kenya,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-1ST-FEBRUARY-2022.pdf,12652991,6726073,5764722,162196
+Kenya,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-FEBRUARY-2022.pdf,12885157,6821372,5894445,169340
+Kenya,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-3RD-FEBRUARY-2022.pdf,13134929,6931867,6031744,176318
+Kenya,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-4TH-FEBRUARY-2022.pdf,13399285,7057640,6158263,183382
+Kenya,2022-02-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-5TH-FEBRUARY-2022.pdf,13599070,7157187,6254366,187517
+Kenya,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-6TH-FEBRUARY-2022.pdf,13782963,7237715,6351657,193591
+Kenya,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-7TH-FEBRUARY-2022.pdf,13969965,7330303,6441596,198066
+Kenya,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-8TH-FEBRUARY-2022.pdf,14192860,7445331,6544301,203228
+Kenya,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-9TH-FEBRUARY-2022.pdf,14465822,7598470,6658534,208818
+Kenya,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-10TH-FEBRUARY-2022.pdf,14748107,7762095,6771350,214662
+Kenya,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-VACCINATION-STATUS-REPORT-11TH-FEBRUARY-2022.pdf,15030753,7929066,6881306,220381
+Kenya,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-12TH-FEBRUARY-2022.pdf,15236700,8054405,6958610,223685
+Kenya,2022-02-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-16TH-FEBRUARY-2022.pdf,15911717,,7261983,237303
+Kenya,2022-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-17TH-FEBRUARY-2022.pdf,16019611,,7313482,239191
+Kenya,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-FEBRUARY-2022.pdf,16130662,,7361539,241097
+Kenya,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-20TH-FEBRUARY-2022.pdf,16156511,,7370036,241233
+Kenya,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-21ST-FEBRUARY-2022.pdf,16222224,,7402211,242801
+Kenya,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-22ND-FEBRUARY-20221.pdf,16298878,,7440969,244391
+Kenya,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-24TH-FEBRUARY-2022.pdf,16456660,,7521620,248337
+Kenya,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-25TH-FEBRUARY-2022.pdf,16533328,,7559978,250480
+Kenya,2022-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-26TH-FEBRUARY-2022.pdf,16577113,,7579773,251409
+Kenya,2022-02-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/02/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-27TH-FEBRUARY-2022.pdf,16617398,,7597696,252452
+Kenya,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-28TH-FEBRUARY-2022.pdf,16691191,,7637631,254335
+Kenya,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-1ST-MARCH-2022.pdf,16740060,,7667915,255481
+Kenya,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-2ND-MARCH-2022.pdf,16786825,,7699273,256726
+Kenya,2022-03-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-3RD-MARCH-2022.pdf,16829500,,7726896,257739
+Kenya,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-4TH-MARCH-2022_.pdf,16865915,,7752059,258775
+Kenya,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-5TH-MARCH-2022.pdf,16876436,,7758227,259046
+Kenya,2022-03-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-6TH-MARCH-2022.pdf,16883282,,7761412,259177
+Kenya,2022-03-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-7TH-MARCH-2022.pdf,16918288,,7787074,260064
+Kenya,2022-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-10TH-MARCH-2022.pdf,17054582,,7890397,262831
+Kenya,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-11TH-MARCH-2022.pdf,17105662,,7929595,263765
+Kenya,2022-03-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-12TH-MARCH-2022.pdf,17118224,,7937578,263988
+Kenya,2022-03-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-13TH-MARCH-2022.pdf,17129923,,7943994,264172
+Kenya,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-14TH-MARCH-2022.pdf,17172651,,7976891,265023
+Kenya,2022-03-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-17TH-MARCH-2022.pdf,17278552,,8055220,267991
+Kenya,2022-03-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-18TH-MARCH-2022.pdf,17313441,,8081247,268516
+Kenya,2022-03-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-MARCH-2022.pdf,17327143,,8090985,268625
+Kenya,2022-03-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,17439527,8994309,8172214,268625
+Kenya,2022-04-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,17734375,11874893,8399317,285700
+Kenya,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,17849742,12502390,9069872,294769
+Kenya,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,17871145,12507476,9079472,296768

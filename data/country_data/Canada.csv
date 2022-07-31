@@ -1,0 +1,504 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Canada,2020-12-14,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,5,5,0,0
+Canada,2020-12-15,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,727,727,0,0
+Canada,2020-12-16,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,3025,3025,0,0
+Canada,2020-12-17,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,7279,7279,0,0
+Canada,2020-12-18,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,11296,11296,0,0
+Canada,2020-12-19,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,12367,12367,0,0
+Canada,2020-12-20,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,13228,13228,0,0
+Canada,2020-12-21,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,21073,21073,0,0
+Canada,2020-12-22,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,26862,26861,1,0
+Canada,2020-12-23,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,35547,35546,1,0
+Canada,2020-12-24,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,45745,45744,1,0
+Canada,2020-12-25,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,48792,48791,1,0
+Canada,2020-12-26,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,48808,48807,1,0
+Canada,2020-12-27,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,52419,52418,1,0
+Canada,2020-12-28,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,59041,59040,1,0
+Canada,2020-12-29,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,72057,72055,2,0
+Canada,2020-12-30,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,85497,85495,2,0
+Canada,2020-12-31,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,98442,98440,2,0
+Canada,2021-01-01,Pfizer/BioNTech,https://covid19tracker.ca/vaccinationtracker.html,105404,105401,3,0
+Canada,2021-01-02,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,110048,110045,3,0
+Canada,2021-01-03,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,115256,115253,3,0
+Canada,2021-01-04,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,138858,138855,3,0
+Canada,2021-01-05,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,156683,156677,6,0
+Canada,2021-01-06,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,184772,184324,448,0
+Canada,2021-01-07,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,221912,220488,1424,0
+Canada,2021-01-08,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,263780,261086,2694,0
+Canada,2021-01-09,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,299989,296053,3936,0
+Canada,2021-01-10,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,323497,319545,3952,0
+Canada,2021-01-11,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,361841,357878,3963,0
+Canada,2021-01-12,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,393052,387536,5516,0
+Canada,2021-01-13,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,423365,410079,13286,0
+Canada,2021-01-14,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,466005,449649,16356,0
+Canada,2021-01-15,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,515478,496065,19413,0
+Canada,2021-01-16,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,553360,532763,20597,0
+Canada,2021-01-17,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,581955,560100,21855,0
+Canada,2021-01-18,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,623250,600660,22590,0
+Canada,2021-01-19,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,662635,637795,24840,0
+Canada,2021-01-20,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,705977,667985,37992,0
+Canada,2021-01-21,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,749071,705279,43792,0
+Canada,2021-01-22,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,787098,736970,50128,0
+Canada,2021-01-23,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,814582,760072,54510,0
+Canada,2021-01-24,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,829258,772089,57169,0
+Canada,2021-01-25,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,852707,787301,65406,0
+Canada,2021-01-26,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,882364,808739,73625,0
+Canada,2021-01-27,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,905482,822307,83175,0
+Canada,2021-01-28,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,930500,837386,93114,0
+Canada,2021-01-29,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,952276,849720,102556,0
+Canada,2021-01-30,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,967430,856362,111068,0
+Canada,2021-01-31,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,972603,858979,113624,0
+Canada,2021-02-01,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,990915,872708,118207,0
+Canada,2021-02-02,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1002530,879389,123141,0
+Canada,2021-02-03,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1016197,883703,132494,0
+Canada,2021-02-04,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1035774,890725,145049,0
+Canada,2021-02-05,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1059347,900973,158374,0
+Canada,2021-02-06,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1080961,908824,172137,0
+Canada,2021-02-07,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1094816,914887,179929,0
+Canada,2021-02-08,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1116233,925353,190880,0
+Canada,2021-02-09,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1143038,934799,208239,0
+Canada,2021-02-10,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1172962,944486,228476,0
+Canada,2021-02-11,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1206692,957134,249555,3
+Canada,2021-02-12,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1244168,971185,272976,7
+Canada,2021-02-13,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1278201,983855,294339,7
+Canada,2021-02-14,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1294437,986210,308220,7
+Canada,2021-02-15,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1305088,987929,317152,7
+Canada,2021-02-16,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1331046,996477,334562,7
+Canada,2021-02-17,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1352501,1001413,351081,7
+Canada,2021-02-18,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1380041,1009194,370840,7
+Canada,2021-02-19,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1430536,1034973,395554,9
+Canada,2021-02-20,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1482365,1069014,413336,15
+Canada,2021-02-21,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1523672,1097793,425863,16
+Canada,2021-02-22,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1585896,1127800,458079,17
+Canada,2021-02-23,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1635545,1158556,476972,17
+Canada,2021-02-24,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1682122,1190369,491736,17
+Canada,2021-02-25,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1740987,1232116,508854,17
+Canada,2021-02-26,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1809401,1287654,521730,17
+Canada,2021-02-27,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1871736,1341890,529829,17
+Canada,2021-02-28,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1917698,1382133,535548,17
+Canada,2021-03-01,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,1977483,1428482,548984,17
+Canada,2021-03-02,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2053042,1493353,559672,17
+Canada,2021-03-03,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2128257,1561477,566763,17
+Canada,2021-03-04,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2207974,1635937,572020,17
+Canada,2021-03-05,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2294574,1718972,575585,17
+Canada,2021-03-06,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2368415,1790353,578045,17
+Canada,2021-03-07,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2425632,1845924,579691,17
+Canada,2021-03-08,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2512301,1922548,589736,17
+Canada,2021-03-09,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2583178,1989314,593845,19
+Canada,2021-03-10,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2662673,2063393,599261,19
+Canada,2021-03-11,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2761545,2157187,604339,19
+Canada,2021-03-12,"Moderna, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2873952,2266101,607832,19
+Canada,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,2980307,2369458,610828,21
+Canada,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3073337,2460534,612782,21
+Canada,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3198156,2579966,618169,21
+Canada,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3320083,2697377,622683,23
+Canada,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3461496,2833306,628165,25
+Canada,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3619114,2985244,633845,25
+Canada,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3784586,3144171,640390,25
+Canada,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,3918531,3272965,645540,26
+Canada,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4009123,3360356,648741,26
+Canada,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4155488,3503280,652182,26
+Canada,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4282355,3625505,656822,28
+Canada,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4455268,3793313,661926,29
+Canada,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4646856,3977950,668877,29
+Canada,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,4865929,4188397,677503,29
+Canada,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5036282,4352249,684003,30
+Canada,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5184783,4496579,688174,30
+Canada,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5373570,4679405,694135,30
+Canada,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5548659,4846104,702525,30
+Canada,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5773517,5062416,711071,30
+Canada,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,5983274,5261376,721867,31
+Canada,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,6154817,5426554,728231,32
+Canada,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,6349758,5617906,731817,35
+Canada,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,6471197,5738467,732694,36
+Canada,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,6653352,5907290,746026,36
+Canada,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,6856288,6098206,758045,37
+Canada,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,7091942,6316053,775852,37
+Canada,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,7351827,6557642,794148,37
+Canada,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,7656301,6842752,813509,40
+Canada,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,7899977,7069750,830187,40
+Canada,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,8083375,7248151,835183,41
+Canada,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,8420680,7566270,854368,42
+Canada,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,8693642,7824272,869327,43
+Canada,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,8992974,8109664,883266,44
+Canada,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,9302575,8402482,900049,44
+Canada,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,9625339,8717589,907704,46
+Canada,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,9880550,8948770,931734,46
+Canada,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,10081570,9144190,937331,49
+Canada,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,10344552,9386803,957698,51
+Canada,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,10583957,9614307,969598,52
+Canada,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,10903024,9919765,983203,56
+Canada,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,11269172,10267955,1001159,58
+Canada,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,11633880,10613585,1020228,67
+Canada,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,11923215,10887073,1036073,69
+Canada,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,12155950,11110044,1045835,71
+Canada,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,12419564,11364585,1054905,74
+Canada,2021-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,12681917,11606180,1075659,78
+Canada,2021-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,12947754,11855551,1092121,82
+Canada,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,13254402,12141198,1113120,84
+Canada,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,13536973,12405763,1131122,88
+Canada,2021-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,13771556,12621248,1150212,96
+Canada,2021-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,13945048,12783239,1161709,100
+Canada,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,14172299,13001748,1170449,102
+Canada,2021-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,14407259,13216828,1190321,110
+Canada,2021-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,14694142,13485246,1208779,117
+Canada,2021-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,15054064,13822181,1231759,124
+Canada,2021-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,15454178,14196466,1257579,133
+Canada,2021-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,15784080,14505751,1278194,135
+Canada,2021-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,16057056,14770317,1286599,140
+Canada,2021-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,16393848,15088900,1304807,141
+Canada,2021-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,16697800,15373034,1324619,147
+Canada,2021-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,17048534,15699577,1348808,149
+Canada,2021-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,17445870,16067911,1377806,153
+Canada,2021-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,17880977,16467650,1413171,156
+Canada,2021-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,18248031,16809425,1438441,165
+Canada,2021-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,18567225,17112955,1454104,166
+Canada,2021-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,18959634,17490682,1468784,168
+Canada,2021-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,19246660,17749557,1496930,173
+Canada,2021-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,19606598,18072905,1533515,178
+Canada,2021-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,20007793,18429657,1577950,186
+Canada,2021-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,20493274,18860928,1632148,198
+Canada,2021-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,20885402,19202726,1682472,204
+Canada,2021-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,21196087,19489427,1706455,205
+Canada,2021-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,21553782,19827184,1726387,211
+Canada,2021-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,21809403,20059789,1749400,214
+Canada,2021-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,22133106,20330004,1802878,224
+Canada,2021-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,22527084,20660782,1866070,232
+Canada,2021-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,22986580,21048413,1937922,245
+Canada,2021-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,23334734,21326705,2007771,258
+Canada,2021-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,23653885,21579742,2073875,268
+Canada,2021-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,24044376,21904686,2139416,274
+Canada,2021-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,24359699,22136432,2222979,288
+Canada,2021-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,24706800,22382113,2324364,323
+Canada,2021-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,25121751,22656926,2464483,342
+Canada,2021-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,25582848,22947798,2634678,372
+Canada,2021-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,25962565,23182298,2779889,378
+Canada,2021-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,26286632,23379774,2906466,392
+Canada,2021-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,26695374,23634231,3060747,396
+Canada,2021-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,27048472,23797173,3250887,412
+Canada,2021-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,27453236,23962477,3490333,426
+Canada,2021-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,27931194,24140034,3790710,450
+Canada,2021-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,28434123,24313873,4119783,467
+Canada,2021-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,28853968,24441637,4411834,497
+Canada,2021-06-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,29232669,24558594,4673552,523
+Canada,2021-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,29680344,24689272,4990517,555
+Canada,2021-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,30129144,24807000,5321555,589
+Canada,2021-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,30594190,24904895,5688674,621
+Canada,2021-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,31101741,25009040,6092047,654
+Canada,2021-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,31637585,25106981,6529912,692
+Canada,2021-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,32059720,25174594,6884371,755
+Canada,2021-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,32410322,25234823,7174726,773
+Canada,2021-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,32816721,25315072,7500859,790
+Canada,2021-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,33289191,25378227,7910137,827
+Canada,2021-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,33805927,25437390,8367662,875
+Canada,2021-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,34398523,25506046,8891527,950
+Canada,2021-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,34920486,25562688,9356822,976
+Canada,2021-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,35364921,25607106,9756793,1022
+Canada,2021-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,35724421,25648656,10074700,1065
+Canada,2021-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,36429296,25731888,10696323,1085
+Canada,2021-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,37017067,25789233,11226699,1135
+Canada,2021-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,37623803,25845494,11777117,1192
+Canada,2021-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,38086314,25886454,12198554,1306
+Canada,2021-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,38653746,25942769,12709604,1373
+Canada,2021-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,39015073,25973305,13040331,1437
+Canada,2021-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,39336123,26003555,13331085,1483
+Canada,2021-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,39937751,26059665,13876048,2038
+Canada,2021-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,40420180,26101723,14315888,2569
+Canada,2021-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,40923612,26144769,14776180,2663
+Canada,2021-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,41545231,26204593,15337883,2755
+Canada,2021-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,42091454,26255453,15833178,2823
+Canada,2021-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,42457323,26289492,16164935,2896
+Canada,2021-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,42743119,26316930,16423251,2938
+Canada,2021-07-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,43247927,26370669,16874288,2970
+Canada,2021-07-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,43663362,26409037,17251309,3016
+Canada,2021-07-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,44089772,26452857,17633834,3081
+Canada,2021-07-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,44528300,26498350,18026795,3155
+Canada,2021-07-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,44960292,26544279,18412793,3220
+Canada,2021-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,45262147,26577020,18681854,3273
+Canada,2021-07-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,45487491,26600811,18883349,3331
+Canada,2021-07-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,45913764,26643806,19266611,3347
+Canada,2021-07-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,46248907,26680039,19565469,3399
+Canada,2021-07-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,46634390,26719780,19911150,3460
+Canada,2021-07-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,47015757,26761986,20250237,3534
+Canada,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,47370865,26802844,20564400,3621
+Canada,2021-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,47619920,26833547,20782670,3703
+Canada,2021-07-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,47816827,26856731,20956259,3837
+Canada,2021-07-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,48207965,26898381,21305448,4136
+Canada,2021-07-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,48486961,26934895,21547505,4561
+Canada,2021-07-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,48762276,26973938,21783373,4965
+Canada,2021-07-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49032369,27013341,22013722,5306
+Canada,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49289950,27051904,22232428,5618
+Canada,2021-07-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49471379,27077860,22387511,6008
+Canada,2021-08-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49616532,27098421,22511850,6261
+Canada,2021-08-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49710647,27110846,22593297,6504
+Canada,2021-08-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,49989091,27149748,22832510,6833
+Canada,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50156034,27178428,22970427,7179
+Canada,2021-08-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50345364,27212718,23125079,7567
+Canada,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50520641,27244872,23267702,8067
+Canada,2021-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50648214,27267807,23371737,8670
+Canada,2021-08-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50748242,27284507,23454726,9009
+Canada,2021-08-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,50933683,27317376,23607045,9262
+Canada,2021-08-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51070117,27343666,23716717,9734
+Canada,2021-08-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51207067,27371282,23825594,10191
+Canada,2021-08-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51359334,27403507,23945201,10626
+Canada,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51506588,27437001,24058411,11176
+Canada,2021-08-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51622673,27460414,24150522,11737
+Canada,2021-08-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51720513,27479125,24229281,12107
+Canada,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,51884824,27511911,24360564,12349
+Canada,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52021878,27540631,24468475,12772
+Canada,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52146607,27570636,24562728,13243
+Canada,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52283603,27607636,24662167,13800
+Canada,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52411450,27644294,24752920,14236
+Canada,2021-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52512549,27669959,24827798,14792
+Canada,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52590282,27688425,24886760,15097
+Canada,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52711221,27718356,24977514,15351
+Canada,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52827253,27749852,25061592,15809
+Canada,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,52932078,27784812,25130993,16273
+Canada,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53054685,27824945,25212942,16798
+Canada,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53169890,27864561,25288011,17318
+Canada,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53250502,27889587,25342990,17925
+Canada,2021-08-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53318129,27909006,25390677,18446
+Canada,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53441516,27952102,25470637,18777
+Canada,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53523195,27981352,25522625,19218
+Canada,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53620885,28015960,25584928,19997
+Canada,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53715070,28054382,25639587,21101
+Canada,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53824217,28100756,25700670,22791
+Canada,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53906210,28134088,25747556,24566
+Canada,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,53968230,28157498,25784916,25816
+Canada,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54004801,28172101,25806079,26621
+Canada,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54107192,28214020,25865904,27268
+Canada,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54191595,28249804,25912880,28911
+Canada,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54289292,28291775,25966696,30821
+Canada,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54387369,28333573,26021043,32753
+Canada,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54460241,28361314,26064301,34626
+Canada,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54517214,28381474,26099675,36065
+Canada,2021-09-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54616618,28424706,26154961,36951
+Canada,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54689751,28457268,26194308,38175
+Canada,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54773060,28493722,26239859,39479
+Canada,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,54869083,28533961,26293698,41424
+Canada,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55028083,28589138,26352475,86470
+Canada,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55096636,28614847,26393304,88485
+Canada,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55152386,28634858,26427763,89765
+Canada,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55292065,28701950,26494054,96061
+Canada,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55391073,28745940,26544927,100206
+Canada,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55491208,28790991,26596103,104114
+Canada,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55606675,28840184,26656853,109638
+Canada,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55772527,28890546,26722030,159951
+Canada,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55847009,28916860,26768204,161945
+Canada,2021-09-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,55915574,28941486,26810928,163160
+Canada,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56036808,28991622,26872085,173101
+Canada,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56114866,29023511,26913108,178247
+Canada,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56213062,29065481,26963783,183798
+Canada,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56312456,29102661,27019931,189864
+Canada,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56406727,29132767,27072837,201123
+Canada,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56467059,29152888,27111048,203123
+Canada,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56516683,29170230,27142252,204201
+Canada,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56621294,29208847,27201011,211436
+Canada,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56699567,29239704,27244079,215784
+Canada,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56822762,29271955,27290541,260266
+Canada,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,56909034,29303165,27335305,270564
+Canada,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57007364,29336632,27385016,285716
+Canada,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57071141,29359380,27422667,289094
+Canada,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57122861,29376976,27454543,291342
+Canada,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57149288,29387421,27469924,291943
+Canada,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57260837,29430725,27519577,310535
+Canada,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57351315,29445920,27567212,338183
+Canada,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57451347,29477368,27618125,355854
+Canada,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57552515,29510734,27668159,373622
+Canada,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57606099,29527605,27700461,378033
+Canada,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57652265,29542959,27729050,380256
+Canada,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57762356,29569303,27787036,406017
+Canada,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57837476,29588427,27823372,425677
+Canada,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,57919716,29610857,27868142,440717
+Canada,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58007042,29637194,27911338,458510
+Canada,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58100068,29662379,27959770,477919
+Canada,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58148164,29676919,27988077,483168
+Canada,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58187183,29689405,28012760,485018
+Canada,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58289378,29710204,28072232,506942
+Canada,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58371733,29728957,28112904,529872
+Canada,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58446220,29746781,28152783,546656
+Canada,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58528221,29769679,28193077,565465
+Canada,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58604479,29794389,28232591,577499
+Canada,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58647525,29805933,28257567,584025
+Canada,2021-10-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58682096,29816021,28280047,586028
+Canada,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58768684,29828667,28324643,615374
+Canada,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58823637,29835986,28345138,642513
+Canada,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58898328,29852892,28379118,666318
+Canada,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,58975221,29871478,28414026,689717
+Canada,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59046604,29887241,28446709,712654
+Canada,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59077651,29894777,28460991,721883
+Canada,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59106882,29903445,28478818,724619
+Canada,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59199511,29922009,28522993,754509
+Canada,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59270949,29931002,28546674,793273
+Canada,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59358396,29955031,28581916,821449
+Canada,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59399785,29965636,28601613,832536
+Canada,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59489649,29983732,28639191,866726
+Canada,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59525220,29993288,28657208,874724
+Canada,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59554001,30001659,28674737,877605
+Canada,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59645195,30017658,28709667,917870
+Canada,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59709923,30029198,28734721,946004
+Canada,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59785947,30047842,28767835,970270
+Canada,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59861491,30065242,28798541,997708
+Canada,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59927031,30078143,28824276,1024612
+Canada,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59959686,30087663,28841059,1030964
+Canada,2021-11-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,59981502,30094881,28853929,1032692
+Canada,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60072911,30109953,28887249,1075709
+Canada,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60108942,30118290,28902448,1088204
+Canada,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60161477,30118697,28914962,1127818
+Canada,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60231605,30135909,28939125,1156571
+Canada,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60318215,30168801,28964500,1184914
+Canada,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60386453,30217723,28977403,1191327
+Canada,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60460043,30278087,28987779,1194177
+Canada,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60595966,30347153,29010587,1238226
+Canada,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60707051,30415497,29024735,1266819
+Canada,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60824590,30469103,29047132,1308355
+Canada,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,60950208,30540076,29065536,1344596
+Canada,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,61829680,30609995,29082569,2137116
+Canada,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,61953068,30666558,29093311,2193199
+Canada,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,62058480,30730066,29101944,2226470
+Canada,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,62238793,30817275,29123034,2298484
+Canada,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,62421440,30874944,29137200,2409296
+Canada,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,62604945,30934418,29157343,2513184
+Canada,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,62779477,30992300,29168167,2619010
+Canada,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63018440,31035589,29181016,2801835
+Canada,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63155861,31076946,29191699,2887216
+Canada,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63263942,31122915,29199358,2941669
+Canada,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63463309,31195920,29217482,3049907
+Canada,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63723001,31231222,29229324,3262455
+Canada,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,63984254,31278705,29244693,3460856
+Canada,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,64277543,31325201,29254895,3697447
+Canada,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,64602238,31366258,29270094,3965886
+Canada,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,64863468,31395372,29279704,4188392
+Canada,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,65075658,31429043,29287131,4359484
+Canada,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,65399654,31482889,29308909,4607856
+Canada,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,65820170,31524123,29316253,4979794
+Canada,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,66264629,31560765,29336821,5367043
+Canada,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,66731702,31595234,29352145,5784323
+Canada,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,67101613,31619033,29361888,6120692
+Canada,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,67194024,31624100,29366937,6202987
+Canada,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,67207931,31624600,29367201,6216130
+Canada,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,67290049,31628024,29369067,6292958
+Canada,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,67569309,31641084,29377904,6550321
+Canada,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68084993,31680829,29391565,7012599
+Canada,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68427384,31701867,29402591,7322926
+Canada,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68756211,31722510,29414103,7619598
+Canada,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68858661,31729510,29419071,7710080
+Canada,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68880711,31730837,29420224,7729650
+Canada,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,68978614,31737781,29425975,7814858
+Canada,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,69562458,31774735,29450265,8337458
+Canada,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,69952213,31796318,29467043,8688852
+Canada,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,70370584,31814790,29490152,9065642
+Canada,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,70798251,31844493,29504056,9449702
+Canada,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,71098745,31861462,29517260,9720023
+Canada,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,71315287,31878002,29528397,9908888
+Canada,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,71716169,31906028,29551323,10258818
+Canada,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,72136498,31927663,29570238,10638597
+Canada,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,72537602,31950846,29590157,10996599
+Canada,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,72959024,31978522,29612110,11368392
+Canada,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,73355030,32006371,29635733,11712926
+Canada,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,73642492,32026953,29655803,11959736
+Canada,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,73853084,32045846,29671835,12135403
+Canada,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,74283833,32078120,29691756,12513957
+Canada,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,74554401,32090179,29701817,12762405
+Canada,2022-01-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,74907315,32117403,29715902,13074010
+Canada,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,75223460,32125039,29731011,13367410
+Canada,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,75545484,32139528,29763930,13642026
+Canada,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,75757680,32155234,29791999,13810447
+Canada,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,75932074,32169592,29827165,13935317
+Canada,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,76253218,32195076,29855725,14202417
+Canada,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,76588007,32219828,29903275,14464904
+Canada,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,76851483,32235858,29940348,14675277
+Canada,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,77110756,32253074,29980491,14877191
+Canada,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,77368089,32270755,30021580,15075754
+Canada,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,77534970,32281906,30055128,15197936
+Canada,2022-01-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,77679365,32292698,30098902,15287765
+Canada,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78008088,32320075,30150833,15537180
+Canada,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78208427,32333695,30182561,15692171
+Canada,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78401968,32341297,30227647,15833024
+Canada,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78583367,32352796,30263587,15966984
+Canada,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78744463,32364909,30301791,16077763
+Canada,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78860885,32374079,30331176,16155630
+Canada,2022-02-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,78908193,32377246,30348306,16182641
+Canada,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79160065,32389917,30422243,16347905
+Canada,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79280446,32404089,30443473,16432884
+Canada,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79407570,32413734,30474915,16518921
+Canada,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79543005,32428712,30510192,16604101
+Canada,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79668861,32435922,30550318,16682621
+Canada,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79754763,,30573632,16734655
+Canada,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79824010,32441489,30597618,16784903
+Canada,2022-02-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,79891759,32442430,30621280,16828049
+Canada,2022-02-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80047174,32461313,30654612,16931249
+Canada,2022-02-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80139288,32467379,30687748,16984161
+Canada,2022-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80197551,32467663,30707824,17022064
+Canada,2022-02-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80316381,32483007,30743452,17089922
+Canada,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80376854,32489231,30756589,17131034
+Canada,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80429624,32492249,30768660,17168715
+Canada,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80441157,32492353,30770375,17178429
+Canada,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80594498,32509919,30803604,17280975
+Canada,2022-02-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80661772,32511251,30829743,17320778
+Canada,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80724391,32525839,30840082,17358470
+Canada,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80789503,32526679,30865219,17397605
+Canada,2022-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80834877,32531704,30875611,17427562
+Canada,2022-02-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,80879075,32534967,30886089,17458019
+Canada,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81219925,32540096,30909327,17770502
+Canada,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81263266,,30912146,17799547
+Canada,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81297184,32549494,30927939,17819751
+Canada,2022-03-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81338363,,30931972,17844693
+Canada,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81395947,32560385,30951203,17884359
+Canada,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81424667,32563940,30958624,17902103
+Canada,2022-03-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81452488,32566047,30967469,17918972
+Canada,2022-03-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81496646,32569947,30982761,17943938
+Canada,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81517941,32572753,30988760,17956428
+Canada,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81548320,32577200,30998297,17972823
+Canada,2022-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81583513,32589338,31002062,17992113
+Canada,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81616608,32594114,31011662,18010832
+Canada,2022-03-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81641527,,31018937,18025285
+Canada,2022-03-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81666740,,31027767,18039652
+Canada,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81706844,,31043079,18061572
+Canada,2022-03-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81734416,,31050853,18078143
+Canada,2022-03-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81763629,,31059248,18094723
+Canada,2022-03-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81792572,,31067971,18111210
+Canada,2022-03-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81822344,,31076583,18128388
+Canada,2022-03-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81855191,,31086061,18147589
+Canada,2022-03-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81867574,32595996,31088612,18182966
+Canada,2022-03-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81905835,32599010,31102474,18204351
+Canada,2022-03-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81927545,32601936,31108317,18217292
+Canada,2022-03-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81961751,32606295,31117430,18238026
+Canada,2022-03-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,81978274,32608992,31122720,18246562
+Canada,2022-03-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82008659,,31129413,18266109
+Canada,2022-03-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31137546,
+Canada,2022-03-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82039541,,31137719,18285300
+Canada,2022-03-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82076782,,31149796,18306818
+Canada,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82094112,,31153862,18317821
+Canada,2022-03-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82126619,,31169909,18341851
+Canada,2022-03-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82159176,32612890,31185394,18360892
+Canada,2022-04-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82222276,,31192379,18396848
+Canada,2022-04-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31197872,18425232
+Canada,2022-04-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82259986,32624785,31198535,18436666
+Canada,2022-04-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82293168,32637932,31202226,18453010
+Canada,2022-04-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82316165,32640025,31204892,18471248
+Canada,2022-04-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82362338,32644123,31211943,18506272
+Canada,2022-04-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82414019,32648002,31217365,18548652
+Canada,2022-04-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,,18601232
+Canada,2022-04-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82506922,32660911,31222571,18623440
+Canada,2022-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82564149,32680461,31225805,18657883
+Canada,2022-04-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82608137,32703375,31228474,18676288
+Canada,2022-04-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82679375,32738388,31230999,18709988
+Canada,2022-04-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82776293,32770681,31236886,18768726
+Canada,2022-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,82862749,32802479,31239299,18820971
+Canada,2022-04-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31244486,18883237
+Canada,2022-04-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31244819,18913590
+Canada,2022-04-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31246212,18940645
+Canada,2022-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83016959,32815607,,18954554
+Canada,2022-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83211583,32925965,31246689,19038929
+Canada,2022-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83431384,32993642,31284904,19152838
+Canada,2022-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31289563,19207293
+Canada,2022-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31291367,19245730
+Canada,2022-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,,,31291979,19270604
+Canada,2022-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83577791,33005240,31292155,19280396
+Canada,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83709962,33096990,31296495,19316477
+Canada,2022-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83844720,,31302161,19383632
+Canada,2022-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,83896778,33132011,31306267,19458500
+Canada,2022-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,84000083,33192018,31309101,19498964
+Canada,2022-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,84061098,33217212,31311471,19532415
+Canada,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19tracker.ca/vaccinationtracker.html,84100773,33229867,31313881,19557025

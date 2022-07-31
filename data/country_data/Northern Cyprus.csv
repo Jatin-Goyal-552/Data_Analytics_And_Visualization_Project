@@ -1,0 +1,27 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Northern Cyprus,2021-01-14,"Pfizer/BioNTech, Sinovac",https://haberkibris.com/4968-kisiye-covid-19-asisi-yapildi-1200-2021-01-19.html,0,,,
+Northern Cyprus,2021-01-19,"Pfizer/BioNTech, Sinovac",https://haberkibris.com/4968-kisiye-covid-19-asisi-yapildi-1200-2021-01-19.html,4968,,,
+Northern Cyprus,2021-01-22,"Pfizer/BioNTech, Sinovac",https://cyprus-mail.com/2021/01/22/coronavirus-11000-vaccines-administered-in-the-north/,11000,,,
+Northern Cyprus,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,97969,53886,44083,
+Northern Cyprus,2021-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,104978,56516,48462,
+Northern Cyprus,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,107365,58812,48553,
+Northern Cyprus,2021-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,109490,60642,48848,
+Northern Cyprus,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,121841,71081,50760,
+Northern Cyprus,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,122598,71737,50861,
+Northern Cyprus,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,123791,72644,51147,
+Northern Cyprus,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,124024,72783,51241,
+Northern Cyprus,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,124752,73365,51387,
+Northern Cyprus,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,125248,73814,51434,
+Northern Cyprus,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,126668,74507,52161,
+Northern Cyprus,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,126813,74533,52280,
+Northern Cyprus,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,127608,74703,52905,
+Northern Cyprus,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asibilgisistemi.com/,129743,75463,54280,
+Northern Cyprus,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,194782,108923,85859,
+Northern Cyprus,2021-08-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,302854,160361,142493,
+Northern Cyprus,2021-09-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,491206,227155,223142,40909
+Northern Cyprus,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,546076,275175,258587,46158
+Northern Cyprus,2021-10-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,551457,276296,261431,47948
+Northern Cyprus,2021-11-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,556876,276487,263291,51741
+Northern Cyprus,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,563953,277641,265245,56061
+Northern Cyprus,2021-11-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,575309,279313,268242,62976
+Northern Cyprus,2021-11-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://asi.saglik.gov.ct.tr/,617389,284357,275988,80243

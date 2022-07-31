@@ -1,0 +1,143 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Iceland,2020-12-30,Pfizer/BioNTech,https://www.ruv.is/frett/2020/12/30/4875-landsmenn-fengu-bolusetningu,4875,4875,,
+Iceland,2021-01-20,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,6205,5725,480,
+Iceland,2021-01-25,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,15220,10433,4787,
+Iceland,2021-01-27,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,15522,10702,4820,
+Iceland,2021-02-03,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,16951,12098,4853,
+Iceland,2021-02-05,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,17515,12660,4855,
+Iceland,2021-02-08,"Moderna, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,17657,12801,4856,
+Iceland,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,19624,14086,5538,
+Iceland,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,19844,14087,5757,
+Iceland,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,20031,14087,5944,
+Iceland,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,21569,14188,7381,
+Iceland,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,24853,15195,9658,
+Iceland,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,25718,15644,10074,
+Iceland,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,27762,17232,10530,
+Iceland,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,27933,17379,10554,
+Iceland,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,31451,19075,12376,
+Iceland,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,32157,19593,12564,
+Iceland,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,33683,21083,12600,
+Iceland,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,33835,21191,12644,
+Iceland,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,39196,26489,12707,
+Iceland,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,39749,27041,12708,
+Iceland,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,42027,29317,12710,
+Iceland,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,46052,33289,12763,
+Iceland,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,46862,34018,12844,
+Iceland,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,47059,34171,12888,
+Iceland,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,50297,36775,13522,
+Iceland,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,51283,37179,14104,
+Iceland,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,52604,37865,14739,
+Iceland,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,53019,37953,15066,
+Iceland,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,54868,37962,16906,
+Iceland,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,58029,38142,19887,
+Iceland,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,59903,39578,20325,
+Iceland,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,60366,39633,20733,
+Iceland,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,66156,45422,20734,
+Iceland,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,72987,49289,23698,
+Iceland,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,74603,50259,24344,
+Iceland,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,79726,52634,27092,
+Iceland,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,86368,58567,27801,
+Iceland,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,89190,61134,28056,
+Iceland,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,95439,67158,28281,
+Iceland,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,98672,70058,28614,
+Iceland,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,100168,70482,29686,
+Iceland,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,113330,80721,32609,
+Iceland,2021-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,121530,87038,34492,
+Iceland,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,133064,98008,35432,
+Iceland,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,145261,109409,36228,
+Iceland,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,146111,110199,36376,
+Iceland,2021-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,157230,115447,42301,
+Iceland,2021-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,167168,124014,50192,
+Iceland,2021-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,184304,138577,53658,
+Iceland,2021-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,188146,140805,55780,
+Iceland,2021-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,198421,144775,62276,
+Iceland,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,203735,147592,65011,
+Iceland,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,211619,152584,67905,
+Iceland,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,220021,156058,73205,
+Iceland,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,225051,159327,76259,
+Iceland,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,231109,163815,80464,
+Iceland,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,231640,164273,80611,
+Iceland,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,243924,169570,87815,
+Iceland,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,249800,171376,91893,
+Iceland,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,258829,177511,94950,
+Iceland,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,269324,184619,98882,
+Iceland,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,273455,187606,101082,
+Iceland,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,274144,188208,101713,
+Iceland,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,287635,198155,105590,
+Iceland,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,317082,214971,128645,
+Iceland,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,326982,224191,138517,
+Iceland,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,340348,231520,145088,
+Iceland,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,355178,238814,153725,
+Iceland,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,356839,240273,155323,
+Iceland,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,368066,250484,166490,
+Iceland,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,383582,258120,174732,
+Iceland,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,386715,258852,177540,
+Iceland,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,390877,258983,181635,
+Iceland,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,401582,259385,192194,
+Iceland,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,422848,259885,213186,
+Iceland,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,435373,262051,223719,
+Iceland,2021-07-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,444090,262490,232162,
+Iceland,2021-07-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,451056,264783,238843,
+Iceland,2021-07-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,451936,264849,239686,
+Iceland,2021-07-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,460812,266949,246678,
+Iceland,2021-07-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,466434,267154,252152,
+Iceland,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,468416,267830,253666,
+Iceland,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,470374,269095,254443,
+Iceland,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,472176,270701,254691,
+Iceland,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,477205,275173,255322,
+Iceland,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,522977,277766,262924,35954
+Iceland,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,525123,278928,263354,36724
+Iceland,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,526545,279121,263531,37779
+Iceland,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,527448,279365,263695,38439
+Iceland,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,527908,279509,263778,38684
+Iceland,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,528743,279665,264204,38962
+Iceland,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,530087,279947,264427,39800
+Iceland,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,530746,280122,264629,40112
+Iceland,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,533024,280311,265096,41755
+Iceland,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,535408,280486,266050,43036
+Iceland,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,539198,280707,269286,43381
+Iceland,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,542815,280889,272185,43625
+Iceland,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,545863,281029,273612,45421
+Iceland,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,547788,281141,274175,46674
+Iceland,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,548904,281267,274497,47367
+Iceland,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,551110,281440,275493,48414
+Iceland,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,554603,281734,276522,50626
+Iceland,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,558483,282036,277210,53570
+Iceland,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,562426,282338,277837,56637
+Iceland,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,567789,282644,278276,61321
+Iceland,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,570788,282927,278667,63685
+Iceland,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,574658,283301,279044,66842
+Iceland,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,581809,283668,279541,72976
+Iceland,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,589756,284147,279780,80470
+Iceland,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,608236,284528,280052,98921
+Iceland,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,621821,284996,280441,111402
+Iceland,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,637380,285289,280766,126480
+Iceland,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,648600,285721,281192,136991
+Iceland,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,665013,285726,281402,153073
+Iceland,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,673617,286323,281841,160994
+Iceland,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,689243,286650,282199,176055
+Iceland,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,699204,287025,282724,185239
+Iceland,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,704015,287229,282962,189655
+Iceland,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,710165,287560,283344,195162
+Iceland,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,714337,287813,283640,198846
+Iceland,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,715062,287971,283740,199406
+Iceland,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,716926,288241,283920,200913
+Iceland,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,718540,288415,284101,202181
+Iceland,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,721464,289118,284335,204735
+Iceland,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,727886,291973,284827,210230
+Iceland,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,742545,298878,285125,214749
+Iceland,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,753008,304600,285452,219222
+Iceland,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,760737,305935,285667,225389
+Iceland,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,768450,307095,285974,231769
+Iceland,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,775708,307594,286246,237999
+Iceland,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,781536,307884,,241655
+Iceland,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,788853,308315,,243011
+Iceland,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,795015,308919,286252,244668
+Iceland,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,798254,309109,287831,246234
+Iceland,2022-02-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,798884,309168,288150,246524
+Iceland,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,801420,309374,289020,247947
+Iceland,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,803609,309518,289482,249605
+Iceland,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,804106,309578,289700,249832
+Iceland,2022-03-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,804593,309646,289886,250084
+Iceland,2022-03-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,805039,309702,290040,250325
+Iceland,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.covid.is/tolulegar-upplysingar-boluefni,805469,309770,290193,250542

@@ -1,0 +1,34 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Syria,2021-03-01,Sputnik V,https://www.aljazeera.com/news/2021/3/17/syria-launches-covid-vaccination-drive-amid-economic-challenges,0,0,0,
+Syria,2021-04-08,Sputnik V,http://www.xinhuanet.com/english/africa/2021-04/08/c_139867196.htm,2500,2500,0,
+Syria,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,24781,24781,0,
+Syria,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,71519,71519,0,
+Syria,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,108276,102319,5957,
+Syria,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,131221,121909,9312,
+Syria,2021-08-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",http://www.emro.who.int/syria/news/updates-on-covid-19-vaccination-in-syria-august-2021.html?format=html,355000,,,
+Syria,2021-08-22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,388520,,,
+Syria,2021-08-30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,403254,201379,201379,
+Syria,2021-09-13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,533949,285087,248862,
+Syria,2021-09-29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,811852,613263,321276,
+Syria,2021-10-12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,963477,714300,407405,
+Syria,2021-10-25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,977122,720552,414798,
+Syria,2021-10-31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1125146,807249,503394,
+Syria,2021-11-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1414665,890111,732224,
+Syria,2021-11-28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1422377,890837,739210,
+Syria,2021-12-12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1548574,1002945,763025,
+Syria,2021-12-19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1737980,1186091,774866,
+Syria,2021-12-21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,1753522,1194896,781603,
+Syria,2022-01-03,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,2925563,,883478,
+Syria,2022-01-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,2974507,,932422,
+Syria,2022-02-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://moh.gov.sy/Default.aspx?tabid=242&smid=1050&ArticleID=1272&reftab=56&t=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A-%D8%AD%D9%88%D9%84-%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D9%83%D9%88%D9%81%D9%8A%D8%AF-%D9%A1%D9%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9&language=ar-YE,,,,3046
+Syria,2022-02-12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3053717,2125205,1163125,
+Syria,2022-02-19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3073678,2135220,1171878,
+Syria,2022-02-21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3187594,2197941,1229358,
+Syria,2022-03-01,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3264756,2239981,1269123,
+Syria,2022-03-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3358229,2301422,1315550,
+Syria,2022-03-23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3369196,2308843,1318742,6755
+Syria,2022-03-27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3442389,2353234,1359342,7901
+Syria,2022-04-09,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3538630,2415416,1411054,10822
+Syria,2022-04-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3609370,2438338,1467482,10822
+Syria,2022-04-22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3621847,2442426,1474047,12646
+Syria,2022-04-24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,3684389,2459791,1524341,12646

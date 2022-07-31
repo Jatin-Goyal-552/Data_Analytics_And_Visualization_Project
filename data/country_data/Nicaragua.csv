@@ -1,0 +1,39 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Nicaragua,2021-03-01,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/gobierno-de-nicaragua-informa-avances-vacunacion-contra-la-covid-19-con-44-dias-de-retraso/,0,0,,
+Nicaragua,2021-04-14,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/gobierno-de-nicaragua-informa-avances-vacunacion-contra-la-covid-19-con-44-dias-de-retraso/,61625,61625,,
+Nicaragua,2021-04-24,"Oxford/AstraZeneca, Sputnik V",https://www.confidencial.com.ni/nacion/mas-de-132-000-personas-ya-recibieron-la-primera-dosis-de-la-vacuna-covishield/,135130,135130,,
+Nicaragua,2021-05-07,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,166350,166350,0,
+Nicaragua,2021-05-21,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,167500,167500,0,
+Nicaragua,2021-07-16,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,415640,252766,162874,
+Nicaragua,2021-08-17,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,580127,382519,197608,
+Nicaragua,2021-08-20,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,612799,412029,200770,0
+Nicaragua,2021-08-27,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,645733,443053,202680,0
+Nicaragua,2021-09-03,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,669904,463656,206248,0
+Nicaragua,2021-09-10,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,735252,476308,258944,0
+Nicaragua,2021-09-17,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,769105,490472,278633,0
+Nicaragua,2021-09-25,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,788502,502324,286178,0
+Nicaragua,2021-10-01,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,861807,556589,305218,0
+Nicaragua,2021-10-08,"Oxford/AstraZeneca, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,999990,671784,328206,0
+Nicaragua,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,1306694,944476,362357,0
+Nicaragua,2021-11-05,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,1674896,1249238,563164,
+Nicaragua,2021-11-19,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6033123,3842428,2190695,0
+Nicaragua,2021-12-01,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6376188,4053890,2322298,0
+Nicaragua,2021-12-08,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6835238,4338241,2496997,0
+Nicaragua,2021-12-10,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,6942756,4402422,2540334,0
+Nicaragua,2021-12-15,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,7308467,4628897,2679570,0
+Nicaragua,2021-12-29,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,7785141,4879356,2905785,0
+Nicaragua,2022-01-07,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,7980576,4941846,3038730,0
+Nicaragua,2022-01-12,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,8135930,4995870,3140060,0
+Nicaragua,2022-01-19,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,8403579,5092750,3310829,0
+Nicaragua,2022-01-26,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,8659628,5200392,3459236,0
+Nicaragua,2022-02-02,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,8881477,5279733,3601744,0
+Nicaragua,2022-02-11,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,9066172,5334996,3731176,
+Nicaragua,2022-02-16,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,9193699,5371365,3822334,0
+Nicaragua,2022-02-18,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,9193699,5371365,3822334,
+Nicaragua,2022-02-23,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,9367505,5423137,3944368,0
+Nicaragua,2022-02-25,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,9367505,5423137,3944368,
+Nicaragua,2022-03-02,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,9477305,5459763,4017542,0
+Nicaragua,2022-03-09,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,9611936,5498389,4113547,0
+Nicaragua,2022-03-11,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,9611936,5498389,4113547,
+Nicaragua,2022-04-01,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,10003541,5604596,4398945,
+Nicaragua,2022-04-29,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",https://covid19.who.int/,10377431,5706494,4670937,

@@ -1,0 +1,405 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Lebanon,2021-02-13,Pfizer/BioNTech,https://www.reuters.com/article/us-health-coronavirus-lebanon-vaccine-idUSKBN2AE08B,0,,,
+Lebanon,2021-02-14,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,48,,,
+Lebanon,2021-02-15,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,1280,,,
+Lebanon,2021-02-16,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,3266,,,
+Lebanon,2021-02-17,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,5932,,,
+Lebanon,2021-02-18,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,9605,,,
+Lebanon,2021-02-19,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,13329,,,
+Lebanon,2021-02-22,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,18031,,,
+Lebanon,2021-02-23,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,21575,,,
+Lebanon,2021-02-24,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,25393,,,
+Lebanon,2021-02-25,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,29820,,,
+Lebanon,2021-02-26,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,34991,,,
+Lebanon,2021-02-28,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,40593,,,
+Lebanon,2021-03-01,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,45859,,,
+Lebanon,2021-03-02,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,47625,,,
+Lebanon,2021-03-03,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,54585,,,
+Lebanon,2021-03-04,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,57474,,,
+Lebanon,2021-03-05,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,60538,,,
+Lebanon,2021-03-06,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,60740,,,
+Lebanon,2021-03-07,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,61330,,,
+Lebanon,2021-03-08,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,64007,,,
+Lebanon,2021-03-09,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,64974,,,
+Lebanon,2021-03-10,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,87216,75341,11875,
+Lebanon,2021-03-11,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,91967,76883,15084,
+Lebanon,2021-03-12,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,95888,78177,17711,
+Lebanon,2021-03-15,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,104725,81802,22923,
+Lebanon,2021-03-16,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,115164,86098,29066,
+Lebanon,2021-03-17,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,120890,88219,32671,
+Lebanon,2021-03-18,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,129487,90974,38513,
+Lebanon,2021-03-19,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,135277,92573,42704,
+Lebanon,2021-03-20,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,135349,92597,42752,
+Lebanon,2021-03-21,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,138420,93801,44619,
+Lebanon,2021-03-22,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,148119,98022,50097,
+Lebanon,2021-03-23,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,158018,102363,55655,
+Lebanon,2021-03-24,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,166015,105534,60481,
+Lebanon,2021-03-25,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,174031,108630,65401,
+Lebanon,2021-03-26,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,180074,111019,69055,
+Lebanon,2021-03-27,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,181127,111517,69610,
+Lebanon,2021-03-28,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,186712,114730,71982,
+Lebanon,2021-03-29,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,193903,118998,74905,
+Lebanon,2021-03-30,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,207647,127913,79734,
+Lebanon,2021-03-31,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,216286,133294,82992,
+Lebanon,2021-04-01,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,222332,136761,85571,
+Lebanon,2021-04-02,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,225708,138558,87150,
+Lebanon,2021-04-03,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,225842,138610,87232,
+Lebanon,2021-04-04,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,228050,139855,88195,
+Lebanon,2021-04-05,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,235303,144264,91039,
+Lebanon,2021-04-06,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,244772,150660,94112,
+Lebanon,2021-04-07,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,259153,161164,97989,
+Lebanon,2021-04-08,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,268578,167957,100621,
+Lebanon,2021-04-09,Pfizer/BioNTech,https://impact.cib.gov.lb/home/dashboard/vaccine,272379,170506,101873,
+Lebanon,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,273587,170571,103016,
+Lebanon,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,285966,178155,107811,
+Lebanon,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,296165,184109,112056,
+Lebanon,2021-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,296168,184111,112057,
+Lebanon,2021-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,320623,198763,121860,
+Lebanon,2021-04-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,322647,199999,122648,
+Lebanon,2021-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,322768,200111,122657,
+Lebanon,2021-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,329452,204564,124888,
+Lebanon,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,343286,213168,130118,
+Lebanon,2021-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,351792,217778,134014,
+Lebanon,2021-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,408532,267582,140950,
+Lebanon,2021-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,415562,271335,144227,
+Lebanon,2021-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,421905,274263,147642,
+Lebanon,2021-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,438268,282456,155812,
+Lebanon,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,455275,290216,165059,
+Lebanon,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,461160,293030,168130,
+Lebanon,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,461726,293260,168466,
+Lebanon,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,461758,293277,168481,
+Lebanon,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,465909,294945,170964,
+Lebanon,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,473740,298835,174905,
+Lebanon,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,487974,307573,180401,
+Lebanon,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,500984,317612,183372,
+Lebanon,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,509705,325383,184322,
+Lebanon,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,581068,377044,204024,
+Lebanon,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,581518,377487,204031,
+Lebanon,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,586734,382219,204515,
+Lebanon,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,606994,399742,207252,
+Lebanon,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,618414,410328,208086,
+Lebanon,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,631679,421523,210156,
+Lebanon,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,651850,436484,215366,
+Lebanon,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,661049,443737,217312,
+Lebanon,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,661609,444282,217327,
+Lebanon,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,664814,446633,218181,
+Lebanon,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,678178,455766,222412,
+Lebanon,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,682096,458915,223181,
+Lebanon,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,715286,479863,235423,
+Lebanon,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,725333,486638,238695,
+Lebanon,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,737328,496596,240732,
+Lebanon,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,742365,501061,241304,
+Lebanon,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,752172,507853,244319,
+Lebanon,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,774435,521645,252790,
+Lebanon,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,800140,535694,264446,
+Lebanon,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,819518,546388,273130,
+Lebanon,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,848020,563270,284750,
+Lebanon,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,849471,564476,284995,
+Lebanon,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,852090,566738,285352,
+Lebanon,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,863134,574301,288833,
+Lebanon,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,886996,589810,297186,
+Lebanon,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,907418,602419,304999,
+Lebanon,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,928148,617035,311113,
+Lebanon,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,948962,633877,315085,
+Lebanon,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,963223,646546,316677,
+Lebanon,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,985318,668318,317000,
+Lebanon,2021-06-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1010867,689509,321358,
+Lebanon,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1031639,701602,330037,
+Lebanon,2021-06-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1058472,716565,341907,
+Lebanon,2021-06-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1061450,718199,343251,
+Lebanon,2021-06-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1111588,747426,364162,
+Lebanon,2021-06-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1126981,758974,368007,
+Lebanon,2021-06-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1128719,760592,368127,
+Lebanon,2021-06-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1130669,761818,368851,
+Lebanon,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1175505,794834,380671,
+Lebanon,2021-06-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1195748,809864,385884,
+Lebanon,2021-06-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1243726,846312,397414,
+Lebanon,2021-06-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1247265,849525,397740,
+Lebanon,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1253918,852887,401031,
+Lebanon,2021-06-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1285387,870901,414486,
+Lebanon,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1312854,886953,425901,
+Lebanon,2021-06-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1349156,909523,439633,
+Lebanon,2021-07-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1359215,914967,444248,
+Lebanon,2021-07-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1376600,925393,451207,
+Lebanon,2021-07-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1378232,926962,451270,
+Lebanon,2021-07-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1379853,928112,451741,
+Lebanon,2021-07-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1391249,936652,454597,
+Lebanon,2021-07-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1410729,947181,463548,
+Lebanon,2021-07-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1479710,976771,502939,
+Lebanon,2021-07-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1518261,993893,524368,
+Lebanon,2021-07-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1534259,1003157,531102,
+Lebanon,2021-07-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1536617,1004731,531886,
+Lebanon,2021-07-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1541843,1007250,534593,
+Lebanon,2021-07-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1565593,1017413,548180,
+Lebanon,2021-07-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1634510,1035976,598534,
+Lebanon,2021-07-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1666942,1043698,623244,
+Lebanon,2021-07-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1696233,1049566,646667,
+Lebanon,2021-07-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1698262,1049953,648309,
+Lebanon,2021-07-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1700044,1050264,649780,
+Lebanon,2021-07-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1700905,1050411,650494,
+Lebanon,2021-07-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1726157,1059349,666808,
+Lebanon,2021-07-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1728455,1059942,668513,
+Lebanon,2021-07-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1747519,1062845,684674,
+Lebanon,2021-07-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1781582,1070745,710837,
+Lebanon,2021-07-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1782367,1071033,711334,
+Lebanon,2021-07-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1786506,1072498,714008,
+Lebanon,2021-07-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1807133,1077758,729375,
+Lebanon,2021-07-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1838151,1084513,753638,
+Lebanon,2021-07-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1873116,1092004,781112,
+Lebanon,2021-07-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1900910,1098232,802678,
+Lebanon,2021-07-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1927411,1105750,821661,
+Lebanon,2021-07-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1944927,1112396,832531,
+Lebanon,2021-07-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1946891,1113441,833450,
+Lebanon,2021-08-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1949258,1114578,834680,
+Lebanon,2021-08-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,1982156,1127622,854534,
+Lebanon,2021-08-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2016950,1140969,875981,
+Lebanon,2021-08-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2026590,1144668,881922,
+Lebanon,2021-08-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2052789,1154170,898619,
+Lebanon,2021-08-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2077350,1163468,913882,
+Lebanon,2021-08-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2082489,1166408,916081,
+Lebanon,2021-08-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2085102,1167764,917338,
+Lebanon,2021-08-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2102529,1177369,925160,
+Lebanon,2021-08-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2140422,1195843,944579,
+Lebanon,2021-08-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2165637,1207245,958392,
+Lebanon,2021-08-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2177491,1212455,965036,
+Lebanon,2021-08-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2190858,1219190,971668,
+Lebanon,2021-08-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2192119,1220046,972073,
+Lebanon,2021-08-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2203682,1225483,978199,
+Lebanon,2021-08-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2221656,1234040,987616,
+Lebanon,2021-08-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2243764,1246189,997575,
+Lebanon,2021-08-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2257960,1254059,1003901,
+Lebanon,2021-08-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2275129,1262162,1012967,
+Lebanon,2021-08-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2286622,1267899,1018723,
+Lebanon,2021-08-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2319224,1285408,1033816,
+Lebanon,2021-08-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2347754,1302092,1045662,
+Lebanon,2021-08-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2361702,1311269,1050433,
+Lebanon,2021-08-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2385796,1325693,1060103,
+Lebanon,2021-08-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2399837,1334413,1065424,
+Lebanon,2021-08-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2401065,1335375,1065690,
+Lebanon,2021-08-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2422511,1346202,1076309,
+Lebanon,2021-08-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2435581,1353031,1082550,
+Lebanon,2021-08-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2457930,1367317,1090613,
+Lebanon,2021-09-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2476019,1376615,1099404,
+Lebanon,2021-09-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2494566,1386363,1108203,
+Lebanon,2021-09-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2497206,1388124,1109082,
+Lebanon,2021-09-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2499578,1389689,1109889,
+Lebanon,2021-09-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2505347,1393246,1112101,
+Lebanon,2021-09-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2535444,1407930,1127514,
+Lebanon,2021-09-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2544815,1412410,1132405,
+Lebanon,2021-09-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2571182,1426561,1144621,
+Lebanon,2021-09-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2584540,1433885,1150655,
+Lebanon,2021-09-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2598655,1441739,1156916,
+Lebanon,2021-09-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2600550,1443056,1157494,
+Lebanon,2021-09-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2622677,1455792,1166885,
+Lebanon,2021-09-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2628922,1458845,1170077,
+Lebanon,2021-09-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2637227,1463082,1174145,
+Lebanon,2021-09-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2683827,1488940,1194887,
+Lebanon,2021-09-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2690346,1492383,1197963,
+Lebanon,2021-09-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2704423,1499846,1204577,
+Lebanon,2021-09-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2705953,1500527,1205426,
+Lebanon,2021-09-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2717164,1506291,1210873,
+Lebanon,2021-09-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2739627,1516847,1222780,
+Lebanon,2021-09-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2769635,1530587,1239048,
+Lebanon,2021-09-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2779029,1535076,1243953,
+Lebanon,2021-09-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2806591,1548877,1257714,
+Lebanon,2021-09-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2809035,1550115,1258920,
+Lebanon,2021-09-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2810023,1550755,1259268,
+Lebanon,2021-09-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2816322,1553625,1262697,
+Lebanon,2021-09-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2833803,1564226,1269577,
+Lebanon,2021-09-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2872484,1586647,1285837,
+Lebanon,2021-09-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2893789,1598253,1295536,
+Lebanon,2021-09-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2914325,1609654,1304671,
+Lebanon,2021-10-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2924037,1615320,1308717,
+Lebanon,2021-10-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2925182,1616092,1309090,
+Lebanon,2021-10-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2934734,1620958,1313776,
+Lebanon,2021-10-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2953914,1630985,1322929,
+Lebanon,2021-10-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2964270,1636549,1327721,
+Lebanon,2021-10-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,2969106,1638475,1330631,
+Lebanon,2021-10-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3005025,1654653,1350372,
+Lebanon,2021-10-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3019021,1660463,1358558,
+Lebanon,2021-10-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3020555,1661293,1359262,
+Lebanon,2021-10-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3026121,1663481,1362640,
+Lebanon,2021-10-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3028487,1664450,1364037,
+Lebanon,2021-10-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3034963,1666521,1368442,
+Lebanon,2021-10-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3081683,1685481,1396202,
+Lebanon,2021-10-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3096416,1691332,1405084,
+Lebanon,2021-10-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3107850,1696183,1411667,
+Lebanon,2021-10-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3108316,1696421,1411895,
+Lebanon,2021-10-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3108749,1696621,1412128,
+Lebanon,2021-10-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3111519,1697675,1413844,
+Lebanon,2021-10-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3153936,1714159,1439777,
+Lebanon,2021-10-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3161543,1717237,1444306,
+Lebanon,2021-10-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3178646,1724039,1454607,
+Lebanon,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3188804,1727706,1461098,
+Lebanon,2021-10-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3189569,1728122,1461447,
+Lebanon,2021-10-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3189658,1728149,1461509,
+Lebanon,2021-10-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3246635,1748963,1497672,
+Lebanon,2021-10-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3293076,1765154,1521801,
+Lebanon,2021-11-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3313283,1778651,1534632,
+Lebanon,2021-11-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3329568,1785791,1543777,
+Lebanon,2021-11-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3342977,1791509,1551468,
+Lebanon,2021-11-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3352269,1795891,1556378,
+Lebanon,2021-11-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3368642,1803297,1565345,
+Lebanon,2021-11-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3369191,1803665,1565526,
+Lebanon,2021-11-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3371123,1804857,1566266,
+Lebanon,2021-11-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3388502,1812412,1576090,
+Lebanon,2021-11-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3400678,1817389,1583289,
+Lebanon,2021-11-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3410798,1821703,1589095,
+Lebanon,2021-11-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3424473,1827866,1596607,
+Lebanon,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3437857,1834075,1603782,
+Lebanon,2021-11-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3438827,1834730,1604097,
+Lebanon,2021-11-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3443254,1837206,1606048,
+Lebanon,2021-11-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3456005,1843550,1612455,
+Lebanon,2021-11-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3467987,1848928,1619059,
+Lebanon,2021-11-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3481469,1855086,1626383,
+Lebanon,2021-11-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3490453,1859011,1631442,
+Lebanon,2021-11-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3505040,1865566,1639474,
+Lebanon,2021-11-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3506393,1866557,1639836,
+Lebanon,2021-11-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3508035,1867352,1640683,
+Lebanon,2021-11-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3517472,1872552,1644920,
+Lebanon,2021-11-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3534516,1880417,1654099,
+Lebanon,2021-11-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3539784,1883131,1656653,
+Lebanon,2021-11-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3549359,1888065,1661294,
+Lebanon,2021-11-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3566507,1896009,1670498,
+Lebanon,2021-11-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3569293,1897850,1671443,
+Lebanon,2021-11-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3570392,1898771,1671621,
+Lebanon,2021-11-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3587174,1907306,1679868,
+Lebanon,2021-11-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3601289,1915051,1686238,
+Lebanon,2021-12-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3608619,1919202,1689417,
+Lebanon,2021-12-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3652035,1944328,1707707,
+Lebanon,2021-12-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3653506,1945230,1708276,
+Lebanon,2021-12-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3660210,1949439,1710771,
+Lebanon,2021-12-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3678530,1960822,1717708,
+Lebanon,2021-12-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3692973,1970474,1722499,
+Lebanon,2021-12-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3712821,1983881,1728940,
+Lebanon,2021-12-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3724014,1991658,1732356,
+Lebanon,2021-12-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3761295,2020739,1740556,
+Lebanon,2021-12-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3793028,2050765,1742263,
+Lebanon,2021-12-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3807958,2062985,1744973,
+Lebanon,2021-12-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3825224,2074802,1750422,
+Lebanon,2021-12-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3838722,2084121,1754601,
+Lebanon,2021-12-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3857745,2097664,1760081,
+Lebanon,2021-12-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3878192,2112346,1765846,
+Lebanon,2021-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3898256,2126023,1772233,
+Lebanon,2021-12-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3904931,2131113,1773818,
+Lebanon,2021-12-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,3946354,2162655,1783699,
+Lebanon,2021-12-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4231791,2177130,1789690,264971
+Lebanon,2021-12-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4233405,2177957,1790116,265332
+Lebanon,2021-12-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4257617,2192675,1795813,269129
+Lebanon,2021-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4267450,2198057,1798733,270660
+Lebanon,2021-12-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4267600,2198189,1798748,270663
+Lebanon,2021-12-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4270775,2199535,1799640,271600
+Lebanon,2021-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4298868,2212965,1807870,278033
+Lebanon,2021-12-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4350868,2237489,1823001,290378
+Lebanon,2021-12-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4351154,2237631,1823135,290388
+Lebanon,2021-12-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4376169,2250918,1830105,295146
+Lebanon,2021-12-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4379487,2252750,1831322,295415
+Lebanon,2022-01-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4380063,2253125,1831440,295498
+Lebanon,2022-01-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4386756,2256124,1833116,297516
+Lebanon,2022-01-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4410472,2268589,1837572,304311
+Lebanon,2022-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4435176,2280955,1843313,310908
+Lebanon,2022-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4457470,2291730,1847931,317809
+Lebanon,2022-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4457601,2291801,1847953,317847
+Lebanon,2022-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4501194,2313882,1856507,330805
+Lebanon,2022-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4552503,2341721,1868466,342316
+Lebanon,2022-01-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4570269,2349307,1873787,347175
+Lebanon,2022-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4610275,2365990,1886551,357734
+Lebanon,2022-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4625701,2371596,1891357,362748
+Lebanon,2022-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4654837,2382882,1901614,370341
+Lebanon,2022-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4668227,2387324,1906463,374440
+Lebanon,2022-01-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4686255,2394112,1913139,379004
+Lebanon,2022-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4687595,2394811,1913395,379389
+Lebanon,2022-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4704784,,1920783,384246
+Lebanon,2022-01-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4724154,,1929726,388625
+Lebanon,2022-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4733444,2399599,1937581,396264
+Lebanon,2022-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4738986,2400715,1940758,397513
+Lebanon,2022-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4766884,2407072,1955624,404188
+Lebanon,2022-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4781398,2410854,1962948,407596
+Lebanon,2022-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4782913,2411708,1963273,407932
+Lebanon,2022-01-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4785351,2412182,1964345,408824
+Lebanon,2022-01-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4807990,2417423,1975970,414597
+Lebanon,2022-01-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4826318,2421579,1984741,419998
+Lebanon,2022-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4838225,2424037,1990620,423568
+Lebanon,2022-01-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4851951,2426499,1997536,427916
+Lebanon,2022-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4863189,2429107,2001383,432699
+Lebanon,2022-01-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4866885,2430205,2003206,433474
+Lebanon,2022-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4881608,2433847,2009187,438574
+Lebanon,2022-01-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4902087,2438034,2019153,444900
+Lebanon,2022-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4917151,2441107,2026672,449372
+Lebanon,2022-02-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4928266,2443750,2031963,452553
+Lebanon,2022-02-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4947384,2447634,2040672,459078
+Lebanon,2022-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4953958,2449441,2042902,461615
+Lebanon,2022-02-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4956907,2450663,2043866,462378
+Lebanon,2022-02-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4957005,2450675,2043920,462410
+Lebanon,2022-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4978952,2455107,2054158,469687
+Lebanon,2022-02-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,4993498,2458007,2061516,473975
+Lebanon,2022-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5001687,2459534,2065840,476313
+Lebanon,2022-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5017183,2462097,2073432,481654
+Lebanon,2022-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5030417,2464261,2080782,485374
+Lebanon,2022-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5032646,2464908,2081855,485883
+Lebanon,2022-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5035228,2465838,2083064,486326
+Lebanon,2022-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5047640,2467903,2090557,489180
+Lebanon,2022-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5059760,2469980,2097717,492063
+Lebanon,2022-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5077650,2472856,2107939,496855
+Lebanon,2022-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5093339,2475376,2116720,501243
+Lebanon,2022-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5102960,2476941,2122342,503677
+Lebanon,2022-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5104439,2477451,2123033,503955
+Lebanon,2022-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5110416,2478594,2125887,505935
+Lebanon,2022-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5122216,2481117,2131804,509295
+Lebanon,2022-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5130110,2482800,2135939,511371
+Lebanon,2022-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5139770,2484807,2140485,514478
+Lebanon,2022-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5148747,2486652,2144504,517591
+Lebanon,2022-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5158284,2488336,2149033,520915
+Lebanon,2022-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5159653,2488703,2149770,521180
+Lebanon,2022-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5165788,2489859,2152424,523505
+Lebanon,2022-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5176128,2491955,2156594,527579
+Lebanon,2022-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5184681,2494296,2159931,530454
+Lebanon,2022-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5190733,2495598,2162411,532724
+Lebanon,2022-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5196093,2496478,2164673,534942
+Lebanon,2022-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5199201,2497089,2166058,536054
+Lebanon,2022-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5199656,2497183,2166325,536148
+Lebanon,2022-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5202990,2497907,2167714,537369
+Lebanon,2022-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5209293,2499496,2170547,539250
+Lebanon,2022-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5214216,2500774,2172743,540699
+Lebanon,2022-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5218845,2501935,2174890,542020
+Lebanon,2022-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5226718,2503773,2178509,544436
+Lebanon,2022-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5226966,2503859,2178643,544464
+Lebanon,2022-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5227459,2504016,2178903,544540
+Lebanon,2022-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5228148,2504168,2179198,544782
+Lebanon,2022-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5230428,2504820,2180156,545452
+Lebanon,2022-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5247124,2508681,2187530,550913
+Lebanon,2022-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5250307,2509376,2189077,551854
+Lebanon,2022-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5250852,2509534,2189382,551936
+Lebanon,2022-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5253049,2510153,2190327,552569
+Lebanon,2022-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5256404,2510964,2191957,553483
+Lebanon,2022-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5259499,2511718,2193591,554190
+Lebanon,2022-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5263101,2512571,2195380,555150
+Lebanon,2022-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5264140,2512813,2195885,555442
+Lebanon,2022-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5265787,2513216,2196809,555762
+Lebanon,2022-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5266514,2513472,2197075,555967
+Lebanon,2022-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5269263,2514136,2198355,556772
+Lebanon,2022-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5270369,2514417,2198831,557121
+Lebanon,2022-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5276097,2516012,2201517,558568
+Lebanon,2022-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5279850,2517039,2203184,559627
+Lebanon,2022-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5281651,2517433,2204062,560156
+Lebanon,2022-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5285907,2518322,2206417,561168
+Lebanon,2022-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5287020,2518602,2206847,561571
+Lebanon,2022-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5289601,2519231,2207785,562585
+Lebanon,2022-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5291028,2519564,2208379,563085
+Lebanon,2022-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5292172,2519809,2208784,563579
+Lebanon,2022-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5293515,2520153,2209272,564090
+Lebanon,2022-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5293719,2520217,2209357,564145
+Lebanon,2022-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5294781,2520489,2209770,564522
+Lebanon,2022-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5297098,2521168,2210616,565314
+Lebanon,2022-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5298007,2521431,2210956,565620
+Lebanon,2022-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5300792,2522160,2211911,566721
+Lebanon,2022-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5301383,2522387,2212183,566813
+Lebanon,2022-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5302325,2522688,2212600,567037
+Lebanon,2022-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5304336,2523151,2213441,567744
+Lebanon,2022-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5305024,2523313,2213670,568041
+Lebanon,2022-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5307194,2523775,2214519,568900
+Lebanon,2022-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5308803,2524157,2215083,569563
+Lebanon,2022-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5310015,2524525,2215638,569852
+Lebanon,2022-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5310034,2524531,2215645,569858
+Lebanon,2022-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://impact.cib.gov.lb/home/dashboard/vaccine,5310268,2524596,2215768,569904
+Lebanon,2022-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,5602400,2677312,2351269,573819

@@ -1,0 +1,90 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Dominica,2021-02-11,Oxford/AstraZeneca,https://wicnews.com/caribbean/dominica-starts-covid-19-vaccine-drive-president-among-first-get-immunized-010432755/,0,0,0,
+Dominica,2021-02-23,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/261132415530091,2465,2465,0,
+Dominica,2021-02-25,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/262290242080975,4811,4811,0,
+Dominica,2021-02-26,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.103415194635148/262996455343687,5924,5924,0,
+Dominica,2021-03-01,Oxford/AstraZeneca,http://dominica.gov.dm/images/coronavirus/dominica-coronavirus-update-March-1-2021.jpg,7202,7202,0,
+Dominica,2021-03-02,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/265451755098157,8238,8238,0,
+Dominica,2021-03-03,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/266493791660620,9464,9464,0,
+Dominica,2021-03-04,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/266726988303967,10476,10476,0,
+Dominica,2021-03-05,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/267505448226121,11368,11368,0,
+Dominica,2021-03-08,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/269545361355463,12275,12275,0,
+Dominica,2021-03-10,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/271208354522497,13135,13135,0,
+Dominica,2021-03-11,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/271656117811054,13565,13565,0,
+Dominica,2021-03-22,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/279089990401000,15304,15304,0,
+Dominica,2021-03-25,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/280390780270921/,16058,16058,0,
+Dominica,2021-03-31,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/284358286540837,17674,17674,0,
+Dominica,2021-04-01,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/posts/285300966446569,18112,17775,337,
+Dominica,2021-04-12,Oxford/AstraZeneca,https://dominica.gov.dm/updates/1231-april12th-2021-dominica-coronavirus-update,18423,17948,475,
+Dominica,2021-04-20,Oxford/AstraZeneca,https://dominica.gov.dm/updates,20721,18173,2548,
+Dominica,2021-04-22,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/298575801785752,23055,18237,4818,
+Dominica,2021-04-28,Oxford/AstraZeneca,https://dominica.gov.dm/updates,27821,18498,9323,
+Dominica,2021-05-07,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/308281694148496/,32008,18864,13144,
+Dominica,2021-05-12,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/312155220427810/,33037,19099,13938,
+Dominica,2021-05-17,Oxford/AstraZeneca,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/315970793379586/,33949,19271,14678,
+Dominica,2021-05-18,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/May-18-th-2021-Dominica_coronavirus_updated_report.jpg,34219,19360,14859,
+Dominica,2021-05-26,Oxford/AstraZeneca,https://dominica.gov.dm/updates,36449,19634,16815,
+Dominica,2021-05-28,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/IMG-20210530-WA0000.jpg,36934,19733,17201,
+Dominica,2021-05-31,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/20210601_191311.jpg,37080,19809,17271,
+Dominica,2021-06-02,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/20210602_180548.jpg,37126,19830,17296,
+Dominica,2021-06-05,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/20210606_122154.jpg,37400,19970,17430,
+Dominica,2021-06-09,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/20210610_175346.jpg,37678,20048,17630,
+Dominica,2021-06-14,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/June_14-th-Dominica-coronavirus-update.jpg,37978,20134,17844,
+Dominica,2021-06-17,Oxford/AstraZeneca,https://dominica.gov.dm/images/coronavirus/20210618_092105.jpg,38192,20183,18009,
+Dominica,2021-06-25,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,39309,20302,19007,
+Dominica,2021-07-02,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,39938,20390,19548,
+Dominica,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,40004,20456,19548,
+Dominica,2021-07-16,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,40255,,,
+Dominica,2021-07-23,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,40334,20784,19550,
+Dominica,2021-07-30,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,40553,20892,19661,
+Dominica,2021-08-20,"Oxford/AstraZeneca, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,41435,21548,19887,0
+Dominica,2021-08-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://dominica.gov.dm/images/27-August-2021-Dominica-covid19-update.jpg,42529,22343,20186,0
+Dominica,2021-09-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,42837,22559,20278,0
+Dominica,2021-09-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,43394,22930,20464,0
+Dominica,2021-09-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,43971,23300,20671,0
+Dominica,2021-09-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,44624,23615,21009,0
+Dominica,2021-10-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,46694,25127,21567,0
+Dominica,2021-10-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,48091,26294,21797,0
+Dominica,2021-10-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,48830,26806,22024,0
+Dominica,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,50991,27412,23579,0
+Dominica,2021-10-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,52549,27793,24756,0
+Dominica,2021-11-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,53307,27992,25315,0
+Dominica,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,53955,28207,25748,0
+Dominica,2021-11-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,55134,28590,26544,0
+Dominica,2021-11-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,55524,28764,26760,0
+Dominica,2021-12-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,55760,,26852,0
+Dominica,2021-12-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,55774,28898,26876,0
+Dominica,2021-12-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,56179,29064,27115,0
+Dominica,2021-12-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,56507,29184,27323,0
+Dominica,2021-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,56576,29200,27376,0
+Dominica,2021-12-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,57044,29426,27618,0
+Dominica,2022-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59170,30730,28440,0
+Dominica,2022-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59332,30806,28526,0
+Dominica,2022-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59547,30917,28630,0
+Dominica,2022-01-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59624,30953,28671,0
+Dominica,2022-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59775,31038,28737,0
+Dominica,2022-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,59946,31127,28819,0
+Dominica,2022-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,60098,31195,28903,0
+Dominica,2022-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,60254,31272,28982,0
+Dominica,2022-02-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,60939,31829,29110,0
+Dominica,2022-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61002,31847,29155,0
+Dominica,2022-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61101,31887,29214,0
+Dominica,2022-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61178,31927,29251,0
+Dominica,2022-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61347,31995,29352,0
+Dominica,2022-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61427,32027,29400,0
+Dominica,2022-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61541,32068,29473,0
+Dominica,2022-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61649,32113,29536,0
+Dominica,2022-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61713,32133,29580,0
+Dominica,2022-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61758,32153,29605,0
+Dominica,2022-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,61814,32171,29643,0
+Dominica,2022-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,62015,32251,29764,0
+Dominica,2022-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,62030,32256,29774,0
+Dominica,2022-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,62110,32284,29826,0
+Dominica,2022-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,62333,32399,,0
+Dominica,2022-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,62334,32403,29931,0
+Dominica,2022-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,65980,32403,29931,3646
+Dominica,2022-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,66135,32481,30008,3646
+Dominica,2022-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,66166,32491,30029,3646
+Dominica,2022-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,66321,32554,30121,3646
+Dominica,2022-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,66357,32569,30142,3646
+Dominica,2022-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,66434,32598,30190,3646

@@ -1,0 +1,367 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Sri Lanka,2021-01-28,Oxford/AstraZeneca,https://timesofindia.indiatimes.com/india/no-adverse-reactions-so-far-following-vaccination-sri-lanka/articleshow/80600343.cms,0,0,,
+Sri Lanka,2021-01-29,Oxford/AstraZeneca,https://timesofindia.indiatimes.com/india/no-adverse-reactions-so-far-following-vaccination-sri-lanka/articleshow/80600343.cms,5286,5286,,
+Sri Lanka,2021-01-30,Oxford/AstraZeneca,https://www.newsfirst.lk/2021/01/30/32539-people-received-the-astrazeneca-covishield-vaccine-on-saturday-30/,37825,37825,,
+Sri Lanka,2021-01-31,Oxford/AstraZeneca,http://www.adaderana.lk/news/71215/nearly-60000-frontline-health-workers-vaccinated-so-far,59154,59154,,
+Sri Lanka,2021-02-01,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1356680966786273280,95550,95550,,
+Sri Lanka,2021-02-02,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1356680966786273280,118767,118767,,
+Sri Lanka,2021-02-03,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1357003103891935233,139914,139914,,
+Sri Lanka,2021-02-04,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1357745308390875137,146327,146327,,
+Sri Lanka,2021-02-05,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1357745308390875137,156310,156310,,
+Sri Lanka,2021-02-06,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1359539864694181890,160148,160148,,
+Sri Lanka,2021-02-07,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1359539864694181890,161773,161773,,
+Sri Lanka,2021-02-08,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1359539864694181890,167762,167762,,
+Sri Lanka,2021-02-09,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1359539864694181890,174193,174193,,
+Sri Lanka,2021-02-10,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1359539864694181890,176725,176725,,
+Sri Lanka,2021-02-11,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361005798323720192,178087,178087,,
+Sri Lanka,2021-02-12,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361005798323720192,179197,179197,,
+Sri Lanka,2021-02-13,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361005798323720192,186654,186654,,
+Sri Lanka,2021-02-14,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361144846258298881,189349,189349,,
+Sri Lanka,2021-02-15,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361751777301860354,192938,192938,,
+Sri Lanka,2021-02-16,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1361751777301860354,196163,196163,,
+Sri Lanka,2021-02-17,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1362947566539710469,210405,210405,,
+Sri Lanka,2021-02-18,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1362947566539710469,233472,233472,,
+Sri Lanka,2021-02-19,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1362947566539710469,263779,263779,,
+Sri Lanka,2021-02-20,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1363344193343561731,302857,302857,,
+Sri Lanka,2021-02-21,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1363536799935569920,338769,338769,,
+Sri Lanka,2021-02-22,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1363924714771505153,354352,354352,,
+Sri Lanka,2021-02-23,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1364257708870836225,366907,366907,,
+Sri Lanka,2021-02-24,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1364979958007783425,393469,393469,,
+Sri Lanka,2021-02-26,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1365308121002827776,406633,406633,,
+Sri Lanka,2021-02-27,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1365704760716791812,441976,441976,,
+Sri Lanka,2021-02-28,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1366090667693273088,466350,466350,,
+Sri Lanka,2021-03-01,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1366450361528029184,509275,509275,,
+Sri Lanka,2021-03-02,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1366787224763736064,553821,553821,,
+Sri Lanka,2021-03-03,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368507188021391365,599991,599991,,
+Sri Lanka,2021-03-04,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368507188021391365,650991,650991,,
+Sri Lanka,2021-03-05,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368507188021391365,699521,699521,,
+Sri Lanka,2021-03-06,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368507188021391365,724278,724278,,
+Sri Lanka,2021-03-07,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368995358185951234,729562,729562,,
+Sri Lanka,2021-03-08,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1368995358185951234,737062,737062,,
+Sri Lanka,2021-03-09,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1369315221953679363,743775,743775,,
+Sri Lanka,2021-03-10,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1369702951598497795,752098,752098,,
+Sri Lanka,2021-03-11,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1370583763676131331,759548,759548,,
+Sri Lanka,2021-03-12,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1370583763676131331,760765,760765,,
+Sri Lanka,2021-03-13,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1370786499583614976,770408,770408,,
+Sri Lanka,2021-03-14,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1371157821299957763,773011,773011,,
+Sri Lanka,2021-03-15,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1372412396627578883,784500,784500,,
+Sri Lanka,2021-03-16,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1372412396627578883,796792,796792,,
+Sri Lanka,2021-03-17,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1372412396627578883,806449,806449,,
+Sri Lanka,2021-03-18,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1372966146832408577,815585,815585,,
+Sri Lanka,2021-03-19,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1372966146832408577,824523,824523,,
+Sri Lanka,2021-03-20,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1374066940960858118,829220,829220,,
+Sri Lanka,2021-03-21,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1374066940960858118,829865,829865,,
+Sri Lanka,2021-03-22,Oxford/AstraZeneca,https://twitter.com/Rumindahg/status/1374066940960858118,838355,838355,,
+Sri Lanka,2021-03-27,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-03_10_21.pdf,884164,884164,,
+Sri Lanka,2021-03-28,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-03_10_21.pdf,894053,894053,,
+Sri Lanka,2021-03-29,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-03_10_21.pdf,894365,894365,,
+Sri Lanka,2021-03-30,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-03_10_21.pdf,903467,903467,,
+Sri Lanka,2021-03-31,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-03_10_21.pdf,913219,913219,,
+Sri Lanka,2021-04-01,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-04_10_21.pdf,919753,919753,,
+Sri Lanka,2021-04-02,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-04_10_21.pdf,923954,923954,,
+Sri Lanka,2021-04-04,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-04_10_21.pdf,924479,924479,,
+Sri Lanka,2021-04-06,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-04_10_21.pdf,924536,924536,,
+Sri Lanka,2021-04-07,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-04_10_21.pdf,924687,924687,,
+Sri Lanka,2021-04-09,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-04_10_21.pdf,925082,925082,,
+Sri Lanka,2021-04-11,Oxford/AstraZeneca,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-04_10_21.pdf,925242,925242,,
+Sri Lanka,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-04_10_21.pdf,933591,927711,5880,
+Sri Lanka,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-04_10_21.pdf,953461,928107,25354,
+Sri Lanka,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-05_10_21.pdf,991299,928107,63192,
+Sri Lanka,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-05_10_21.pdf,1016195,928107,88088,
+Sri Lanka,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-05_10_21.pdf,1024978,928107,96871,
+Sri Lanka,2021-05-04,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-05_10_21.pdf,1048113,928107,120006,
+Sri Lanka,2021-05-05,"Oxford/AstraZeneca, Sinopharm/Beijing",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-05_10_21.pdf,1069828,928107,141721,
+Sri Lanka,2021-05-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-05_10_21.pdf,1088093,928107,159986,
+Sri Lanka,2021-05-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-05_10_21.pdf,1105342,928107,177235,
+Sri Lanka,2021-05-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-05_10_21.pdf,1125740,928400,197340,
+Sri Lanka,2021-05-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-05_10_21.pdf,1130257,931276,198981,
+Sri Lanka,2021-05-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-05_10_21.pdf,1162770,948817,213953,
+Sri Lanka,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-05_10_21.pdf,1220248,996445,223803,
+Sri Lanka,2021-05-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-05_10_21.pdf,1309840,1075848,233992,
+Sri Lanka,2021-05-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-05_10_21.pdf,1384079,1140122,243957,
+Sri Lanka,2021-05-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-05_10_21.pdf,1541761,1273861,267900,
+Sri Lanka,2021-05-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-05_10_21.pdf,1570070,1300558,269512,
+Sri Lanka,2021-05-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-05_10_21.pdf,1644957,1350065,294892,
+Sri Lanka,2021-05-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-05_10_21.pdf,1683203,1383082,300121,
+Sri Lanka,2021-05-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-05_10_21.pdf,1707323,1399927,307396,
+Sri Lanka,2021-05-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-05_10_21.pdf,1726749,1410615,316134,
+Sri Lanka,2021-05-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-05_10_21.pdf,1749366,1426735,322631,
+Sri Lanka,2021-05-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-05_10_21.pdf,1765378,1437147,328231,
+Sri Lanka,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-05_10_21.pdf,1772924,1439501,333423,
+Sri Lanka,2021-05-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-05_10_21.pdf,1782429,1441501,340928,
+Sri Lanka,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-05_10_21.pdf,1786343,1443066,343277,
+Sri Lanka,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-05_10_21.pdf,1790688,1446712,343976,
+Sri Lanka,2021-05-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-05_10_21.pdf,1833048,1488651,344397,
+Sri Lanka,2021-05-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-05_10_21.pdf,1851001,1505273,345728,
+Sri Lanka,2021-05-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-05_10_21.pdf,1872990,1526750,346240,
+Sri Lanka,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-05_10_21.pdf,1956742,1608518,348224,
+Sri Lanka,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-06_10_21.pdf,2041307,1691562,349745,
+Sri Lanka,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-06_10_21.pdf,2117653,1766636,351017,
+Sri Lanka,2021-06-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-06_10_21.pdf,2272260,1920801,351459,
+Sri Lanka,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-06_10_21.pdf,2296864,1943708,353156,
+Sri Lanka,2021-06-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-06_10_21.pdf,2301489,1948187,353302,
+Sri Lanka,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-06_10_21.pdf,2333591,1979802,353789,
+Sri Lanka,2021-06-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-06_10_21.pdf,2377211,2023256,353955,
+Sri Lanka,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-06_10_21.pdf,2450965,2089320,361645,
+Sri Lanka,2021-06-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-06_10_21.pdf,2544373,2156935,387438,
+Sri Lanka,2021-06-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-06_10_21.pdf,2632706,2199504,433202,
+Sri Lanka,2021-06-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-06_10_21_1.pdf,2769383,2259385,509998,
+Sri Lanka,2021-06-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-06_10_21.pdf,2830470,2285572,544898,
+Sri Lanka,2021-06-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-06_10_21.pdf,2930212,2317012,613200,
+Sri Lanka,2021-06-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-06_10_21.pdf,3027917,2350564,677353,
+Sri Lanka,2021-06-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-06_10_21.pdf,3082905,2380354,702551,
+Sri Lanka,2021-06-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-06_10_21.pdf,3140256,2391683,748573,
+Sri Lanka,2021-06-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-06_10_21.pdf,3217818,2430811,787007,
+Sri Lanka,2021-06-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-06_10_21_1.pdf,3261432,2455180,806252,
+Sri Lanka,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-06_10_21.pdf,3301923,2472807,829116,
+Sri Lanka,2021-06-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-06_10_21_1.pdf,3324349,2482166,842183,
+Sri Lanka,2021-06-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-06_10_21.pdf,3367220,2500428,866792,
+Sri Lanka,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-06_10_21.pdf,3506077,2605558,900519,
+Sri Lanka,2021-06-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-06_10_21.pdf,3575996,2636524,939472,
+Sri Lanka,2021-06-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-06_10_21.pdf,3693103,2697778,995325,
+Sri Lanka,2021-07-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-07_10_21.pdf,3866623,2789537,1077086,
+Sri Lanka,2021-07-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-07_10_21.pdf,4036580,2889602,1146978,
+Sri Lanka,2021-07-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-07_10_21.pdf,4122829,2916330,1206499,
+Sri Lanka,2021-07-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-07_10_21_1.pdf,4186533,2951245,1235288,
+Sri Lanka,2021-07-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-07_10_21.pdf,4222194,2971751,1250443,
+Sri Lanka,2021-07-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-07_10_21.pdf,4528948,3244417,1284531,
+Sri Lanka,2021-07-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-07_10_21.pdf,4716695,3396167,1320528,
+Sri Lanka,2021-07-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-07_10_21.pdf,4938821,3584651,1354170,
+Sri Lanka,2021-07-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-07_10_21.pdf,5133118,3754422,1378696,
+Sri Lanka,2021-07-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-07_10_21.pdf,5319423,3896184,1423239,
+Sri Lanka,2021-07-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-07_10_21.pdf,5438365,3991392,1446973,
+Sri Lanka,2021-07-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-07_10_21.pdf,5697255,4192446,1504809,
+Sri Lanka,2021-07-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-07_10_21.pdf,6034000,4496770,1537230,
+Sri Lanka,2021-07-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-07_10_21.pdf,6431100,4847360,1583740,
+Sri Lanka,2021-07-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-07_10_21.pdf,6804481,5175605,1628876,
+Sri Lanka,2021-07-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-07_10_21_1.pdf,7051114,5404938,1646176,
+Sri Lanka,2021-07-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-07_10_21.pdf,7246983,5578909,1668074,
+Sri Lanka,2021-07-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-07_10_21.pdf,7361893,5675329,1686564,
+Sri Lanka,2021-07-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-07_10_21.pdf,7573967,5876281,1697686,
+Sri Lanka,2021-07-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-07_10_21.pdf,7852443,6138757,1713686,
+Sri Lanka,2021-07-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-07_10_21.pdf,8040200,6317202,1722998,
+Sri Lanka,2021-07-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-07_10_21.pdf,8278847,6542533,1736314,
+Sri Lanka,2021-07-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-07_10_21.pdf,8439469,6693072,1746397,
+Sri Lanka,2021-07-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-07_10_21.pdf,8907559,7114087,1793472,
+Sri Lanka,2021-07-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-07_10_21.pdf,9240909,7434297,1806612,
+Sri Lanka,2021-07-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-07_10_21.pdf,9722331,7839638,1882693,
+Sri Lanka,2021-07-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-07_10_21.pdf,10119124,8232194,1886930,
+Sri Lanka,2021-07-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-07_10_21.pdf,10712817,8718433,1994384,
+Sri Lanka,2021-07-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-07_10_21.pdf,11242718,9178909,2063809,
+Sri Lanka,2021-07-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-07_10_21.pdf,11768810,9634704,2134106,
+Sri Lanka,2021-08-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-08_10_21.pdf,12098889,9944683,2154206,
+Sri Lanka,2021-08-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-08_10_21.pdf,12331868,10076981,2254887,
+Sri Lanka,2021-08-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-08_10_21.pdf,12758216,10309855,2448361,
+Sri Lanka,2021-08-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-08_10_21.pdf,13065376,10481285,2584091,
+Sri Lanka,2021-08-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-08_10_21.pdf,13262725,10616683,2646042,
+Sri Lanka,2021-08-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-08_10_21.pdf,13456322,10777259,2679063,
+Sri Lanka,2021-08-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-08_10_21.pdf,13570682,10871332,2699350,
+Sri Lanka,2021-08-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-08_10_21.pdf,13765238,10986524,2778714,
+Sri Lanka,2021-08-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-08_10_21.pdf,15310726,11534750,3775976,
+Sri Lanka,2021-08-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-08_10_21.pdf,16377810,,,
+Sri Lanka,2021-08-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-08_10_21.pdf,16496117,,,
+Sri Lanka,2021-08-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-08_10_21.pdf,16781405,,,
+Sri Lanka,2021-08-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-08_10_21.pdf,16920027,,,
+Sri Lanka,2021-08-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-08_10_21.pdf,17068274,11799191,5269083,
+Sri Lanka,2021-08-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-08_10_21.pdf,17587688,12073373,5514315,
+Sri Lanka,2021-08-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-08_10_21.pdf,17709118,12088864,5620254,
+Sri Lanka,2021-08-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-08_10_21.pdf,17761535,12096630,5664905,
+Sri Lanka,2021-08-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-08_10_21.pdf,17936988,12129492,5807496,
+Sri Lanka,2021-08-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-08_10_21.pdf,18099085,12149634,5949451,
+Sri Lanka,2021-08-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-08_10_21.pdf,18341871,12220331,6121540,
+Sri Lanka,2021-08-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-08_10_21.pdf,18719417,12255121,6464296,
+Sri Lanka,2021-08-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-08_10_21.pdf,19163620,12290482,6873138,
+Sri Lanka,2021-08-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-08_10_21.pdf,19351672,12309254,7042418,
+Sri Lanka,2021-08-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-08_10_21.pdf,19498407,12325287,7173120,
+Sri Lanka,2021-08-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-08_10_21.pdf,20126990,12423579,7703411,
+Sri Lanka,2021-09-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-09_10_21.pdf,20638181,12468949,8169232,
+Sri Lanka,2021-09-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-09_10_21.pdf,21146303,12564209,8582094,
+Sri Lanka,2021-09-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-09_10_21.pdf,21405915,12604733,8801182,
+Sri Lanka,2021-09-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-09_10_21.pdf,21667819,12660231,9007588,
+Sri Lanka,2021-09-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-09_10_21.pdf,21840957,12703070,9137887,
+Sri Lanka,2021-09-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-09_10_21_1.pdf,21908847,12729601,9179246,
+Sri Lanka,2021-09-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-09_10_21_1.pdf,22237998,12823147,9414851,
+Sri Lanka,2021-09-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-09_10_21.pdf,22667612,12952755,9714857,
+Sri Lanka,2021-09-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-09_10_21_1.pdf,23123345,13128756,9994589,
+Sri Lanka,2021-09-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-09_10_21.pdf,23476342,13264805,10211537,
+Sri Lanka,2021-09-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-09_10_21.pdf,23777337,13371289,10406048,
+Sri Lanka,2021-09-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-09_10_21.pdf,24002848,13458620,10544228,
+Sri Lanka,2021-09-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-09_10_21.pdf,24077046,13497826,10579220,
+Sri Lanka,2021-09-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-09_10_21.pdf,24226161,13553534,10672627,
+Sri Lanka,2021-09-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-09_10_21.pdf,24349601,13602365,10747236,
+Sri Lanka,2021-09-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-09_10_21.pdf,24463453,13649253,10814200,
+Sri Lanka,2021-09-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-09_10_21.pdf,24558102,13690202,10867900,
+Sri Lanka,2021-09-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-09_10_21.pdf,24689082,13720887,10968195,
+Sri Lanka,2021-09-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-09_10_21.pdf,24803998,13749897,11054101,
+Sri Lanka,2021-09-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-09_10_21.pdf,24866006,13772541,11093465,
+Sri Lanka,2021-09-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-09_10_21.pdf,24927089,13802944,11124145,
+Sri Lanka,2021-09-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-09_10_21.pdf,25110877,13906987,11203890,
+Sri Lanka,2021-09-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-09_10_21.pdf,25339522,14032696,11306826,
+Sri Lanka,2021-09-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-09_10_21.pdf,25589878,14183520,11406358,
+Sri Lanka,2021-09-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-09_10_21.pdf,25813491,14302376,11511115,
+Sri Lanka,2021-09-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-09_10_21.pdf,25961797,14367807,11593990,
+Sri Lanka,2021-09-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-09_10_21.pdf,26002445,14391759,11610686,
+Sri Lanka,2021-09-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-09_10_21.pdf,26096107,14433611,11662496,
+Sri Lanka,2021-09-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-09_10_21.pdf,26171815,14471052,11700763,
+Sri Lanka,2021-09-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-09_10_21.pdf,26233218,14502913,11730305,
+Sri Lanka,2021-10-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-10_10_21.pdf,26298093,14524408,11773685,
+Sri Lanka,2021-10-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-10_10_21.pdf,26376809,14555215,11821594,
+Sri Lanka,2021-10-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-10_10_21.pdf,26423966,14570141,11853825,
+Sri Lanka,2021-10-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-10_10_21.pdf,26441235,14580206,11861029,
+Sri Lanka,2021-10-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-10_10_21.pdf,26524033,14598456,11925577,
+Sri Lanka,2021-10-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-10_10_21.pdf,26582559,14615232,11967327,
+Sri Lanka,2021-10-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-10_10_21.pdf,26683047,14639679,12043368,
+Sri Lanka,2021-10-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-10_10_21.pdf,26791620,14668211,12123409,
+Sri Lanka,2021-10-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-10_10_21.pdf,26939753,14684749,12255004,
+Sri Lanka,2021-10-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-10_10_21.pdf,27058302,14698140,12360162,
+Sri Lanka,2021-10-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-10_10_21.pdf,27102057,14703606,12398451,
+Sri Lanka,2021-10-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-10_10_21.pdf,27197582,14716712,12480870,
+Sri Lanka,2021-10-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-10_10_21.pdf,27285321,14731502,12553819,
+Sri Lanka,2021-10-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-10_10_21.pdf,27358879,14745130,12613749,
+Sri Lanka,2021-10-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-10_10_21.pdf,27412323,14754334,12657989,
+Sri Lanka,2021-10-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-10_10_21.pdf,27488241,14767778,12720463,
+Sri Lanka,2021-10-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-10_10_21.pdf,27545979,14777220,12768759,
+Sri Lanka,2021-10-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-10_10_21.pdf,27563673,14780138,12783535,
+Sri Lanka,2021-10-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-10_10_21.pdf,27603568,14785189,12818379,
+Sri Lanka,2021-10-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-10_10_21.pdf,27627779,14788141,12839638,
+Sri Lanka,2021-10-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-10_10_21.pdf,27639397,14789068,12850329,
+Sri Lanka,2021-10-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-10_10_21.pdf,27801336,14868800,12932536,
+Sri Lanka,2021-10-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-10_10_21.pdf,27966717,14928248,13038469,
+Sri Lanka,2021-10-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-10_10_21.pdf,28102233,14975778,13126455,
+Sri Lanka,2021-10-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-10_10_21.pdf,28144463,14987889,13156574,
+Sri Lanka,2021-10-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-10_10_21.pdf,28262495,15061354,13201141,
+Sri Lanka,2021-10-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-10_10_21.pdf,28413012,15147114,13265898,
+Sri Lanka,2021-10-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-10_10_21.pdf,28581571,15262192,13319379,
+Sri Lanka,2021-11-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-11_10_21.pdf,29172685,15671510,13501175,
+Sri Lanka,2021-11-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-11_10_21.pdf,29239575,15718509,13521066,
+Sri Lanka,2021-11-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-11_10_21.pdf,29250053,15726331,13523722,
+Sri Lanka,2021-11-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-11_10_21.pdf,29297626,15757276,13540350,
+Sri Lanka,2021-11-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-11_10_21.pdf,29374502,15796673,13577829,
+Sri Lanka,2021-11-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-11_10_21.pdf,29380388,15799360,13581028,
+Sri Lanka,2021-11-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-11_10_21.pdf,29407715,15816302,13591413,
+Sri Lanka,2021-11-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-11_10_21.pdf,29421751,15825242,13596509,
+Sri Lanka,2021-11-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-11_10_21.pdf,29442681,15837790,13604891,
+Sri Lanka,2021-11-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-11_10_21.pdf,29479610,15857906,13621704,
+Sri Lanka,2021-11-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-11_10_21.pdf,29522461,15874038,13648423,
+Sri Lanka,2021-11-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-11_10_21.pdf,29542462,15876907,13665555,
+Sri Lanka,2021-11-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-11_10_21_1.pdf,29558587,15883630,13674957,
+Sri Lanka,2021-11-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-11_10_21.pdf,29570512,15888053,13682459,
+Sri Lanka,2021-11-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-11_10_21.pdf,29583085,15894375,13688710,
+Sri Lanka,2021-11-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-11_10_21.pdf,29588163,15897388,13690775,
+Sri Lanka,2021-11-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-11_10_21.pdf,29595254,15900295,13694959,
+Sri Lanka,2021-11-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-11_10_21.pdf,29615961,15910650,13705311,
+Sri Lanka,2021-11-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-11_10_21.pdf,29619502,15911983,13707519,
+Sri Lanka,2021-11-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-11_10_21.pdf,29631651,15914780,13716871,
+Sri Lanka,2021-11-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-11_10_21.pdf,29638112,15916995,13721117,
+Sri Lanka,2021-11-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-11_10_21.pdf,29641413,15918179,13723234,
+Sri Lanka,2021-11-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-11_10_21.pdf,29644331,15919195,13725136,
+Sri Lanka,2021-11-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-11_10_21.pdf,29664809,15926273,13738536,
+Sri Lanka,2021-11-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-11_10_21.pdf,29668731,15927537,13741194,
+Sri Lanka,2021-11-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-11_10_21.pdf,29674708,15929547,13745161,
+Sri Lanka,2021-12-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-12_10_21.pdf,29682085,15932194,13749891,
+Sri Lanka,2021-12-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-12_10_21.pdf,29687682,15933967,13753715,
+Sri Lanka,2021-12-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-12_10_21.pdf,29692051,15935634,13756417,
+Sri Lanka,2021-12-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-12_10_21.pdf,29707010,15943166,13763844,
+Sri Lanka,2021-12-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-12_10_21.pdf,29712156,15945546,13766610,
+Sri Lanka,2021-12-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-12_10_21.pdf,29717283,15947255,13770028,
+Sri Lanka,2021-12-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-12_10_21.pdf,29720188,15948495,13771693,
+Sri Lanka,2021-12-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-12_10_21.pdf,30805384,15949941,13774140,1081303
+Sri Lanka,2021-12-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-11-12_10_21.pdf,30919491,15952312,13782724,1184455
+Sri Lanka,2021-12-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-12-12_10_21.pdf,31011543,15955985,13789006,1266552
+Sri Lanka,2021-12-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-12_10_21.pdf,31054377,15956438,13789917,1308022
+Sri Lanka,2021-12-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-14-12_10_21.pdf,31192002,15958080,13793217,1440705
+Sri Lanka,2021-12-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-12_10_21.pdf,31406235,15960281,13796586,1649368
+Sri Lanka,2021-12-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-12_10_21.pdf,31634248,15962904,13801586,1869758
+Sri Lanka,2021-12-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-12_10_21.pdf,31826900,15964289,13803820,2058791
+Sri Lanka,2021-12-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-12_10_21.pdf,32121217,15966704,13808331,2346182
+Sri Lanka,2021-12-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-12_10_21.pdf,32208015,15967577,13809954,2430484
+Sri Lanka,2021-12-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-12_10_21.pdf,32284106,15968147,13810482,2505477
+Sri Lanka,2021-12-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-12_10_21.pdf,32443476,15969986,13813852,2659638
+Sri Lanka,2021-12-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-12_10_21.pdf,32630430,15972186,13817888,2840356
+Sri Lanka,2021-12-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-12_10_21.pdf,32803940,15976157,13821374,3006409
+Sri Lanka,2021-12-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-12_10_21_1.pdf,32944180,15978824,13824015,3141341
+Sri Lanka,2021-12-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-12_10_21.pdf,33107334,15980825,13827474,3299035
+Sri Lanka,2021-12-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-12_10_21.pdf,33178074,15982016,13829115,3366943
+Sri Lanka,2021-12-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-12_10_21.pdf,33203111,15982166,13829473,3391472
+Sri Lanka,2021-12-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-12_10_21.pdf,33369982,15985385,13833773,3550824
+Sri Lanka,2021-12-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-12_10_21.pdf,33516336,15987913,13836707,3691716
+Sri Lanka,2021-12-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-12_10_21.pdf,33687102,15989319,13840279,3857504
+Sri Lanka,2021-12-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-12_10_21.pdf,33841264,15991500,13843044,4006720
+Sri Lanka,2022-01-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-01_10_22.pdf,33891135,15992877,13845347,4052911
+Sri Lanka,2022-01-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-01_10_22.pdf,33912349,15993676,13846323,4072350
+Sri Lanka,2022-01-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-01_10_22.pdf,33918012,15993891,13846752,4077369
+Sri Lanka,2022-01-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-04-01_10_22.pdf,33958305,15994809,13849314,4114182
+Sri Lanka,2022-01-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-05-01_10_22.pdf,33995380,15995725,13850844,4148811
+Sri Lanka,2022-01-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-06-01_10_22.pdf,34047790,15996826,13852537,4198427
+Sri Lanka,2022-01-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-07-01_10_22.pdf,34080856,15997744,13853950,4229162
+Sri Lanka,2022-01-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-08-01_10_22.pdf,34136251,16003686,13856165,4276400
+Sri Lanka,2022-01-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-09-01_10_22.pdf,34186959,16007724,13859887,4319348
+Sri Lanka,2022-01-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-10-01_10_22.pdf,34203880,16009057,13860697,4334126
+Sri Lanka,2022-01-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/Circulars/Corona_virus/sitrep-sl-en-11-01_10_22.pdf,34256390,16020257,13862165,4373968
+Sri Lanka,2022-01-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-13-01_10_22.pdf,34495133,16105730,13865450,4523953
+Sri Lanka,2022-01-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-15-01_10_22.pdf,34698706,16189227,13869020,4640459
+Sri Lanka,2022-01-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-16-01_10_22.pdf,34766465,16200619,13871724,4694122
+Sri Lanka,2022-01-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-17-01_10_22.pdf,34823410,16206725,13873104,4743581
+Sri Lanka,2022-01-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-18-01_10_22.pdf,34836372,16208326,13873905,4754141
+Sri Lanka,2022-01-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-19-01_10_22.pdf,34928327,16250671,13875938,4801718
+Sri Lanka,2022-01-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-20-01_10_22.pdf,35002903,16294449,13878734,4829720
+Sri Lanka,2022-01-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-21-01_10_22.pdf,35100585,16359250,13879863,4861472
+Sri Lanka,2022-01-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-01_10_22.pdf,35169130,16403883,13881187,4884060
+Sri Lanka,2022-01-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-01_10_22.pdf,35220490,16420801,13883259,4916430
+Sri Lanka,2022-01-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-24-01_10_22.pdf,35231619,16421857,13883801,4925961
+Sri Lanka,2022-01-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-25-01_10_22.pdf,35302465,16463502,13886321,4952642
+Sri Lanka,2022-01-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-26-01_10_22.pdf,35374713,16497745,13888605,4988363
+Sri Lanka,2022-01-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-27-01_10_22.pdf,35460365,16550296,13891828,5018241
+Sri Lanka,2022-01-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-28-01_10_22.pdf,35528229,16583724,13897682,5046823
+Sri Lanka,2022-01-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-29-01_10_22.pdf,35633259,16624775,13911179,5097305
+Sri Lanka,2022-01-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-30-01_10_22.pdf,35721455,16641134,13915137,5165184
+Sri Lanka,2022-01-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-31-01_10_22.pdf,35764626,16647015,13917564,5200047
+Sri Lanka,2022-02-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-01-02_10_22.pdf,35867554,16676234,13930315,5261005
+Sri Lanka,2022-02-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-02-02_10_22.pdf,36018224,16710257,13943179,5364788
+Sri Lanka,2022-02-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-03-02_10_22.pdf,36159785,16733188,13958389,5468208
+Sri Lanka,2022-02-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_05.pdf,36518577,16783298,14010772,5724507
+Sri Lanka,2022-02-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_06.pdf,36581500,16788517,14015145,5777838
+Sri Lanka,2022-02-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_07.pdf,36657865,16794917,14021430,5841518
+Sri Lanka,2022-02-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_08.pdf,36716685,16798256,14023405,5895024
+Sri Lanka,2022-02-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_09.pdf,36770764,16800981,14027528,5942255
+Sri Lanka,2022-02-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_10.pdf,36819246,16802496,14029704,5987046
+Sri Lanka,2022-02-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_11.pdf,36887180,16805368,14033275,6048537
+Sri Lanka,2022-02-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_12.pdf,36972980,16811958,14037188,6123834
+Sri Lanka,2022-02-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_13.pdf,36979120,16812378,14037768,6128974
+Sri Lanka,2022-02-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_14.pdf,37036441,16820188,14040972,6175281
+Sri Lanka,2022-02-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_15.pdf,37080721,16821707,14044375,6214639
+Sri Lanka,2022-02-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_16.pdf,37111792,16824201,14047994,6239597
+Sri Lanka,2022-02-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_17.pdf,37183235,16829089,14052854,6301292
+Sri Lanka,2022-02-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_18.pdf,37273368,16836546,14063861,6372961
+Sri Lanka,2022-02-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_19.pdf,37389300,16847116,14079398,6462786
+Sri Lanka,2022-02-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_20.pdf,37421302,16849327,14082672,6489303
+Sri Lanka,2022-02-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_21.pdf,37485712,16855359,14091594,6538759
+Sri Lanka,2022-02-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_22.pdf,37563797,16859786,14103467,6600544
+Sri Lanka,2022-02-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_23.pdf,37856812,16866777,14127410,6862625
+Sri Lanka,2022-02-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_24.pdf,37983893,16884030,14147202,6952661
+Sri Lanka,2022-02-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_25.pdf,38059562,16890323,14155661,7013578
+Sri Lanka,2022-02-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_28.pdf,38275280,16903964,14177935,7193381
+Sri Lanka,2022-03-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_01.pdf,38293596,16904417,14180650,7208529
+Sri Lanka,2022-03-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_02.pdf,38326269,16911102,14187343,7227824
+Sri Lanka,2022-03-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_03.pdf,38353698,16914562,14190304,7248832
+Sri Lanka,2022-03-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_04.pdf,38390533,16917770,14197139,7275624
+Sri Lanka,2022-03-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_05.pdf,38432862,16921171,14205539,7306152
+Sri Lanka,2022-03-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_06.pdf,38454224,16928363,14208755,7317106
+Sri Lanka,2022-03-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_07.pdf,38495142,16932560,14215095,7347487
+Sri Lanka,2022-03-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_08.pdf,38524249,16935016,14221829,7367404
+Sri Lanka,2022-03-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_09.pdf,38553785,16937437,14230593,7385755
+Sri Lanka,2022-03-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_10.pdf,38706586,16941266,14238047,7527273
+Sri Lanka,2022-03-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_11.pdf,38739966,16945836,14251784,7542346
+Sri Lanka,2022-03-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_12.pdf,38773496,16951559,14258603,7563334
+Sri Lanka,2022-03-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_14.pdf,38785914,16952784,14262840,7570290
+Sri Lanka,2022-03-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_14_1.pdf,38922999,16972532,14336813,7613654
+Sri Lanka,2022-03-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_15_1.pdf,38954710,16977594,14346957,7630159
+Sri Lanka,2022-03-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_16.pdf,38982099,16981180,14354752,7646167
+Sri Lanka,2022-03-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_17.pdf,38992876,16982423,14357444,7653009
+Sri Lanka,2022-03-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_20.pdf,39061330,16990817,14374087,7696426
+Sri Lanka,2022-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,39087900,16994196,14381844,7711860
+Sri Lanka,2022-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V, Pfizer/BioNTech, Moderna",https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_22.pdf,39102567,16995787,14387077,7719703
+Sri Lanka,2022-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,39293230,17008012,14417479,7867739
+Sri Lanka,2022-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,39334477,17013894,14427857,7892726
+Sri Lanka,2022-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,39365274,17019170,14436626,7909478
+Sri Lanka,2022-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,39442424,17033222,14449321,7959881

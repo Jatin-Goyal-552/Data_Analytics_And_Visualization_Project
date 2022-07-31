@@ -1,0 +1,314 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Tunisia,2021-03-12,Sputnik V,https://www.africanews.com/2021/03/13/tunisia-begins-covid-vaccination-with-health-care-workers/,0,0,0,
+Tunisia,2021-03-13,Sputnik V,https://www.facebook.com/santetunisie.rns.tn/videos/488719478966036/,743,743,0,
+Tunisia,2021-03-14,Sputnik V,https://www.facebook.com/santetunisie.rns.tn/posts/3942942942411447,2076,2076,0,
+Tunisia,2021-03-15,Sputnik V,https://www.facebook.com/186480324724413/posts/3947631718609236/,2555,2555,0,
+Tunisia,2021-03-19,Sputnik V,https://www.facebook.com/186480324724413/posts/3958312024207872/,6861,6861,0,
+Tunisia,2021-03-21,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3963594130346328/,12496,12496,0,
+Tunisia,2021-03-22,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3967440006628407/,18020,18020,0,
+Tunisia,2021-03-23,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3971083486264059/,22040,22040,0,
+Tunisia,2021-03-25,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3977019415670466/,32026,32026,0,
+Tunisia,2021-03-26,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3980479405324467/,38853,38853,0,
+Tunisia,2021-03-27,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3983827844989623/,44311,44311,0,
+Tunisia,2021-03-29,"Pfizer/BioNTech, Sputnik V",https://www.facebook.com/186480324724413/posts/3991380950900979/,53089,53089,0,
+Tunisia,2021-04-02,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4005171509521923/,70769,70769,0,
+Tunisia,2021-04-03,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4008028735902867/,80140,80140,0,
+Tunisia,2021-04-04,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4011079642264443/,88543,88543,0,
+Tunisia,2021-04-05,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4013635495342191/,98057,98057,0,
+Tunisia,2021-04-06,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4014362261936181/,104922,104922,0,
+Tunisia,2021-04-07,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4019587711413636,112254,108266,3988,
+Tunisia,2021-04-08,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4023443124361428/,124779,119919,4860,
+Tunisia,2021-04-09,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4026210077418066,130374,125395,4979,
+Tunisia,2021-04-10,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4029183710454036,142932,134901,8031,
+Tunisia,2021-04-11,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4032491843456556,154647,146284,8363,
+Tunisia,2021-04-12,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4035131186525955,166093,157617,8476,
+Tunisia,2021-04-13,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4038685372837203,175439,166959,8480,
+Tunisia,2021-04-14,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4041065069265900,183025,174534,8491,
+Tunisia,2021-04-15,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4044200058952401,191625,180829,10796,
+Tunisia,2021-04-18,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4052878308084576,225900,192881,33019,
+Tunisia,2021-04-19,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4055960647776342,239398,197437,41961,
+Tunisia,2021-04-20,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4058963130809427,252672,204975,47697,
+Tunisia,2021-04-21,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4061581940547546,265365,214150,51215,
+Tunisia,2021-04-22,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4064492720256468,279890,225834,54056,
+Tunisia,2021-04-23,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4067981799907560,293073,235977,57096,
+Tunisia,2021-04-24,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4071091476263259,306612,244387,62225,
+Tunisia,2021-04-25,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4074049845967422,320009,254096,65913,
+Tunisia,2021-04-26,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4076982515674155,333000,263189,69811,
+Tunisia,2021-04-27,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4079877268718013,345914,271129,74785,
+Tunisia,2021-04-28,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4083118358393904,358746,277918,80828,
+Tunisia,2021-04-30,"Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4091947780844295,372083,282121,89962,
+Tunisia,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4091947780844295,400364,305484,94880,
+Tunisia,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4094595580579515,415801,314357,101444,
+Tunisia,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4097476553624751,424485,320652,103833,
+Tunisia,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4100444619994611,432878,325740,107138,
+Tunisia,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4103935412978865,444490,330794,113696,
+Tunisia,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4106526276053112,457568,333779,123789,
+Tunisia,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4109753405730399,478755,340979,137776,
+Tunisia,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4106526276053112,499369,350426,148943,
+Tunisia,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4116076335098106,518538,362101,156437,
+Tunisia,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4119228124782927,537380,372240,165140,
+Tunisia,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4135206059851800,570553,392067,178486,
+Tunisia,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4138076569564749,599969,414023,185946,
+Tunisia,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4140999415939131,628107,432600,195507,
+Tunisia,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.tap.info.tn/en/Portal-Society/14011339-covid-19-over-656,656077,450177,205900,
+Tunisia,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4148182395220833,684173,466895,217278,
+Tunisia,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4154427817929624,738667,494901,243766,
+Tunisia,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4157386994300373,765751,512110,253641,
+Tunisia,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4160871290618610,788578,528834,259744,
+Tunisia,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4163575050348234,809163,542349,266814,
+Tunisia,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4166822463356826,831824,560195,271629,
+Tunisia,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4170204983018574,853432,578435,274997,
+Tunisia,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4173183396054066,875808,597677,278131,
+Tunisia,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4176282562410816,899109,616962,282147,
+Tunisia,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4179617385410667,922838,633524,289314,
+Tunisia,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4182377398467999,942532,644138,298394,
+Tunisia,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4185228114849594,958951,654976,303975,
+Tunisia,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4188267321212340,983647,672600,311047,
+Tunisia,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4191107944261611,1016860,700087,316773,
+Tunisia,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4194043443968061/,1051796,728092,322894,
+Tunisia,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4197185420320530,1088158,758473,329685,
+Tunisia,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4200178840021188,1126036,788222,337814,
+Tunisia,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4203099836395755,1159924,814813,345111,
+Tunisia,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4206030306102708,1192895,841051,351844,
+Tunisia,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4208772962495109,1223563,871325,352238,
+Tunisia,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4211589338880138,1252125,899555,352570,
+Tunisia,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4214762748562797,1274840,921967,352873,
+Tunisia,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4217303338308738,1312234,958531,353703,
+Tunisia,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4220092064696532,1347889,986005,361884,
+Tunisia,2021-06-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4222662971106108,1381614,1012998,368616,
+Tunisia,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4225538940818511,1405955,1032192,373763,
+Tunisia,2021-06-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4229279083777830,1433269,1055577,377692,
+Tunisia,2021-06-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4231303486908723,1459780,1079490,380290,
+Tunisia,2021-06-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4234629403242798,1486528,1104342,382186,
+Tunisia,2021-06-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4236757086363363,1517895,1126908,390987,
+Tunisia,2021-06-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4239635059408899,1551849,1147282,404567,
+Tunisia,2021-06-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4242069875832084,1583153,1165402,417751,
+Tunisia,2021-06-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4245597628812642,1609651,1181640,428011,
+Tunisia,2021-06-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4247870695252002,1636555,1198398,438157,
+Tunisia,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4250577331648005,1661855,1215888,445967,
+Tunisia,2021-06-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4253646778007727,1685739,1223985,461754,
+Tunisia,2021-06-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4256628717709533,1705657,1229644,476013,
+Tunisia,2021-06-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4259519617420443,1737042,1240351,496691,
+Tunisia,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4262260920479646,1765231,1251903,513328,
+Tunisia,2021-06-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4264906616881743,1793424,1260822,532602,
+Tunisia,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4269265949779143,1821431,1272434,548997,
+Tunisia,2021-06-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4271458019559936,1844651,1290856,553795,
+Tunisia,2021-07-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4273726049333133,1881065,1314954,566111,
+Tunisia,2021-07-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4276669129038825,1912160,1342168,569992,
+Tunisia,2021-07-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4279396815432723,1942431,1367926,574505,
+Tunisia,2021-07-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4282202948485443,1972034,1390862,581172,
+Tunisia,2021-07-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4284785534893851,1999363,1407013,592350,
+Tunisia,2021-07-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4287775384594866,2024789,1424024,600765,
+Tunisia,2021-07-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4290649304307474,2052484,1444152,608332,
+Tunisia,2021-07-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4293872587318479,2082765,1468055,614710,
+Tunisia,2021-07-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4296286883743716,2115739,1497677,618062,
+Tunisia,2021-07-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4299246146781123,2138025,1514948,623077,
+Tunisia,2021-07-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4302127679826303,2156240,1525157,631083,
+Tunisia,2021-07-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4304958446209893,2178211,1527717,650494,
+Tunisia,2021-07-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4307717662600638,2206980,1530367,676613,
+Tunisia,2021-07-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4310674472304957,2234739,1532137,702602,
+Tunisia,2021-07-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4313426985363039,2269301,1541297,728004,
+Tunisia,2021-07-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4316357845069953,2304742,1549314,755428,
+Tunisia,2021-07-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4319563228082748,2347574,1566091,781483,
+Tunisia,2021-07-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4321967214509016,2385176,1583052,802124,
+Tunisia,2021-07-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4325086007530470,2420468,1595058,825410,
+Tunisia,2021-07-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4343196092386128,2619884,1681477,938407,
+Tunisia,2021-07-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4345730308799373,2663438,1699805,963633,
+Tunisia,2021-08-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,2934709,1807279,,
+Tunisia,2021-08-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4373558156016588,3111252,1915124,,
+Tunisia,2021-08-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4381094728596264,3293114,2048054,1404936,
+Tunisia,2021-08-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid19.who.int/,3392636,2147121,,
+Tunisia,2021-08-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4399469576758779,4022633,2753775,1477187,
+Tunisia,2021-08-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4402325649806505/,4075678,2799304,1488800,
+Tunisia,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4408535059185564/,4690354,3406841,1571492,
+Tunisia,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4411723918866678,4737282,3427863,1599314,
+Tunisia,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4411723918866678,4782139,3455432,1621713,
+Tunisia,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4417983914907345/,4834021,3489798,1645148,
+Tunisia,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4420557584649978/,4891225,3525959,1671876,
+Tunisia,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4425284207510649/,4976655,3570889,1714783,
+Tunisia,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4428326650539738/,5022698,3598082,1735814,
+Tunisia,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4431432863562450,5054931,3627286,1739839,
+Tunisia,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4434487386590331,5086071,3654017,1744742,
+Tunisia,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4438571052848631,5134991,3686470,1763024,
+Tunisia,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4440557335983336,5190162,3725533,1780455,
+Tunisia,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4443476752358061,5226944,3747984,1795176,
+Tunisia,2021-08-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4448971138475289/,5635700,4114814,2135467,
+Tunisia,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4449669121738824,5683733,4179830,2155652,
+Tunisia,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4461368890568847/,5787680,4271282,2182412,
+Tunisia,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4466800256692377,6165386,4337600,2499098,
+Tunisia,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4468307643208305,6195570,4361333,2512895,
+Tunisia,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4471422786230124,6225628,4383705,2525771,
+Tunisia,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4474571915915211,6257492,4404156,2541462,
+Tunisia,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4477430328962703,6292293,4422956,2560775,
+Tunisia,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4483865041652565/,6361355,4460630,2599288,
+Tunisia,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4488692307836505/,6789808,4512414,2980682,
+Tunisia,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4491334364238966,6823657,4536120,2995622,
+Tunisia,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4496353473737055,6911801,4574648,3052221,
+Tunisia,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4499546903417712,6960639,4591849,3086499,
+Tunisia,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4505215019517567,7017171,4610453,3128815,
+Tunisia,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/photos/pcb.4510926312279771/4510926108946458/,7132375,4656510,3209273,
+Tunisia,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4514702021902200,7174188,4674137,3239238,
+Tunisia,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4517704304935305,7212530,4695129,3262290,
+Tunisia,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4517704304935305,7249413,4713020,3286497,
+Tunisia,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4522414097797659,7297861,4729690,3324088,
+Tunisia,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4525854104120325,7342484,4745368,3357086,
+Tunisia,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4529657587073310,7384667,4761259,3387656,
+Tunisia,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4534478693257866,7425277,4774081,3418333,
+Tunisia,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4539497562755979/,7975573,5014695,3768319,
+Tunisia,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/story.php?story_fbid=4544023145636754&id=186480324724413&m_entstream_source=timeline,8027352,5033603,3806236,
+Tunisia,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4552344071471328,8122053,5086921,3861062,
+Tunisia,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4556800294359039,8162536,5113351,3881681,
+Tunisia,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4559676447404757,8196113,5139289,3896327,
+Tunisia,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4562153060490429,8242609,5156070,3929697,
+Tunisia,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4563982423640826,8281311,5172620,3956254,
+Tunisia,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4567045460001189,8314588,5193089,3973932,
+Tunisia,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4571689399536795,8344827,5210515,3992462,
+Tunisia,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4574785475893854,8381921,5233974,4014524,
+Tunisia,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4576636822375386,8430811,5255704,4048705,
+Tunisia,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4579477192091349,8471643,5278579,4073857,
+Tunisia,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/186480324724413/posts/4582753238430411/,8505215,5294505,4095504,
+Tunisia,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4586029644769437,8540640,5316244,4113510,
+Tunisia,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4589634424408959,8579166,5341200,4131734,
+Tunisia,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4592798700759198,8620009,5369621,4149625,
+Tunisia,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4596079400431128,8640525,5383728,4161982,
+Tunisia,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4600890876616647,8678033,5400133,4189084,
+Tunisia,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4602469556458779,8702575,5411984,4205797,
+Tunisia,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4605725682799833,8723626,5420703,4222476,
+Tunisia,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4608745809164487,8747863,5433013,4240154,
+Tunisia,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4611622248876843,8775582,5444941,4262137,
+Tunisia,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4614975335208201,8813253,5461985,4289685,
+Tunisia,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4618104868228581,8854357,5472941,4321918,
+Tunisia,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4620895917949476,8885559,5485746,4342563,
+Tunisia,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4625610344144700,8903687,5489835,4357077,
+Tunisia,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/4627025874003147,8956625,5504905,4397120,
+Tunisia,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/permalink.php?story_fbid=4637160886322979&id=186480324724413,9140107,5561740,4471453,28870
+Tunisia,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/permalink.php?story_fbid=4641968232508911&id=186480324724413,9179487,5579315,4495433,32750
+Tunisia,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/permalink.php?story_fbid=4646388185400249&id=186480324724413,9253797,5596309,4516636,71510
+Tunisia,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/permalink.php?story_fbid=4650989244940143&id=186480324724413,9362394,5627636,4552944,124228
+Tunisia,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/permalink.php?story_fbid=4654457537926647&id=186480324724413,9414932,5649960,4567385,142786
+Tunisia,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/251469677023502,9457176,5663693,4585358,153756
+Tunisia,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/252080340295769,9494334,5678067,4598476,163744
+Tunisia,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/252535190250284,9536221,5694869,4615502,173532
+Tunisia,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/253253506845119,9560149,5705705,4625538,179218
+Tunisia,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/254189993418137,9610235,5729629,4644077,189449
+Tunisia,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/254541403382996,9649452,5744691,4652007,202552
+Tunisia,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/255152803321856,9689886,5762183,4683045,213310
+Tunisia,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/256102836560186,9726179,5776726,4705667,223337
+Tunisia,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/256418266528643,9760917,5790783,4723670,233093
+Tunisia,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/257163999787403,9791690,5802387,4745923,243348
+Tunisia,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/257791933057943,9833267,5818681,4762715,256524
+Tunisia,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/258545716315898,9858069,5830398,4773511,263155
+Tunisia,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/259182716252198,9896676,5844560,4796143,272326
+Tunisia,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/259870602850076,9926889,5858720,4809585,280269
+Tunisia,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/260818786088591,9956934,5870482,4820932,290842
+Tunisia,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/261478876022582,9977626,5880737,4830374,295394
+Tunisia,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/262154869288316,10004076,5891727,4842968,301875
+Tunisia,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/262841022553034,10027032,5900488,4856968,305078
+Tunisia,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/264151585755311,10228580,5997300,4997447,324327
+Tunisia,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/264769452360191,10264507,6008708,5014437,337089
+Tunisia,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/265104288993374,10292254,6020234,5029931,343301
+Tunisia,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/265976092239527,10337380,6035060,5053915,355269
+Tunisia,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/266321518871651,10376040,6047512,5071636,369618
+Tunisia,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/267348678768935,10416390,6061597,5089447,384681
+Tunisia,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/267718005398669,10447598,6075213,5105502,393183
+Tunisia,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/268352882001848,10502737,6092012,5129211,411172
+Tunisia,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/269257455244724,10560342,6112326,5156641,425004
+Tunisia,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/269860581851078,10595756,6127532,5176785,432069
+Tunisia,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/270443621792774,10623089,6140882,5191973,438337
+Tunisia,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/271073868396416,10657092,6156042,5212203,445238
+Tunisia,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/271735961663540,10692857,6172013,5231608,454578
+Tunisia,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/272400118263791,10731223,6187495,5247095,469349
+Tunisia,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/272988764871593,10769174,6200507,5261145,487349
+Tunisia,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/273644491472687,10812590,6213822,5275808,510194
+Tunisia,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/274258688077934,10857755,6228209,5291788,533260
+Tunisia,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/274890474681422,10894050,6241162,5306722,548954
+Tunisia,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/275495064620963,10937504,6257611,5324150,568114
+Tunisia,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/275887764581693,10979709,6275922,5343504,582804
+Tunisia,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/276719837831819,11012280,6292703,5357940,592168
+Tunisia,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/277311841105952,11057851,6312309,5377874,608073
+Tunisia,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/277651394405330,11098112,6331820,5397832,619342
+Tunisia,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/278285304341939,11144463,6349206,5416468,638488
+Tunisia,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/279250257578777,11184034,6367736,5436870,649176
+Tunisia,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/279864914183978,11225580,6386392,5451952,664237
+Tunisia,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/280196940817442,11281851,6408746,5474150,687347
+Tunisia,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/281078290729307,11327165,6427305,5495388,701546
+Tunisia,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/281715617332241,11384958,6450802,5521000,722530
+Tunisia,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/283672513803218,11597734,6562859,5636108,751944
+Tunisia,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/284091873761282,11647380,6582428,5659859,768504
+Tunisia,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/285468190290317,11871309,6724910,5774360,805492
+Tunisia,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/286242663546203,11917120,6754144,5798130,813686
+Tunisia,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/286619270175209,11979466,6794307,5830391,822589
+Tunisia,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/287196206784182,12039684,6828623,5860069,835254
+Tunisia,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/288029783367491,12117984,6870269,5903522,846761
+Tunisia,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/288924253278044,12156566,6889208,5921997,856236
+Tunisia,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/289247706579032,12182712,6899489,5933117,865340
+Tunisia,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/289868103183659,12205879,6910245,5942688,871951
+Tunisia,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/291031643067305,12301642,6954920,6000478,893379
+Tunisia,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/291951569641979,12331779,6970321,6016132,900153
+Tunisia,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/292343656269437,12356422,6979988,6027072,908217
+Tunisia,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/293000769537059,12376388,6986778,6036185,914839
+Tunisia,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/293965879440548,12393429,6993487,6044661,919377
+Tunisia,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/294223009414835,12410869,6998537,6052532,925633
+Tunisia,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/294843649352771,12427128,7004917,6059981,930651
+Tunisia,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/295442425959560,12445869,7011812,6069911,935615
+Tunisia,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/296105495893253,12463191,7018208,6078905,940285
+Tunisia,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/296738075829995,12479874,7024981,6087525,944338
+Tunisia,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/297385265765276,12497274,7031195,6097229,948234
+Tunisia,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/298019282368541,12515433,7036915,6107788,952453
+Tunisia,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/298675548969581,12535903,7040687,6116577,962421
+Tunisia,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/299248372245632,12552782,7046024,6124275,967701
+Tunisia,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/299886192181850,12573385,7050632,6132884,977123
+Tunisia,2022-01-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/300514312119038,12592621,7055003,6140624,986276
+Tunisia,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/301784015325401,12654706,7079681,6175817,1001320
+Tunisia,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/302430171927452,12672586,7083316,6187489,1005478
+Tunisia,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/303320011838468,12684824,7085339,6193743,1010055
+Tunisia,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/303937745110028,12698232,7088214,6201904,1013713
+Tunisia,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/304641998372936,12706499,7089669,6206900,1016080
+Tunisia,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/305197631650706,12713783,7091922,6211633,1017438
+Tunisia,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/305751591595310,12722944,7093969,6217064,1020053
+Tunisia,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/306426108194525,12731605,7095889,6222157,1022584
+Tunisia,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/307074948129641,12740062,7097979,6226898,1025095
+Tunisia,2022-01-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/307358374767965,12748822,7098898,6230542,1029590
+Tunisia,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/307966994707103,12757250,7100854,6234262,1033173
+Tunisia,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/308582351312234,12788767,7105519,6260918,1040285
+Tunisia,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/309276914576111,12791490,7106753,6262239,1041032
+Tunisia,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/309861997850936,12797534,7108160,6265513,1043001
+Tunisia,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/310534301117039,12803714,7109693,6268617,1045693
+Tunisia,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/311436667693469,12810015,7110923,6271674,1047730
+Tunisia,2022-02-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/311764577660678,12816347,7111689,6274197,1051057
+Tunisia,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/312373540933115,12822908,7112952,6276485,1054666
+Tunisia,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/313281127509023,12829466,7114276,6278773,1058324
+Tunisia,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/313610627476073,12837339,7115467,6280836,1063318
+Tunisia,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/314445824059220,12847352,7116788,6283440,1070023
+Tunisia,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/314833790687090,12858134,7117804,6285618,1078061
+Tunisia,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/315479540622515,12867598,7118728,6287835,1084771
+Tunisia,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/316052390565230,12874885,7119310,6289682,1089820
+Tunisia,2022-02-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/317130933790709,12882887,7120357,6291456,1095468
+Tunisia,2022-02-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/317518233751979,12892198,7121535,6293533,1102115
+Tunisia,2022-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/318739896963146,12904394,7123498,6296725,1110104
+Tunisia,2022-02-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/319630543540748,12910304,7124611,6298535,1113656
+Tunisia,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/320224903481312,12916199,7125702,6300255,1117287
+Tunisia,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/320790360091433,12921507,7126431,6301481,1120869
+Tunisia,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/321169200053549,12926331,7127827,6302847,1123562
+Tunisia,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/322245726612563,12964961,7150957,6321761,1128590
+Tunisia,2022-02-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/322903879880081,12973815,7152362,6324537,1133551
+Tunisia,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/323738966463239,12978485,7153904,6326343,1135472
+Tunisia,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/324054236431712,12985614,7157868,6328989,1137659
+Tunisia,2022-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/324788073024995,12987004,7158590,6329542,1138121
+Tunisia,2022-02-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/325424042961398,12990212,7159239,6330350,1140058
+Tunisia,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/325820606255075,12993306,7160078,6331265,1141682
+Tunisia,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/327515002752302,12998954,7161963,6333248,1144526
+Tunisia,2022-03-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/327907879379681,13002063,7162573,6334308,1146151
+Tunisia,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/328831932620609,13005232,7163290,6335224,1147988
+Tunisia,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/329241559246313,13007862,7163868,6336058,1149500
+Tunisia,2022-03-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/329902879180181,13010053,7164186,6336607,1150919
+Tunisia,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/331120432391759,13014472,7165557,6338109,1153164
+Tunisia,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/331791408991328,13017226,7166473,6338837,1154699
+Tunisia,2022-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/332615545575581,13018888,7167040,6339503,1155398
+Tunisia,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/335215421982260,13025166,7168733,6341665,1158567
+Tunisia,2022-03-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://web.facebook.com/santetunisie.rns.tn/posts/339797681524034?__cft__[0]=AZUiZe_DZCgQaUfW53dSTtXxKD5Vmq3M4OkNzKUMnMjzyKYqwPgH6EV-do3PCuT4TqokRZFYjLLshZ87APo1I0dbZHgTHn-95N8CB7Crpo5q1AShf3f9AQYWATKZCptNluocUhFJ8tKk3Z4cIg3qRVhQ&__tn__=%2CO%2CP-R,13037269,7171789,6345597,1165182
+Tunisia,2022-03-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://web.facebook.com/santetunisie.rns.tn/posts/344588167711652,13049848,7174500,6349274,1172680
+Tunisia,2022-04-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/348766843960451,13058621,7176738,6352181,1177518
+Tunisia,2022-04-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/353389643498171,13062714,7177958,6353688,1179457
+Tunisia,2022-04-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/357990116371457,13073517,7179183,6355154,1181795
+Tunisia,2022-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.facebook.com/santetunisie.rns.tn/posts/362541385916330,13118962,7189498,6366918,1190733

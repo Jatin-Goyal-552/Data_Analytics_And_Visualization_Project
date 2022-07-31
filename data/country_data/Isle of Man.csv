@@ -1,0 +1,265 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Isle of Man,2021-01-21,Pfizer/BioNTech,https://covid19.gov.im/general-information/latest-updates/,3558,,,
+Isle of Man,2021-01-22,Pfizer/BioNTech,https://covid19.gov.im/general-information/latest-updates/,3648,,,
+Isle of Man,2021-01-25,Pfizer/BioNTech,https://covid19.gov.im/general-information/latest-updates/,4209,3897,312,
+Isle of Man,2021-01-26,Pfizer/BioNTech,https://covid19.gov.im/general-information/latest-updates/,4886,4247,639,
+Isle of Man,2021-01-29,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,6859,5829,1030,
+Isle of Man,2021-02-02,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,8302,6883,1419,
+Isle of Man,2021-02-03,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,9563,7387,2176,
+Isle of Man,2021-02-04,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,10213,8030,2183,
+Isle of Man,2021-02-05,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,10224,8041,2183,
+Isle of Man,2021-02-06,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,10852,8669,2183,
+Isle of Man,2021-02-07,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,11247,9063,2184,
+Isle of Man,2021-02-08,Pfizer/BioNTech,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,11654,9466,2188,
+Isle of Man,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,12026,9469,2557,
+Isle of Man,2021-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,12441,9485,2956,
+Isle of Man,2021-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,13497,10170,3327,
+Isle of Man,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,13733,10405,3328,
+Isle of Man,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,14272,10678,3594,
+Isle of Man,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,14806,10949,3857,
+Isle of Man,2021-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,15294,11184,4110,
+Isle of Man,2021-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,17150,12467,4683,
+Isle of Man,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,17180,12468,4712,
+Isle of Man,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,17807,13075,4732,
+Isle of Man,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,18041,13077,4964,
+Isle of Man,2021-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,18323,13122,5201,
+Isle of Man,2021-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,18795,13286,5509,
+Isle of Man,2021-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,19884,13600,6284,
+Isle of Man,2021-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,20831,13883,6948,
+Isle of Man,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,21452,14123,7329,
+Isle of Man,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,21998,14316,7682,
+Isle of Man,2021-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,22785,15084,7701,
+Isle of Man,2021-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,23429,15719,7710,
+Isle of Man,2021-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,23438,15727,7711,
+Isle of Man,2021-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,23883,15792,8091,
+Isle of Man,2021-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,24309,15824,8485,
+Isle of Man,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,24798,15832,8966,
+Isle of Man,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,25086,15833,9253,
+Isle of Man,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,26172,16910,9262,
+Isle of Man,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,27326,18043,9283,
+Isle of Man,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,28431,19138,9293,
+Isle of Man,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,29794,19885,9909,
+Isle of Man,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,31026,19926,11100,
+Isle of Man,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,32027,20690,11337,
+Isle of Man,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,32742,21405,11337,
+Isle of Man,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,33335,21995,11340,
+Isle of Man,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,33336,21996,11340,
+Isle of Man,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.facebook.com/iomgovernment/photos/a.201016003920310/722610151760890,47294,32286,15008,
+Isle of Man,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,49787,34480,15307,
+Isle of Man,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,50426,35115,15311,
+Isle of Man,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,51602,36290,15312,
+Isle of Man,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,52831,37491,15340,
+Isle of Man,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,54075,38727,15348,
+Isle of Man,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,54480,39132,15348,
+Isle of Man,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,54923,39575,15348,
+Isle of Man,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,56040,40692,15348,
+Isle of Man,2021-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,57234,41846,15388,
+Isle of Man,2021-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,58497,43094,15403,
+Isle of Man,2021-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,59758,44343,15415,
+Isle of Man,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,60889,45462,15427,
+Isle of Man,2021-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,61296,45855,15441,
+Isle of Man,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,61699,46245,15454,
+Isle of Man,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,62899,47438,15461,
+Isle of Man,2021-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,63488,48021,15467,
+Isle of Man,2021-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,63674,48205,15469,
+Isle of Man,2021-04-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,64099,48625,15474,
+Isle of Man,2021-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,64481,49004,15477,
+Isle of Man,2021-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,65085,49608,15477,
+Isle of Man,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,65675,50191,15484,
+Isle of Man,2021-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,66414,50923,15491,
+Isle of Man,2021-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,67082,51585,15497,
+Isle of Man,2021-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,67915,52407,15508,
+Isle of Man,2021-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,68442,52864,15578,
+Isle of Man,2021-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,69658,54002,15656,
+Isle of Man,2021-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,70249,54555,15694,
+Isle of Man,2021-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,70810,55110,15700,
+Isle of Man,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,71703,55945,15758,
+Isle of Man,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,72617,56844,15773,
+Isle of Man,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,72626,56849,15777,
+Isle of Man,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,72673,56896,15777,
+Isle of Man,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,73471,57681,15790,
+Isle of Man,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,75013,59217,15796,
+Isle of Man,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,75037,59238,15799,
+Isle of Man,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,75783,59932,15851,
+Isle of Man,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,76403,60512,15891,
+Isle of Man,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,76977,61081,15896,
+Isle of Man,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,78417,61120,17297,
+Isle of Man,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,79300,61145,18155,
+Isle of Man,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,80356,61170,19186,
+Isle of Man,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,81423,61184,20239,
+Isle of Man,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,81855,61195,20660,
+Isle of Man,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,83163,61214,21949,
+Isle of Man,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,83831,61243,22588,
+Isle of Man,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,85971,61271,24700,
+Isle of Man,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,86707,61282,25425,
+Isle of Man,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,87476,61306,26170,
+Isle of Man,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,89077,61312,27765,
+Isle of Man,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,89507,61315,28192,
+Isle of Man,2021-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,89727,61315,28412,
+Isle of Man,2021-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,89784,61317,28467,
+Isle of Man,2021-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,90677,62162,28515,
+Isle of Man,2021-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,90991,62400,28591,
+Isle of Man,2021-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,91896,62407,29489,
+Isle of Man,2021-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,93033,,,
+Isle of Man,2021-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,94630,,,
+Isle of Man,2021-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,95763,62417,33346,
+Isle of Man,2021-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,97379,62418,34961,
+Isle of Man,2021-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,98546,62420,36126,
+Isle of Man,2021-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,99842,62509,37333,
+Isle of Man,2021-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,100971,62522,38449,
+Isle of Man,2021-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,104254,63236,41018,
+Isle of Man,2021-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,104999,63241,41758,
+Isle of Man,2021-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,107331,63245,44086,
+Isle of Man,2021-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,108637,63247,45390,
+Isle of Man,2021-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,109025,63247,45778,
+Isle of Man,2021-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,109354,63249,46105,
+Isle of Man,2021-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,110561,63249,47312,
+Isle of Man,2021-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,111316,63621,47695,
+Isle of Man,2021-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,112086,63984,48102,
+Isle of Man,2021-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,112670,64150,48520,
+Isle of Man,2021-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,113007,64151,48856,
+Isle of Man,2021-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,113598,64151,49447,
+Isle of Man,2021-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,114190,64153,50037,
+Isle of Man,2021-07-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,114938,64160,50778,
+Isle of Man,2021-07-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,115567,64161,51406,
+Isle of Man,2021-07-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,116594,64222,52372,
+Isle of Man,2021-07-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,117677,64400,53277,
+Isle of Man,2021-07-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,118490,64403,54087,
+Isle of Man,2021-07-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,120027,64407,55620,
+Isle of Man,2021-07-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,120042,64408,55634,
+Isle of Man,2021-07-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,121030,64441,56589,
+Isle of Man,2021-07-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,121047,64447,56600,
+Isle of Man,2021-07-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,121819,64629,57190,
+Isle of Man,2021-07-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,122556,64756,57800,
+Isle of Man,2021-07-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,123254,64871,58383,
+Isle of Man,2021-07-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,123420,64872,58548,
+Isle of Man,2021-07-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,123947,64872,59075,
+Isle of Man,2021-08-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,124375,64877,59498,
+Isle of Man,2021-08-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,124807,64944,59863,
+Isle of Man,2021-08-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,125593,65030,60563,
+Isle of Man,2021-08-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,125602,65033,60569,
+Isle of Man,2021-08-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,125632,65034,60598,
+Isle of Man,2021-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,125652,65041,60611,
+Isle of Man,2021-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,125989,,,
+Isle of Man,2021-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,126002,,,
+Isle of Man,2021-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,126781,,,
+Isle of Man,2021-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,126931,65116,61815,
+Isle of Man,2021-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,127589,65118,62471,
+Isle of Man,2021-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,127749,65120,62629,
+Isle of Man,2021-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,127865,65234,62631,
+Isle of Man,2021-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128307,65288,63019,
+Isle of Man,2021-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128384,65296,63088,
+Isle of Man,2021-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128522,65303,63219,
+Isle of Man,2021-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128603,65373,63230,
+Isle of Man,2021-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128702,65424,63278,
+Isle of Man,2021-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,128915,65430,63485,
+Isle of Man,2021-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129296,65457,63839,
+Isle of Man,2021-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129302,65461,63841,
+Isle of Man,2021-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129319,65461,63858,
+Isle of Man,2021-10-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129395,65471,63924,
+Isle of Man,2021-10-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129399,65474,63925,
+Isle of Man,2021-10-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129400,65475,63925,
+Isle of Man,2021-10-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129479,65477,64002,
+Isle of Man,2021-10-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129480,65478,64002,
+Isle of Man,2021-10-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129481,65479,64002,
+Isle of Man,2021-10-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129489,65485,64004,
+Isle of Man,2021-10-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129494,65485,,
+Isle of Man,2021-10-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129495,65488,64007,
+Isle of Man,2021-10-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129510,65495,64015,
+Isle of Man,2021-10-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,129525,65504,64021,
+Isle of Man,2021-10-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,131535,67328,64207,
+Isle of Man,2021-10-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,131628,67353,64275,
+Isle of Man,2021-10-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,131770,67434,64336,
+Isle of Man,2021-10-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132279,67868,64411,
+Isle of Man,2021-10-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132309,67873,64436,
+Isle of Man,2021-11-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132421,,,
+Isle of Man,2021-11-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132426,67894,64532,
+Isle of Man,2021-11-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132518,67902,64616,
+Isle of Man,2021-11-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132858,,64715,
+Isle of Man,2021-11-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132859,68139,64720,
+Isle of Man,2021-11-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132860,,64720,
+Isle of Man,2021-11-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132861,,64720,
+Isle of Man,2021-11-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132864,68142,64722,
+Isle of Man,2021-11-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132925,68180,64745,
+Isle of Man,2021-11-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132973,68207,64766,
+Isle of Man,2021-11-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,132977,68208,64769,
+Isle of Man,2021-11-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133064,68263,64801,
+Isle of Man,2021-11-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133094,68284,64810,
+Isle of Man,2021-11-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133121,68296,64825,
+Isle of Man,2021-11-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133131,68304,64827,
+Isle of Man,2021-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133150,68321,64829,
+Isle of Man,2021-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133167,68335,64832,
+Isle of Man,2021-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133194,68353,64841,
+Isle of Man,2021-12-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133195,68354,64841,
+Isle of Man,2021-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133238,68389,64849,
+Isle of Man,2021-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133260,68400,64860,
+Isle of Man,2021-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133279,68406,64873,
+Isle of Man,2021-12-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133285,68409,64876,
+Isle of Man,2021-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133571,68518,65053,
+Isle of Man,2021-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133572,68519,65053,
+Isle of Man,2021-12-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133576,68522,65054,
+Isle of Man,2021-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133623,68539,65084,
+Isle of Man,2021-12-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,133637,68542,65095,
+Isle of Man,2021-12-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,174888,68596,65223,41069
+Isle of Man,2021-12-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,174890,68597,65224,41069
+Isle of Man,2021-12-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,175259,68606,65239,41414
+Isle of Man,2021-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,175910,68662,65314,41934
+Isle of Man,2021-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,177242,68771,65440,43031
+Isle of Man,2021-12-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,177635,68790,65454,43391
+Isle of Man,2021-12-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,177816,68790,65454,43572
+Isle of Man,2022-01-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,178946,68801,65459,44686
+Isle of Man,2022-01-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,179817,68807,65463,45547
+Isle of Man,2022-01-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,181136,68829,65529,46778
+Isle of Man,2022-01-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,181474,68870,65631,46973
+Isle of Man,2022-01-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,182162,68966,65799,47397
+Isle of Man,2022-01-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,182744,68969,65807,47968
+Isle of Man,2022-01-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,182880,68974,65808,48098
+Isle of Man,2022-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,183063,68978,65808,48277
+Isle of Man,2022-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,183651,69033,65923,48695
+Isle of Man,2022-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,183757,69040,65933,48784
+Isle of Man,2022-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,183915,69052,65936,48927
+Isle of Man,2022-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,184276,69097,66035,49144
+Isle of Man,2022-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,184692,69125,66068,49499
+Isle of Man,2022-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,184781,69141,66075,49565
+Isle of Man,2022-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,184858,69145,66103,49610
+Isle of Man,2022-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185333,69208,66185,49940
+Isle of Man,2022-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185534,69222,66215,50097
+Isle of Man,2022-02-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185660,69237,66240,50183
+Isle of Man,2022-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185725,69237,66248,50240
+Isle of Man,2022-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185831,69249,66275,50307
+Isle of Man,2022-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,185872,69251,66282,50339
+Isle of Man,2022-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186102,69256,66306,50540
+Isle of Man,2022-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186209,69266,66325,50618
+Isle of Man,2022-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186252,69307,66326,50619
+Isle of Man,2022-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186337,69314,66348,50675
+Isle of Man,2022-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186406,69323,66376,50707
+Isle of Man,2022-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186482,69327,66394,50761
+Isle of Man,2022-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186665,69336,66427,50902
+Isle of Man,2022-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186776,69345,66457,50974
+Isle of Man,2022-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186889,69359,66493,51037
+Isle of Man,2022-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,186926,69359,66505,51062
+Isle of Man,2022-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187178,69375,66598,51205
+Isle of Man,2022-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187371,69399,66641,51331
+Isle of Man,2022-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187378,69401,66641,51336
+Isle of Man,2022-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187515,69403,66648,51464
+Isle of Man,2022-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187694,69417,66673,51604
+Isle of Man,2022-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187765,69422,66681,51662
+Isle of Man,2022-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187841,69428,66697,51716
+Isle of Man,2022-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187844,69429,66697,51718
+Isle of Man,2022-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,187981,69430,66706,51845
+Isle of Man,2022-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188151,69438,66726,51987
+Isle of Man,2022-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188338,69443,66747,52148
+Isle of Man,2022-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188492,69449,66775,52268
+Isle of Man,2022-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188657,69466,66816,52375
+Isle of Man,2022-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188708,69470,66829,52409
+Isle of Man,2022-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188760,69470,66836,52454
+Isle of Man,2022-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,188943,69487,66878,52578
+Isle of Man,2022-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189017,69488,66888,52641
+Isle of Man,2022-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189212,69497,66910,52805
+Isle of Man,2022-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189284,69499,66915,52870
+Isle of Man,2022-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189426,69508,66951,52967
+Isle of Man,2022-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189520,69519,66976,53025
+Isle of Man,2022-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189523,69519,66978,53026
+Isle of Man,2022-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189562,69519,66980,53063
+Isle of Man,2022-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189636,69529,67024,53083
+Isle of Man,2022-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.gov.im/general-information/covid-19-vaccination-statistics/,189681,69532,67024,53125

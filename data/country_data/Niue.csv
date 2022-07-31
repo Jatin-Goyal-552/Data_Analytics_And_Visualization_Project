@@ -1,0 +1,7 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Niue,2021-06-21,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,,
+Niue,2021-06-29,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,698,698,0,
+Niue,2021-07-06,Oxford/AstraZeneca,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,1216,1184,32,
+Niue,2021-08-02,Oxford/AstraZeneca,https://covid19.who.int,2352,1202,1150,
+Niue,2021-11-24,Pfizer/BioNTech,https://covid19.who.int/,2628,1340,1288,
+Niue,2022-03-13,Pfizer/BioNTech,https://covid19.who.int/,4161,1650,1417,1094

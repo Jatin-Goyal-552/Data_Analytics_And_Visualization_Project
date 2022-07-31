@@ -1,0 +1,388 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Montenegro,2021-02-20,Sputnik V,https://tass.com/society/1259199,0,0,,
+Montenegro,2021-02-25,Sputnik V,https://www.covidodgovor.me/,1113,1113,,
+Montenegro,2021-02-26,Sputnik V,https://www.covidodgovor.me/,1288,1288,,
+Montenegro,2021-03-01,Sputnik V,https://www.covidodgovor.me/,1531,1531,,
+Montenegro,2021-03-03,Sputnik V,https://www.covidodgovor.me/,1927,1927,,
+Montenegro,2021-03-05,Sputnik V,https://www.covidodgovor.me/,2250,2250,,
+Montenegro,2021-03-06,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,2406,2406,,
+Montenegro,2021-03-08,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,3062,3062,,
+Montenegro,2021-03-12,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,3374,3374,0,
+Montenegro,2021-03-14,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,3793,3793,0,
+Montenegro,2021-03-16,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,5021,5021,0,
+Montenegro,2021-03-17,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,5730,5730,0,
+Montenegro,2021-03-18,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,6085,6085,0,
+Montenegro,2021-03-19,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,6849,6517,332,
+Montenegro,2021-03-20,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,7298,6837,461,
+Montenegro,2021-03-23,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,8669,8074,595,
+Montenegro,2021-03-24,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,10809,9961,848,
+Montenegro,2021-03-25,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,12929,11857,1072,
+Montenegro,2021-03-26,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,14739,13410,1329,
+Montenegro,2021-03-27,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,16451,14850,1601,
+Montenegro,2021-03-28,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,18661,16570,2091,
+Montenegro,2021-03-29,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,20140,17746,2394,
+Montenegro,2021-03-30,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,20373,17906,2467,
+Montenegro,2021-03-31,"Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,22391,19118,3273,
+Montenegro,2021-04-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,23046,19636,3410,
+Montenegro,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,25003,21195,3808,
+Montenegro,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,26972,22947,4025,
+Montenegro,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,29710,25516,4194,
+Montenegro,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,31631,27149,4482,
+Montenegro,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,34335,29601,4734,
+Montenegro,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,36857,31710,5147,
+Montenegro,2021-04-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,38541,33163,5378,
+Montenegro,2021-04-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,39812,34172,5640,
+Montenegro,2021-04-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,41372,35290,6082,
+Montenegro,2021-04-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,42450,35697,6753,
+Montenegro,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,42866,36113,6753,
+Montenegro,2021-04-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,44979,36432,8547,
+Montenegro,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,46917,36690,10227,
+Montenegro,2021-04-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,49293,37199,12094,
+Montenegro,2021-04-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,50809,37519,13290,
+Montenegro,2021-04-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,52390,37909,14481,
+Montenegro,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,54626,38335,16291,
+Montenegro,2021-04-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,55497,38429,17068,
+Montenegro,2021-04-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,56423,38667,17756,
+Montenegro,2021-04-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,57462,38927,18535,
+Montenegro,2021-04-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,58150,39123,19027,
+Montenegro,2021-04-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,58731,39281,19450,
+Montenegro,2021-04-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,59307,39426,19881,
+Montenegro,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,59911,39636,20275,
+Montenegro,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,60044,39715,20329,
+Montenegro,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,60185,39775,20410,
+Montenegro,2021-04-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,60431,39965,20466,
+Montenegro,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,60816,40092,20724,
+Montenegro,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,61745,40156,21589,
+Montenegro,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,63064,40215,22849,
+Montenegro,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,63820,40282,23538,
+Montenegro,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,65517,40843,24674,
+Montenegro,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,85316,57571,27745,
+Montenegro,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,94291,65390,28901,
+Montenegro,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,102853,72824,30029,
+Montenegro,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,109507,78760,30747,
+Montenegro,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,114570,83498,31072,
+Montenegro,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,120795,88965,31830,
+Montenegro,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,125646,93341,32305,
+Montenegro,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,130545,97783,32762,
+Montenegro,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,133626,100544,33082,
+Montenegro,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,137259,103700,33559,
+Montenegro,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,140148,106368,33780,
+Montenegro,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,141808,107881,33927,
+Montenegro,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,145316,110949,34367,
+Montenegro,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,148255,113497,34758,
+Montenegro,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,151522,116481,35041,
+Montenegro,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,154048,118725,35323,
+Montenegro,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,156779,121050,35729,
+Montenegro,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,157592,121783,35809,
+Montenegro,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,160077,123845,36232,
+Montenegro,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,180839,127177,53662,
+Montenegro,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,191178,129071,62107,
+Montenegro,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,200228,130696,69532,
+Montenegro,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,206544,131761,74783,
+Montenegro,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,210720,132480,78240,
+Montenegro,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,218306,133828,84478,
+Montenegro,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,223627,135025,88602,
+Montenegro,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,229803,136588,93215,
+Montenegro,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,234278,138052,96226,
+Montenegro,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,238874,139333,99541,
+Montenegro,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,242070,140068,102002,
+Montenegro,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,244138,140543,103595,
+Montenegro,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,248522,141574,106948,
+Montenegro,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,252253,142558,109695,
+Montenegro,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,256046,143375,112671,
+Montenegro,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,259428,144223,115205,
+Montenegro,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,261294,144685,116609,
+Montenegro,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,263433,145130,118303,
+Montenegro,2021-06-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,265964,145636,120328,
+Montenegro,2021-06-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,270237,146964,123273,
+Montenegro,2021-06-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,272636,147499,125137,
+Montenegro,2021-06-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,274514,147875,126639,
+Montenegro,2021-06-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,275658,147995,127663,
+Montenegro,2021-06-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,276374,148079,128295,
+Montenegro,2021-06-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,278146,148346,129800,
+Montenegro,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,279639,148571,131068,
+Montenegro,2021-06-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,281741,149220,132521,
+Montenegro,2021-06-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,285056,149912,135144,
+Montenegro,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,285858,149994,135864,
+Montenegro,2021-06-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,286327,150031,136296,
+Montenegro,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,287653,150319,137334,
+Montenegro,2021-06-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,288860,150545,138315,
+Montenegro,2021-07-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,290246,151082,139164,
+Montenegro,2021-07-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,291621,151655,139966,
+Montenegro,2021-07-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,292815,152306,140509,
+Montenegro,2021-07-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,293834,152975,140859,
+Montenegro,2021-07-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,294306,153343,140963,
+Montenegro,2021-07-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,296156,154530,141626,
+Montenegro,2021-07-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,297632,155477,142155,
+Montenegro,2021-07-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,299372,156459,142913,
+Montenegro,2021-07-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,300611,157177,143434,
+Montenegro,2021-07-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,301828,157971,143857,
+Montenegro,2021-07-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,302321,158357,143964,
+Montenegro,2021-07-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,302534,158511,144023,
+Montenegro,2021-07-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,303615,159297,144318,
+Montenegro,2021-07-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,303963,159478,144485,
+Montenegro,2021-07-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,304655,159701,144954,
+Montenegro,2021-07-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,305775,160299,145476,
+Montenegro,2021-07-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,307140,161258,145882,
+Montenegro,2021-07-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,307700,161728,145972,
+Montenegro,2021-07-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,307939,161910,146029,
+Montenegro,2021-07-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,310395,163791,146604,
+Montenegro,2021-07-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,312206,165022,147184,
+Montenegro,2021-07-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,313854,166048,147806,
+Montenegro,2021-07-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,315653,167235,148418,
+Montenegro,2021-07-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,317045,168043,149002,
+Montenegro,2021-07-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,317710,168455,149255,
+Montenegro,2021-07-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,320335,169919,150416,
+Montenegro,2021-07-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,322759,171423,151336,
+Montenegro,2021-07-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,325394,173101,152293,
+Montenegro,2021-07-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,327600,174571,153029,
+Montenegro,2021-07-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,329968,176140,153828,
+Montenegro,2021-08-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,332022,177757,154265,
+Montenegro,2021-08-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,333015,178577,154438,
+Montenegro,2021-08-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,335862,180472,155390,
+Montenegro,2021-08-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,337934,182108,155826,
+Montenegro,2021-08-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,340485,184259,156226,
+Montenegro,2021-08-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,342913,186086,156827,
+Montenegro,2021-08-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,345307,187553,157754,
+Montenegro,2021-08-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,346493,188359,158134,
+Montenegro,2021-08-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,347255,188921,158334,
+Montenegro,2021-08-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,349403,190090,159313,
+Montenegro,2021-08-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,351202,191020,160182,
+Montenegro,2021-08-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,353648,192296,161352,
+Montenegro,2021-08-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,355963,193657,162306,
+Montenegro,2021-08-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,358224,194784,163440,
+Montenegro,2021-08-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,359341,195231,164110,
+Montenegro,2021-08-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,360080,195542,164538,
+Montenegro,2021-08-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,362335,196475,165860,
+Montenegro,2021-08-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,364762,197605,167157,
+Montenegro,2021-08-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,367434,198891,168543,
+Montenegro,2021-08-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,370265,200404,169861,
+Montenegro,2021-08-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,372949,201841,171108,
+Montenegro,2021-08-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,374674,202515,172159,
+Montenegro,2021-08-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,375542,202810,172732,
+Montenegro,2021-08-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,378338,203906,174432,
+Montenegro,2021-08-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,380803,204906,175897,
+Montenegro,2021-08-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,383776,206126,177650,
+Montenegro,2021-08-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,387081,207657,179424,
+Montenegro,2021-08-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,389828,208847,180981,
+Montenegro,2021-08-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,391359,209434,181925,
+Montenegro,2021-08-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,392235,209792,182443,
+Montenegro,2021-08-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,394420,210591,183829,
+Montenegro,2021-09-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,396383,211397,184986,
+Montenegro,2021-09-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,398819,212520,186299,
+Montenegro,2021-09-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,401157,213624,187533,
+Montenegro,2021-09-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,403546,214822,188724,
+Montenegro,2021-09-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,404320,215121,189199,
+Montenegro,2021-09-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,404847,215264,189583,
+Montenegro,2021-09-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,406561,215858,190703,
+Montenegro,2021-09-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,408060,216464,191596,
+Montenegro,2021-09-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,410238,217401,192837,
+Montenegro,2021-09-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,412814,218493,194321,
+Montenegro,2021-09-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,415776,220066,195710,
+Montenegro,2021-09-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,417419,221080,196339,
+Montenegro,2021-09-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,418150,221498,196652,
+Montenegro,2021-09-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,421231,223265,197966,
+Montenegro,2021-09-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,423768,224708,199060,
+Montenegro,2021-09-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,426662,226457,200205,
+Montenegro,2021-09-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,432167,229399,202768,
+Montenegro,2021-09-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,433269,229932,203337,
+Montenegro,2021-09-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,433867,230187,203680,
+Montenegro,2021-09-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,436177,231526,204651,
+Montenegro,2021-09-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,440083,233663,206420,
+Montenegro,2021-09-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,442333,234862,207471,
+Montenegro,2021-09-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,445238,236626,208612,
+Montenegro,2021-09-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,446806,237797,209009,
+Montenegro,2021-09-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,447473,238307,209166,
+Montenegro,2021-09-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,450451,240355,210096,
+Montenegro,2021-09-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,452830,241982,210848,
+Montenegro,2021-09-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,455035,243234,211801,
+Montenegro,2021-10-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,457474,244542,212932,
+Montenegro,2021-10-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,460029,245622,214407,
+Montenegro,2021-10-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,461140,246061,215079,
+Montenegro,2021-10-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,461865,246366,215499,
+Montenegro,2021-10-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,464087,247176,216911,
+Montenegro,2021-10-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,468367,248628,219739,
+Montenegro,2021-10-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,470700,249454,221246,
+Montenegro,2021-10-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,472623,250063,222560,
+Montenegro,2021-10-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,473328,250322,223006,
+Montenegro,2021-10-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,475813,250947,224866,
+Montenegro,2021-10-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,477395,251376,226019,
+Montenegro,2021-10-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,478974,251782,227192,
+Montenegro,2021-10-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,480822,252330,228492,
+Montenegro,2021-10-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,483790,252969,230821,
+Montenegro,2021-10-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,484414,253068,231346,
+Montenegro,2021-10-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,486669,253486,233183,
+Montenegro,2021-10-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,488661,253936,234725,
+Montenegro,2021-10-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,490274,254348,235926,
+Montenegro,2021-10-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,491945,254830,237115,
+Montenegro,2021-10-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,493462,255222,238240,
+Montenegro,2021-10-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,494110,255443,238667,
+Montenegro,2021-10-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,494462,255509,238953,
+Montenegro,2021-10-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,495875,255869,240006,
+Montenegro,2021-10-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,496976,256172,240804,
+Montenegro,2021-10-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,497996,256514,241482,
+Montenegro,2021-10-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,499177,256832,242345,
+Montenegro,2021-10-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,500338,257269,243069,
+Montenegro,2021-10-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,500759,257443,243316,
+Montenegro,2021-11-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,500956,257518,243438,
+Montenegro,2021-11-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,501951,257973,243978,
+Montenegro,2021-11-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,502791,258337,244454,
+Montenegro,2021-11-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,504639,259161,245478,
+Montenegro,2021-11-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,505805,259813,245992,
+Montenegro,2021-11-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,506599,260374,246225,
+Montenegro,2021-11-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,507082,260725,246357,
+Montenegro,2021-11-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,508470,261599,246871,
+Montenegro,2021-11-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,509773,262443,247330,
+Montenegro,2021-11-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,511014,263272,247742,
+Montenegro,2021-11-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,512394,264068,248326,
+Montenegro,2021-11-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,513753,264937,248816,
+Montenegro,2021-11-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,514577,265500,249077,
+Montenegro,2021-11-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,514955,265777,249178,
+Montenegro,2021-11-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,516295,266635,249660,
+Montenegro,2021-11-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,518578,268105,250473,
+Montenegro,2021-11-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,520761,269436,251325,
+Montenegro,2021-11-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,522754,270606,252148,
+Montenegro,2021-11-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,523689,271131,252558,
+Montenegro,2021-11-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,524233,271675,252558,
+Montenegro,2021-11-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,525661,272240,253421,
+Montenegro,2021-11-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,527034,272965,254069,
+Montenegro,2021-11-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,528111,273517,254594,
+Montenegro,2021-11-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,528629,273720,254909,
+Montenegro,2021-11-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,530279,274494,255785,
+Montenegro,2021-12-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,531669,275113,256556,
+Montenegro,2021-12-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,532923,275639,257284,
+Montenegro,2021-12-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,534238,276240,257998,
+Montenegro,2021-12-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,535757,276861,258896,
+Montenegro,2021-12-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,536689,277220,259469,
+Montenegro,2021-12-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,537064,277326,259738,
+Montenegro,2021-12-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,538613,277934,260679,
+Montenegro,2021-12-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,539799,278394,261405,
+Montenegro,2021-12-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,540909,278846,262063,
+Montenegro,2021-12-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,541997,279249,262748,
+Montenegro,2021-12-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,543011,279631,263380,
+Montenegro,2021-12-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,543569,279793,263776,
+Montenegro,2021-12-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,543835,279873,263962,
+Montenegro,2021-12-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,544755,280159,264596,
+Montenegro,2021-12-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,545581,280454,265127,
+Montenegro,2021-12-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,546349,280689,265660,
+Montenegro,2021-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,547246,280970,266276,
+Montenegro,2021-12-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,548154,281270,266884,
+Montenegro,2021-12-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,548751,281421,267330,
+Montenegro,2021-12-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,548933,281453,267480,
+Montenegro,2021-12-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,549879,281749,268130,
+Montenegro,2021-12-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,619690,281968,268739,68983
+Montenegro,2021-12-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,621412,282182,269286,69944
+Montenegro,2021-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,623102,282405,269830,70867
+Montenegro,2021-12-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,625024,282650,270409,71965
+Montenegro,2021-12-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,626372,282844,270802,72726
+Montenegro,2021-12-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,628821,283166,271471,74184
+Montenegro,2021-12-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,630634,283356,271926,75352
+Montenegro,2021-12-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,632636,283588,272385,76663
+Montenegro,2021-12-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,634517,283884,272853,77780
+Montenegro,2022-01-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,635579,284030,273120,78429
+Montenegro,2022-01-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,635683,284051,273143,78489
+Montenegro,2022-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,636092,284098,273250,78744
+Montenegro,2022-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,637675,284367,273633,79675
+Montenegro,2022-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,639038,284572,273910,80556
+Montenegro,2022-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,639572,284651,274046,80875
+Montenegro,2022-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,639741,284689,274097,80955
+Montenegro,2022-01-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,640239,284747,274227,81265
+Montenegro,2022-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,642471,285152,274906,82413
+Montenegro,2022-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,643518,285288,275142,83088
+Montenegro,2022-01-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,644531,285429,275404,83698
+Montenegro,2022-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,645584,285593,275641,84350
+Montenegro,2022-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,646083,285651,275774,84658
+Montenegro,2022-01-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,646213,285668,275798,84747
+Montenegro,2022-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,647182,285826,276071,85285
+Montenegro,2022-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,647992,285984,276251,85757
+Montenegro,2022-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,648757,286103,276444,86210
+Montenegro,2022-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,649450,286209,276639,86602
+Montenegro,2022-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,650161,286305,276817,87039
+Montenegro,2022-01-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,650502,286349,276883,87270
+Montenegro,2022-01-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,651205,286480,277012,87713
+Montenegro,2022-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,652477,286697,277387,88393
+Montenegro,2022-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,653071,286815,277525,88731
+Montenegro,2022-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,653927,286965,277700,89262
+Montenegro,2022-01-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,654000,286972,277718,89310
+Montenegro,2022-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,654621,287071,277895,89655
+Montenegro,2022-02-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,655517,287254,278147,90116
+Montenegro,2022-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,656064,287334,278299,90431
+Montenegro,2022-02-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,656661,287418,278442,90801
+Montenegro,2022-02-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,656948,287465,278502,90981
+Montenegro,2022-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,657035,287476,278519,91040
+Montenegro,2022-02-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,657607,287566,278670,91371
+Montenegro,2022-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,657988,287624,278777,91587
+Montenegro,2022-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,658420,287699,278902,91819
+Montenegro,2022-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,658884,287778,279019,92087
+Montenegro,2022-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,659297,287842,279101,92354
+Montenegro,2022-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,659519,287879,279147,92493
+Montenegro,2022-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,659619,287893,279170,92556
+Montenegro,2022-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,660059,287972,279271,92816
+Montenegro,2022-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,660405,288037,279354,93014
+Montenegro,2022-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,660743,288086,279439,93218
+Montenegro,2022-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,661520,288242,279655,93623
+Montenegro,2022-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,661689,288269,279688,93732
+Montenegro,2022-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,661733,288273,279695,93765
+Montenegro,2022-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,662092,288340,279788,93964
+Montenegro,2022-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,662356,288386,279861,94109
+Montenegro,2022-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,662665,288443,279939,94283
+Montenegro,2022-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,662935,288492,280017,94426
+Montenegro,2022-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,663177,288535,280081,94561
+Montenegro,2022-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,663295,288547,280110,94638
+Montenegro,2022-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,663335,288551,280116,94668
+Montenegro,2022-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,663653,288602,280203,94848
+Montenegro,2022-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,663918,288664,280281,94973
+Montenegro,2022-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,664152,288709,280343,95100
+Montenegro,2022-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,664436,288779,280419,95238
+Montenegro,2022-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,664676,288838,280487,95351
+Montenegro,2022-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,664761,288854,280507,95400
+Montenegro,2022-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,664795,288859,280519,95417
+Montenegro,2022-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665061,288923,280596,95542
+Montenegro,2022-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665247,288958,280668,95621
+Montenegro,2022-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665432,288998,280723,95711
+Montenegro,2022-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665798,289076,280847,95875
+Montenegro,2022-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665962,289124,280901,95937
+Montenegro,2022-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,665970,289125,280906,95939
+Montenegro,2022-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666203,289186,280975,96042
+Montenegro,2022-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666356,289221,281011,96124
+Montenegro,2022-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666526,289252,281058,96216
+Montenegro,2022-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666864,289335,281166,96363
+Montenegro,2022-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666958,289362,281190,96406
+Montenegro,2022-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,666973,289367,281194,96412
+Montenegro,2022-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,667161,289417,281248,96496
+Montenegro,2022-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,667315,289447,281294,96574
+Montenegro,2022-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,667509,289496,281349,96664
+Montenegro,2022-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,667673,289530,281399,96744
+Montenegro,2022-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,667880,289587,281463,96830
+Montenegro,2022-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668009,289637,281506,96866
+Montenegro,2022-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668025,289643,281511,96871
+Montenegro,2022-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668206,289687,281571,96948
+Montenegro,2022-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668404,289731,281627,97046
+Montenegro,2022-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668536,289760,281667,97109
+Montenegro,2022-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,668650,289792,281707,97151
+Montenegro,2022-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669027,289900,281818,97309
+Montenegro,2022-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669204,289942,281865,97397
+Montenegro,2022-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669348,289976,281903,97469
+Montenegro,2022-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669505,290013,281938,97554
+Montenegro,2022-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669648,290044,281977,97627
+Montenegro,2022-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669844,290103,282029,97712
+Montenegro,2022-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669929,290137,282046,97746
+Montenegro,2022-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,669937,290138,282050,97749
+Montenegro,2022-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670058,290171,282083,97804
+Montenegro,2022-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670331,290227,282182,97922
+Montenegro,2022-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670449,290245,282214,97990
+Montenegro,2022-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670739,290329,282306,98104
+Montenegro,2022-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670864,290364,282344,98156
+Montenegro,2022-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,670960,290387,282376,98197
+Montenegro,2022-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671080,290416,282409,98255
+Montenegro,2022-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671191,290438,282438,98315
+Montenegro,2022-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671238,290442,282460,98336
+Montenegro,2022-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671242,290443,282463,98336
+Montenegro,2022-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671261,290446,282471,98344
+Montenegro,2022-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671465,290497,282534,98434
+Montenegro,2022-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671602,290536,282572,98494
+Montenegro,2022-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671712,290570,282603,98539
+Montenegro,2022-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671868,290610,282651,98607
+Montenegro,2022-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671916,290617,282666,98633
+Montenegro,2022-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671920,290618,282667,98635
+Montenegro,2022-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://www.covidodgovor.me/,671926,290620,282670,98636

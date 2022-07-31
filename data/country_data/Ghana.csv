@@ -1,0 +1,41 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Ghana,2021-03-01,Oxford/AstraZeneca,https://www.africanews.com/2021/03/03/skepticism-as-ghana-begins-mass-covid-19-vaccination-drive/,0,0,,
+Ghana,2021-03-08,Oxford/AstraZeneca,https://twitter.com/tv3_ghana/status/1369195860102373381,202252,202252,,
+Ghana,2021-03-10,Oxford/AstraZeneca,https://yen.com.gh/183605-government-sanction-refusing-covid-19-vaccine-oppong-nkrumah.html,300000,300000,,
+Ghana,2021-03-18,Oxford/AstraZeneca,https://reliefweb.int/report/world/africa-s-covid-19-vaccination-gains-pace-nearly-7-million-doses-given,420000,420000,,
+Ghana,2021-03-24,Oxford/AstraZeneca,https://twitter.com/utvghana/status/1374700183347470342,500000,500000,,
+Ghana,2021-04-07,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,599128,599128,0,
+Ghana,2021-04-08,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,647380,647380,0,
+Ghana,2021-04-09,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,681211,681211,0,
+Ghana,2021-04-11,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,703752,703752,0,
+Ghana,2021-04-12,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,742349,742349,0,
+Ghana,2021-04-15,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,755686,755686,0,
+Ghana,2021-04-20,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,842521,842521,0,
+Ghana,2021-04-26,Oxford/AstraZeneca,https://www.ghanahealthservice.org/covid19/press-releases.php,846588,846588,0,
+Ghana,2021-05-24,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,847871,847871,0,
+Ghana,2021-05-31,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1228216,852047,376169,
+Ghana,2021-06-20,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1232876,852047,380829,
+Ghana,2021-07-05,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1261677,864918,396759,
+Ghana,2021-07-12,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1265306,864964,400342,
+Ghana,2021-07-19,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1271393,865422,405971,
+Ghana,2021-09-20,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,1623582,865422,758160,
+Ghana,2021-10-07,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,2189552,1369515,820037,
+Ghana,2021-10-21,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,2727537,1901831,825706,
+Ghana,2021-10-28,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,2979766,2149123,830643,
+Ghana,2021-11-04,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,3102396,2269003,833393,
+Ghana,2021-11-05,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,3162666,2328335,834331,
+Ghana,2021-11-10,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,3188114,2352125,835989,
+Ghana,2021-11-18,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,3367531,2527761,839770,
+Ghana,2021-11-24,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,3493688,2651463,842225,
+Ghana,2021-12-15,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,4216970,2651463,1565507,
+Ghana,2021-12-23,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,7755231,5774413,2334010,
+Ghana,2022-01-13,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,9004225,6085629,2918596,
+Ghana,2022-01-17,"Oxford/AstraZeneca, Sputnik V",https://allafrica.com/stories/202201210209.html,10015888,6877682,3138206,
+Ghana,2022-02-10,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,12043575,7473144,4570431,
+Ghana,2022-02-17,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,,,,100169
+Ghana,2022-02-25,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,12637542,8793591,4867214,
+Ghana,2022-03-20,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,13026180,8991580,5050369,119019
+Ghana,2022-03-29,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,13047826,8999937,5070306,158605
+Ghana,2022-03-31,"Oxford/AstraZeneca, Sputnik V",https://africacdc.org/covid-19-vaccination/,,8999937,5070306,158605
+Ghana,2022-04-26,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,13047826,9274857,5532611,230419
+Ghana,2022-05-01,"Oxford/AstraZeneca, Sputnik V",https://covid19.who.int/,13047826,9491108,5807263,360201

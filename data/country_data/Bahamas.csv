@@ -1,0 +1,55 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Bahamas,2021-03-13,Oxford/AstraZeneca,https://ewnews.com/first-jab-nurse-bastian-becomes-first-bahamian-vaccinated-against-covid-19,0,0,0,
+Bahamas,2021-03-14,Oxford/AstraZeneca,https://ewnews.com/its-not-a-competition-focus-should-remain-on-getting-vaccine-program-right-says-chamber-of-commerce,110,100,0,
+Bahamas,2021-03-21,Oxford/AstraZeneca,https://opm.gov.bs/new-covid-19-vaccination-sites-to-open-this-week-on-new-providence-and-grand-bahama/,1500,1500,0,
+Bahamas,2021-03-28,Oxford/AstraZeneca,https://opm.gov.bs/statement-from-the-national-covid-19-vaccine-consultative-committee/,7000,7000,0,
+Bahamas,2021-04-07,Oxford/AstraZeneca,https://opm.gov.bs/more-priority-groups-and-vaccination-centers-added-to-covid-19-vaccine-roll-out/,10000,10000,0,
+Bahamas,2021-04-11,Oxford/AstraZeneca,https://opm.gov.bs/covid-19-vaccine-opened-to-persons-50-years-and-over-persons-with-disabilities-restaurant-and-retail-workers/,15000,15000,0,
+Bahamas,2021-04-20,Oxford/AstraZeneca,https://opm.gov.bs/remarks-national-covid-19-vaccine-consultative-committee-update/,21907,21907,0,
+Bahamas,2021-04-27,Oxford/AstraZeneca,https://opm.gov.bs/covid-19-vaccinations-now-open-to-18-and-older/,25692,25692,0,
+Bahamas,2021-05-09,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/pcb.809920193063293/809919689730010,36000,36000,0,
+Bahamas,2021-05-21,Oxford/AstraZeneca,https://www.facebook.com/opmbs/posts/817591312296181,50242,44226,6016,
+Bahamas,2021-05-29,Oxford/AstraZeneca,https://twitter.com/opmthebahamas/status/1399152380789329922,55037,46378,8659,
+Bahamas,2021-06-05,Oxford/AstraZeneca,https://www.facebook.com/opmbs/posts/825041384884507,62183,48434,13749,
+Bahamas,2021-06-11,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/829026441152668/,68119,50292,17827,
+Bahamas,2021-06-19,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/832605630794749/,79246,54199,25047,
+Bahamas,2021-06-26,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/836795277042451/,91067,58122,32945,
+Bahamas,2021-07-02,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/pcb.840725729982739/840725589982753/,95992,59731,36261,
+Bahamas,2021-07-10,Oxford/AstraZeneca,https://www.facebook.com/opmbs/posts/845751822813463,97992,60303,37689,
+Bahamas,2021-07-17,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.345763129479004/849088879146424/,99755,60389,39366,
+Bahamas,2021-07-24,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/853340858721226/,103164,60578,43943,
+Bahamas,2021-07-30,Oxford/AstraZeneca,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,104521,60578,43943,
+Bahamas,2021-07-31,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/857430651645580/,106898,61803,46793,
+Bahamas,2021-08-06,Oxford/AstraZeneca,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,108596,61803,46793,
+Bahamas,2021-08-09,Oxford/AstraZeneca,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,110443,62863,47580,
+Bahamas,2021-08-20,Oxford/AstraZeneca,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,119473,68323,51150,0
+Bahamas,2021-08-22,Oxford/AstraZeneca,https://www.facebook.com/opmbs/posts/869957510392894,129017,73726,55291,0
+Bahamas,2021-08-28,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/874021519986493/,146738,91967,57593,0
+Bahamas,2021-09-04,Oxford/AstraZeneca,https://www.facebook.com/opmbs/posts/878180649570580,161613,105753,59002,0
+Bahamas,2021-09-10,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/882364979152147/,173130,,65915,0
+Bahamas,2021-09-18,Oxford/AstraZeneca,https://www.facebook.com/opmbs/photos/a.138602006861785/882364979152147/,184431,,,0
+Bahamas,2021-09-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,184461,114333,70128,0
+Bahamas,2021-10-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,207784,124207,88265,0
+Bahamas,2021-10-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,224531,129121,100098,0
+Bahamas,2021-10-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,238432,,110710,0
+Bahamas,2021-10-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,244223,,114612,0
+Bahamas,2021-10-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,255085,132240,122845,0
+Bahamas,2021-11-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,263795,143726,128242,0
+Bahamas,2021-11-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,274502,149231,134481,0
+Bahamas,2021-11-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,280176,151709,138266,0
+Bahamas,2021-12-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,288008,154135,143672,0
+Bahamas,2021-12-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,293226,,145793,0
+Bahamas,2021-12-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,293443,155709,,0
+Bahamas,2021-12-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,300214,157041,147365,6954
+Bahamas,2022-01-05,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,308249,158120,149393,11882
+Bahamas,2022-01-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,312840,158965,150372,14649
+Bahamas,2022-01-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,318916,160505,151520,18037
+Bahamas,2022-02-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,323346,161646,152860,19986
+Bahamas,2022-02-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,325698,162601,153291,21238
+Bahamas,2022-02-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,327515,163061,153878,22009
+Bahamas,2022-03-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,331157,164099,155124,23368
+Bahamas,2022-03-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,332549,164526,155555,23902
+Bahamas,2022-03-25,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,334155,164961,156089,24540
+Bahamas,2022-03-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,335729,165385,156615,25164
+Bahamas,2022-04-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,339546,166236,157550,27195
+Bahamas,2022-04-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,340866,166471,157964,27866
